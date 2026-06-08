@@ -31,6 +31,10 @@ python scripts/fetch_papers.py --date 2026-06-08
 
 工作流会在北京时间工作日 14:30 自动运行，也可在 Actions 页面手动触发。
 
+## GitHub Pages
+
+首次部署前，请在仓库 `Settings -> Pages` 中将 Source 设置为 `GitHub Actions`。仓库未启用 Pages 时，`Deploy Daily-Agent-Time-Series-Paper Pages` 工作流的构建步骤可以通过，但 deploy/configure-pages 步骤会失败。
+
 ## 输出结构
 
 ```text
