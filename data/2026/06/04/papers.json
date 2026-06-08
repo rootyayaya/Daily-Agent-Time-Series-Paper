@@ -1,0 +1,39 @@
+[
+  {
+    "arxiv_id": "2606.06261",
+    "version": 1,
+    "title": "DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN",
+    "authors": [
+      "Francesco Spinelli",
+      "Esteban Municio",
+      "Pau Baguer",
+      "Gines Garcia-Aviles",
+      "Xavier Costa-Perez"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.NI",
+      "cs.AI",
+      "cs.ET",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06261",
+    "pdf_url": "https://arxiv.org/pdf/2606.06261v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "Agentic Time Series",
+      "多模态时间序列异常检测",
+      "VLM-LLM 管道",
+      "零样本故障诊断",
+      "O-RAN 安全",
+      "跨接口异常检测",
+      "自然语言报告生成",
+      "多智能体框架",
+      "可解释诊断链",
+      "领域知识注入"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/04/dast-a-vlm-llm-framework-for-cross-interface-anomaly-detection-in-o-ran.md"
+  }
+]
