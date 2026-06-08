@@ -1,0 +1,12 @@
+[project]
+name = "daily-agent-time-series-paper"
+version = "0.1.0"
+description = "Daily arXiv agentic time-series paper pipeline with LLM scoring"
+requires-python = ">=3.11"
+dependencies = [
+    "pyyaml>=6.0",
+    "arxiv>=2.1.0",
+    "arxiv-to-prompt>=0.11.0",
+    "pymupdf>=1.24.0",
+    "python-dotenv>=1.0.0",
+]

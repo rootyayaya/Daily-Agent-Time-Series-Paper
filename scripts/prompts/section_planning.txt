@@ -1,0 +1,32 @@
+你需要为一篇论文的 Q&A 深度解读做章节规划：根据论文目录，为每个问题选择最相关的 section。
+
+需要回答的 6 个问题:
+Q1. 这篇论文试图解决什么问题？
+Q2. 有哪些相关研究？
+Q3. 论文如何解决这个问题？
+Q4. 论文做了哪些实验？
+Q5. 有什么可以进一步探索的点？
+Q6. 总结一下论文的主要内容
+
+规则:
+- 目录以 markdown heading 格式给出: # 表示 section，## 表示 subsection，每个章节后附有内容预览
+- 参考 section 和 subsection 的预览来理解每个 section 的具体内容
+- 只返回 section 级别（#）的名称，不要返回 subsection（##）的名称
+- 章节名必须与目录中 # 后面的名称完全一致
+- 如果摘要已足够回答某个问题，返回空列表
+
+输出要求 — 只输出 JSON（不要用 markdown code block 包裹）:
+{{
+  "Q1": ["section名"],
+  "Q2": ["section名"],
+  "Q3": ["section名"],
+  "Q4": ["section名"],
+  "Q5": ["section名"],
+  "Q6": ["section名"]
+}}
+
+标题: {title}
+摘要: {summary}
+
+论文章节目录:
+{sections_list}

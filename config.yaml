@@ -1,0 +1,145 @@
+# Daily Agentic Time Series Papers configuration
+
+# ============================================================
+# arXiv search configuration
+# ============================================================
+
+# Broad arXiv API search keywords. Keep this first-pass search anchored
+# in time-series and industrial-signal language; generic Agent/RAG/LLM
+# terms are handled by the second-pass filter and LLM scorer to control
+# daily API and token cost.
+search_keywords:
+  - "time series"
+  - "time-series"
+  - "temporal"
+  - "forecasting"
+  - "anomaly detection"
+  - "fault diagnosis"
+  - "industrial"
+  - "predictive maintenance"
+  - "sensor"
+  - "multivariate"
+  - "explainable"
+  - "interpretability"
+  - "TimeSeries2Report"
+  - "semantic description"
+  - "report generation"
+
+# arXiv categories relevant to time-series modeling, AI agents, and
+# industrial/engineering signal applications.
+categories:
+  - "cs.AI"
+  - "cs.CL"
+  - "cs.LG"
+  - "cs.MA"
+  - "cs.IR"
+  - "stat.ML"
+  - "eess.SP"
+  - "eess.SY"
+
+# Second-pass keyword filter. A paper must mention at least one term in
+# title or abstract. Keep these focused on your research agenda:
+# agentic time series, semantic reports, explainable diagnosis, RAG,
+# tool-using workflows, and self-evolving skills.
+filter_keywords:
+  - "time series"
+  - "time-series"
+  - "temporal"
+  - "forecast"
+  - "forecasting"
+  - "anomaly"
+  - "fault diagnosis"
+  - "predictive maintenance"
+  - "industrial"
+  - "sensor"
+  - "multivariate"
+  - "explainable"
+  - "interpretability"
+  - "caption"
+  - "report generation"
+  - "TimeSeries2Report"
+  - "semantic"
+  - "agent"
+  - "agentic"
+  - "multi-agent"
+  - "tool use"
+  - "tool calling"
+  - "RAG"
+  - "retrieval augmented"
+  - "memory"
+  - "skill"
+  - "self-evolving"
+  - "self-improve"
+  - "workflow"
+  - "reasoning"
+
+# Ranking boost terms used before LLM scoring.
+boost_keywords:
+  - "agentic time series"
+  - "time series agent"
+  - "TimeSeries2Report"
+  - "time series report"
+  - "time series caption"
+  - "fault diagnosis"
+  - "industrial time series"
+  - "explainable"
+  - "interpretability"
+  - "RAG"
+  - "tool use"
+  - "tool calling"
+  - "Skill-MoE"
+  - "self-evolving"
+  - "multi-agent"
+  - "reasoning"
+  - "anomaly detection"
+  - "predictive maintenance"
+
+max_results: 300
+
+updates:
+  fetch_updates: false
+  max_results_updates: 500
+  min_published_date: "2023-01-01"
+
+concurrency: 2
+
+# ============================================================
+# LLM configuration
+# ============================================================
+llm:
+  temperature: 0.4
+  max_tokens_single_qa: 2000
+  max_tokens_with_content: 5000
+  max_tokens_abstract_only: 3000
+  min_relevance_score: 7.0
+
+# ============================================================
+# Paper content retrieval
+# ============================================================
+paper_content:
+  max_content_length: 50000
+  max_section_chars: 15000
+  section_preview_chars: 256
+  latex:
+    keep_comments: false
+    remove_appendix_section: true
+    use_cache: true
+
+# ============================================================
+# Network configuration
+# ============================================================
+network:
+  user_agent: "Daily-Agent-Time-Series-Paper/1.0"
+  arxiv_request_delay: 7.0
+  arxiv_retries: 4
+  request_timeout: 90
+
+# ============================================================
+# Output configuration
+# ============================================================
+output:
+  slug_max_length: 80
+  max_authors_frontmatter: 20
+  max_authors_json: 5
+  max_tags_readme: 5
+  summary_truncate_length: 1024

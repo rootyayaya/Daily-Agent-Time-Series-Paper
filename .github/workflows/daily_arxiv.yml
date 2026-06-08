@@ -1,0 +1,67 @@
+name: Daily Arxiv Agentic Time Series Papers
+
+on:
+  schedule:
+    # UTC 06:30 周一至周五 = 北京时间 14:30
+    # 与 arxiv 发布时间表对齐：
+    #   周一: 抓取周四+周五投稿（周日 ET 发布，API 周一可查）
+    #   周二: 抓取周六~周一投稿（周一 ET 发布，含周末积压）
+    #   周三~周五: 抓取前一天投稿
+    - cron: '30 6 * * 1-5'
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: write
+  actions: write
+
+env:
+  PROJECT_REPOSITORY_NAME: Daily-Agent-Time-Series-Paper
+
+jobs:
+  fetch-papers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and process papers
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python scripts/fetch_papers.py
+
+      - name: Commit and push changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            echo "pushed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Daily update: $(date -u '+%Y-%m-%d') agentic time series papers"
+            git push
+            echo "pushed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger deploy
+        if: steps.commit.outputs.pushed == 'true'
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ github.token }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/deploy_pages.yml/dispatches \
+            -d '{"ref":"main"}'

@@ -1,0 +1,4 @@
+
+以下是{source_label}，请充分利用其中的方法细节、实验结果和核心创新点:
+
+{full_content}
