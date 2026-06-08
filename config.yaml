@@ -111,7 +111,9 @@ llm:
   max_tokens_single_qa: 2000
   max_tokens_with_content: 5000
   max_tokens_abstract_only: 3000
-  min_relevance_score: 7.0
+  # Save papers at or above this score. The generated output then
+  # separates saved papers into core recommendations and related papers.
+  min_relevance_score: 6.5
 
 # ============================================================
 # Paper content retrieval
@@ -138,6 +140,9 @@ network:
 # Output configuration
 # ============================================================
 output:
+  # >= 8.0: 核心推荐；6.5-7.9: 可借鉴论文
+  core_recommendation_score: 8.0
+  related_recommendation_score: 6.5
   slug_max_length: 80
   max_authors_frontmatter: 20
   max_authors_json: 5

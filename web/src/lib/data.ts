@@ -31,9 +31,8 @@ export async function fetchPapersForDate(dateStr: string): Promise<PaperMeta[]> 
     );
     if (!res.ok) return [];
     const all: PaperMeta[] = await res.json();
-    const papers = all.filter((p) => p.relevance_score >= 8);
-    cachedDayPapers[dateStr] = papers;
-    return papers;
+    cachedDayPapers[dateStr] = all;
+    return all;
   } catch {
     return [];
   }

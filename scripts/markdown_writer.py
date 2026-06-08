@@ -217,6 +217,18 @@ def update_readme(base_dir: str, date_str: str, config: dict):
         day_papers = json.load(f)
 
     readme_path = os.path.join(base_dir, "README.md")
+    output_config = config.get("output", {})
+    core_threshold = output_config.get("core_recommendation_score", 8.0)
+    related_threshold = output_config.get("related_recommendation_score", 6.5)
+
+    core_papers = [
+        p for p in day_papers
+        if p.get("relevance_score", 0) >= core_threshold
+    ]
+    related_papers = [
+        p for p in day_papers
+        if related_threshold <= p.get("relevance_score", 0) < core_threshold
+    ]
 
     lines = [
         "# Daily Agentic Time Series Papers",
@@ -225,23 +237,48 @@ def update_readme(base_dir: str, date_str: str, config: dict):
         "",
         f"## {date_str} ({len(day_papers)} 篇)",
         "",
-        "| 分数 | 论文 | 标签 |",
-        "|:----:|------|------|",
     ]
 
-    for p in day_papers:
-        score = p.get("relevance_score", 0)
-        title = p.get("title", "")
-        url = p.get("arxiv_url", "")
-        github_url = p.get("github_url", "")
-        tags = p.get("tags", [])
-        tags_str = ", ".join(tags[:3])
-        title_cell = f"[{title}]({url})"
-        if github_url:
-            title_cell += f" [[Code]({github_url})]"
-        lines.append(f"| {score} | {title_cell} | {tags_str} |")
+    def append_table(title: str, papers: list[dict]):
+        lines.extend([
+            f"### {title} ({len(papers)} 篇)",
+            "",
+        ])
+        if not papers:
+            lines.extend(["暂无。", ""])
+            return
 
-    lines.append("")
+        lines.extend([
+            "| 分数 | 论文 | 标签 |",
+            "|:----:|------|------|",
+        ])
+        for p in papers:
+            score = p.get("relevance_score", 0)
+            paper_title = p.get("title", "")
+            url = p.get("arxiv_url", "")
+            github_url = p.get("github_url", "")
+            tags = p.get("tags", [])
+            tags_str = ", ".join(tags[:3])
+            title_cell = f"[{paper_title}]({url})"
+            if github_url:
+                title_cell += f" [[Code]({github_url})]"
+            lines.append(f"| {score} | {title_cell} | {tags_str} |")
+        lines.append("")
+
+    append_table("核心推荐", core_papers)
+    append_table("可借鉴论文", related_papers)
+
+    lines.extend([
+        "## 输出口径",
+        "",
+        f"- 核心推荐：相关性评分 >= {core_threshold}",
+        f"- 可借鉴论文：{related_threshold} <= 相关性评分 < {core_threshold}",
+        "",
+        "## 配置提醒",
+        "",
+        "GitHub Actions 需要在仓库 `Settings -> Secrets and variables -> Actions` 配置 `LLM_API_KEY`、`LLM_BASE_URL` 和 `LLM_MODEL`。",
+        "",
+    ])
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
