@@ -106,6 +106,9 @@ class ProjectCustomizationTest(unittest.TestCase):
             self.assertIn("### 可借鉴论文 (1 篇)", readme)
             self.assertIn("Core Paper", readme)
             self.assertIn("Related Paper", readme)
+            self.assertNotIn("## 输出口径", readme)
+            self.assertNotIn("## 配置提醒", readme)
+            self.assertNotIn("LLM_API_KEY", readme)
 
 
 if __name__ == "__main__":
