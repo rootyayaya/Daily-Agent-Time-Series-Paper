@@ -1,0 +1,34 @@
+[
+  {
+    "arxiv_id": "2606.08238",
+    "version": 1,
+    "title": "GPT-Micro: A large language paradigm for accelerated, inexpensive, and thermodynamics-consistent discovery of constitutive models in manufacturing",
+    "authors": [
+      "Soumik Dutta",
+      "Kiarash Naghavi Khanghah",
+      "Sania Shree",
+      "Logan McNeil",
+      "Thomas Feldhausen"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08238",
+    "pdf_url": "https://arxiv.org/pdf/2606.08238v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "Agentic Time Series",
+      "LLM/Agent Workflow",
+      "可解释时间序列分析",
+      "工业故障诊断",
+      "时序报告生成",
+      "RAG",
+      "Symbolic Regression",
+      "物理一致性"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/06/gpt-micro-a-large-language-paradigm-for-accelerated-inexpensive-and-thermodynami.md"
+  }
+]

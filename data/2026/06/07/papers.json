@@ -1,0 +1,66 @@
+[
+  {
+    "arxiv_id": "2606.08671",
+    "version": 1,
+    "title": "SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History",
+    "authors": [
+      "Zhiwei Li",
+      "Yong Hu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08671",
+    "pdf_url": "https://arxiv.org/pdf/2606.08671v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "Agent Skill Evolution",
+      "Persistent Decision History",
+      "Continual Learning",
+      "Self-Improvement",
+      "Feedback Optimization",
+      "Multi-Agent Reasoning",
+      "Skill-MoE",
+      "Tool Use",
+      "LLM Agent",
+      "Evidence Routing"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/07/skillhone-a-harness-for-continual-agent-skill-evolution-through-persistent-decis.md"
+  },
+  {
+    "arxiv_id": "2606.08633",
+    "version": 1,
+    "title": "Towards Long-Horizon Vessel Trajectory and Destination Forecasting with Reasoning Large Language Models",
+    "authors": [
+      "Hongwei Wang",
+      "Miao Zhou",
+      "Fengde Wang",
+      "Yuting Wang",
+      "Jiewen Yu"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08633",
+    "pdf_url": "https://arxiv.org/pdf/2606.08633v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "LLM/Agent for Time Series",
+      "Time Series Report",
+      "Semantic Description",
+      "Verifiable Reward",
+      "Trajectory Forecasting",
+      "Maritime Decision Support",
+      "Reinforcement Learning",
+      "Reasoning LLM"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/07/towards-long-horizon-vessel-trajectory-and-destination-forecasting-with-reasonin.md"
+  }
+]

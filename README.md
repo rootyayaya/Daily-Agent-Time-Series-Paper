@@ -2,17 +2,19 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-06-04 (1 篇)
+## 2026-06-08 (2 篇)
 
 ### 核心推荐 (1 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.5 | [DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN](https://arxiv.org/abs/2606.06261) | Agentic Time Series, 多模态时间序列异常检测, VLM-LLM 管道 |
+| 8.5 | [TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs](https://arxiv.org/abs/2606.09030) [[Code](https://github.com/HyeongWon-Jang/TRIAGE)] | 时间序列报告, 可解释故障诊断, LLM/Agent |
 
-### 可借鉴论文 (0 篇)
+### 可借鉴论文 (1 篇)
 
-暂无。
+| 分数 | 论文 | 标签 |
+|:----:|------|------|
+| 6.5 | [FAME: Forecastability-Aware Mixture of Experts for Heterogeneous Time Series Forecasting](https://arxiv.org/abs/2606.08896) [[Code](https://github.com/hit636/FAME)] | Mixture of Experts, 时间序列预测, 异构时间序列 |
 
 ## 输出口径
 
