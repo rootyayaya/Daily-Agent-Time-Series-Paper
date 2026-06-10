@@ -1,0 +1,36 @@
+[
+  {
+    "arxiv_id": "2606.10942",
+    "version": 1,
+    "title": "Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions",
+    "authors": [
+      "Kiarash Rezaei",
+      "Omran Ayoub",
+      "Sebastian Troia",
+      "Francesco Lelli",
+      "Paolo Monti"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.NI",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10942",
+    "pdf_url": "https://arxiv.org/pdf/2606.10942v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM-augmented XAI",
+      "自然语言报告生成",
+      "特征交互",
+      "SHAP",
+      "网络故障诊断",
+      "可解释时间序列",
+      "可解释性",
+      "QoT估计"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/09/generative-explainability-for-next-generation-networks-llm-augmented-xai-with-mu.md"
+  }
+]
