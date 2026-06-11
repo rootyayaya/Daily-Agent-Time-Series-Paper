@@ -1,0 +1,64 @@
+[
+  {
+    "arxiv_id": "2606.11625",
+    "version": 1,
+    "title": "TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Models",
+    "authors": [
+      "Kanghui Ning",
+      "Yushan Jiang",
+      "Kashif Rasul",
+      "Anderson Schneider",
+      "Yuriy Nevmyvaka"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11625",
+    "pdf_url": "https://arxiv.org/pdf/2606.11625v1",
+    "github_url": "https://github.com/UConn-DSIS/TimeRouter",
+    "published": "2026-06-10",
+    "tags": [
+      "Agentic Time Series",
+      "时间序列基础模型",
+      "模型路由",
+      "自适应专家选择",
+      "轻量级路由",
+      "时序预测",
+      "GIFT-EVAL",
+      "集成回退",
+      "选择性门控",
+      "可解释性"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/10/timerouter-efficient-and-adaptive-routing-of-time-series-foundation-models.md"
+  },
+  {
+    "arxiv_id": "2606.11589",
+    "version": 1,
+    "title": "Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges",
+    "authors": [
+      "Bhushan Gopaluni",
+      "Vidya Kotamraju",
+      "Syon Bhushan"
+    ],
+    "author_count": 3,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11589",
+    "pdf_url": "https://arxiv.org/pdf/2606.11589v1",
+    "github_url": "",
+    "published": "2026-06-10",
+    "tags": [
+      "LLM",
+      "Process Systems Engineering",
+      "time-series forecasting",
+      "fault detection and diagnosis",
+      "survey",
+      "industrial deployment"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/10/large-language-models-in-process-systems-engineering-opportunities-architectures.md"
+  }
+]
