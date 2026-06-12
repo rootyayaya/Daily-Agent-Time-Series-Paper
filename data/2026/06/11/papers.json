@@ -1,0 +1,63 @@
+[
+  {
+    "arxiv_id": "2606.13532",
+    "version": 1,
+    "title": "Graphical Causal Reasoning for Root Cause Analysis in Cloud Networks",
+    "authors": [
+      "Fabien Chraim",
+      "Dominik Janzing",
+      "John Evans"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.NI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13532",
+    "pdf_url": "https://arxiv.org/pdf/2606.13532v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "因果发现",
+      "根因分析",
+      "云网络",
+      "图模型",
+      "格兰杰因果",
+      "时间序列",
+      "可解释性"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/11/graphical-causal-reasoning-for-root-cause-analysis-in-cloud-networks.md"
+  },
+  {
+    "arxiv_id": "2606.13277",
+    "version": 1,
+    "title": "ProtoX-AD: Self-Explainable Time Series Anomaly Detection and Characterization",
+    "authors": [
+      "Aitor Sánchez-Ferrera",
+      "Elisabeth Wetzer",
+      "Kristoffer Wickstrøm",
+      "Michael Kampffmeyer",
+      "Robert Jenssen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13277",
+    "pdf_url": "https://arxiv.org/pdf/2606.13277v1",
+    "github_url": "https://github.com/Aitorzan3/ProtoX-AD",
+    "published": "2026-06-11",
+    "tags": [
+      "时间序列异常检测",
+      "可解释性",
+      "原型学习",
+      "自监督学习",
+      "特征变换",
+      "异常表征"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/11/protox-ad-self-explainable-time-series-anomaly-detection-and-characterization.md"
+  }
+]

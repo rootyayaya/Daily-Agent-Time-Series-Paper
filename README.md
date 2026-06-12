@@ -2,16 +2,15 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-06-10 (2 篇)
+## 2026-06-11 (2 篇)
 
-### 核心推荐 (1 篇)
+### 核心推荐 (0 篇)
 
-| 分数 | 论文 | 标签 |
-|:----:|------|------|
-| 8.5 | [TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Models](https://arxiv.org/abs/2606.11625) [[Code](https://github.com/UConn-DSIS/TimeRouter)] | Agentic Time Series, 时间序列基础模型, 模型路由 |
+暂无。
 
-### 可借鉴论文 (1 篇)
+### 可借鉴论文 (2 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges](https://arxiv.org/abs/2606.11589) | LLM, Process Systems Engineering, time-series forecasting |
+| 6.5 | [Graphical Causal Reasoning for Root Cause Analysis in Cloud Networks](https://arxiv.org/abs/2606.13532) | 因果发现, 根因分析, 云网络 |
+| 6.5 | [ProtoX-AD: Self-Explainable Time Series Anomaly Detection and Characterization](https://arxiv.org/abs/2606.13277) [[Code](https://github.com/Aitorzan3/ProtoX-AD)] | 时间序列异常检测, 可解释性, 原型学习 |
