@@ -1,0 +1,34 @@
+[
+  {
+    "arxiv_id": "2606.14119",
+    "version": 1,
+    "title": "FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories",
+    "authors": [
+      "Yash Pulse",
+      "Yong-Bin Kang",
+      "Abhik Banerjee",
+      "Abdur Forkan",
+      "Prem Prakash Jayaraman"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.14119",
+    "pdf_url": "https://arxiv.org/pdf/2606.14119v1",
+    "github_url": "",
+    "published": "2026-06-12",
+    "tags": [
+      "LLM/Agent",
+      "RAG",
+      "工业故障诊断",
+      "智能工厂",
+      "多文档推理",
+      "文档分析",
+      "开源平台",
+      "评估框架"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/12/factoryllm-a-safe-and-open-source-ai-playground-for-evaluating-llms-in-smart-fac.md"
+  }
+]

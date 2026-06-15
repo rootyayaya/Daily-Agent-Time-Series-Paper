@@ -1,5 +1,72 @@
 [
   {
+    "arxiv_id": "2606.13148",
+    "version": 1,
+    "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
+    "authors": [
+      "Dat Tien Nguyen",
+      "Thao Nguyen",
+      "Fadillah Adamsyah Maani",
+      "Huy M. Le",
+      "Muhammad Umer Sheikh"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13148",
+    "pdf_url": "https://arxiv.org/pdf/2606.13148v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "LLM/Agent for Time Series",
+      "Tool Use/Calling",
+      "Multi-Agent Reasoning",
+      "Planning",
+      "Benchmark",
+      "Earth Science",
+      "Heterogeneous Data",
+      "ReAct",
+      "Scientific Workflow"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/11/terrabench-can-agents-reason-over-heterogeneous-earth-system-data.md"
+  },
+  {
+    "arxiv_id": "2606.13024",
+    "version": 1,
+    "title": "CausalMoE: A Billion-Scale Multimodal Foundation Model for Granger Causal Discovery with Pattern-Routed Heterogeneous Experts",
+    "authors": [
+      "Bo Liu",
+      "Di Dai",
+      "Jingwei Liu",
+      "Jiarui Jin",
+      "Xiaocheng Fang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13024",
+    "pdf_url": "https://arxiv.org/pdf/2606.13024v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "Granger因果发现",
+      "时间序列分析",
+      "多模态基础模型",
+      "混合专家系统",
+      "LLM集成",
+      "VLM集成",
+      "因果图学习",
+      "分布偏移建模",
+      "少样本泛化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/11/causalmoe-a-billion-scale-multimodal-foundation-model-for-granger-causal-discove.md"
+  },
+  {
     "arxiv_id": "2606.13532",
     "version": 1,
     "title": "Graphical Causal Reasoning for Root Cause Analysis in Cloud Networks",
