@@ -1,0 +1,97 @@
+[
+  {
+    "arxiv_id": "2606.16545",
+    "version": 1,
+    "title": "Can LLM Coding Agents Reason About Time Series?",
+    "authors": [
+      "Filip Rechtorík",
+      "Ondřej Dušek",
+      "Zdeněk Kasner"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.16545",
+    "pdf_url": "https://arxiv.org/pdf/2606.16545v1",
+    "github_url": "",
+    "published": "2026-06-15",
+    "tags": [
+      "LLM Agent",
+      "time series reasoning",
+      "coding agent",
+      "benchmark",
+      "statistical analysis",
+      "automated decision-making"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/15/can-llm-coding-agents-reason-about-time-series.md"
+  },
+  {
+    "arxiv_id": "2606.16684",
+    "version": 1,
+    "title": "Progressive Knowledge-Guided Large Language Model Framework for Bearing Fault Diagnosis",
+    "authors": [
+      "Jinghan Wang",
+      "Gaoliang Peng",
+      "Yanjun Chen",
+      "Wei Zhang",
+      "Wentao Wu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.16684",
+    "pdf_url": "https://arxiv.org/pdf/2606.16684v1",
+    "github_url": "",
+    "published": "2026-06-15",
+    "tags": [
+      "Agentic Time Series",
+      "可解释时间序列分析",
+      "工业故障诊断",
+      "LLM/Agent工作流",
+      "知识引导",
+      "多模态融合",
+      "物理信息特征"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/15/progressive-knowledge-guided-large-language-model-framework-for-bearing-fault-di.md"
+  },
+  {
+    "arxiv_id": "2606.16337",
+    "version": 1,
+    "title": "Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules",
+    "authors": [
+      "Wei Xu",
+      "Ke Yang",
+      "Gang Luo",
+      "Keli Zheng",
+      "Lingyan Hu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.16337",
+    "pdf_url": "https://arxiv.org/pdf/2606.16337v1",
+    "github_url": "",
+    "published": "2026-06-15",
+    "tags": [
+      "LLM-driven workflow",
+      "interpretable decision rules",
+      "clinical tabular data",
+      "rule synthesis",
+      "iterative refinement",
+      "continual learning",
+      "small-sample learning",
+      "class imbalance",
+      "feature evolution",
+      "auditable AI"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/15/medical-heuristic-learning-an-llm-driven-framework-for-interpretable-and-auditab.md"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "arxiv_id": "2606.15709",
+    "version": 1,
+    "title": "AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan",
+    "authors": [
+      "Mohammed Fasha",
+      "Nahel Al-Maayta",
+      "Bilal Sowan",
+      "Mohammad Athamneh",
+      "Husam Barham"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15709",
+    "pdf_url": "https://arxiv.org/pdf/2606.15709v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "LLM Agent",
+      "时间序列异常检测",
+      "RAG",
+      "工具调用",
+      "数字孪生",
+      "工业故障诊断",
+      "可解释报告",
+      "传感器数据",
+      "水网管理",
+      "自适应决策"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/ai-driven-framework-for-adaptive-water-network-management-with-proof-of-concept.md"
+  }
+]

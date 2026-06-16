@@ -1,0 +1,65 @@
+[
+  {
+    "arxiv_id": "2606.15107",
+    "version": 1,
+    "title": "Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning",
+    "authors": [
+      "Sanhorn Chen",
+      "Xiaoyang Chen",
+      "Boyu Liu",
+      "Roy Zhao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15107",
+    "pdf_url": "https://arxiv.org/pdf/2606.15107v1",
+    "github_url": "https://github.com/SanhornC/IRTS-ToolBench",
+    "published": "2026-06-13",
+    "tags": [
+      "Agentic Time Series",
+      "Time Series Question Answering",
+      "Tool-Grounded Reasoning",
+      "Irregular Time Series",
+      "LLM/Agent",
+      "Benchmark",
+      "Verifiability",
+      "Time Series Analysis",
+      "AI Agent",
+      "Tool Calling"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/towards-verifiable-agentic-data-science-solving-irregular-tsqa-via-tool-grounded.md"
+  },
+  {
+    "arxiv_id": "2606.15288",
+    "version": 1,
+    "title": "Hybrid NARX-LLM for Greenland Iceberg Discharge: Prompt-Driven Residual Correction",
+    "authors": [
+      "Yiquan Gao",
+      "Duohui Xu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "physics.ao-ph"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15288",
+    "pdf_url": "https://arxiv.org/pdf/2606.15288v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "LLM for Time Series",
+      "Residual Correction",
+      "Physics-Informed Prompt",
+      "Hybrid NARX-LLM",
+      "Interpretable Time Series",
+      "Climate Forecasting",
+      "Zero-Shot Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/13/hybrid-narx-llm-for-greenland-iceberg-discharge-prompt-driven-residual-correctio.md"
+  }
+]
