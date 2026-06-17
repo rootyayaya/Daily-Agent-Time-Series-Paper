@@ -1,0 +1,157 @@
+[
+  {
+    "arxiv_id": "2606.18147",
+    "version": 1,
+    "title": "WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning",
+    "authors": [
+      "Yuwei Zhang",
+      "Tong Xia",
+      "Bianca Emmerich",
+      "Yu Yvonne Wu",
+      "Dimitris Spathis"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.18147",
+    "pdf_url": "https://arxiv.org/pdf/2606.18147v1",
+    "github_url": "",
+    "published": "2026-06-16",
+    "tags": [
+      "Agentic Time Series",
+      "LLM/Agent",
+      "可穿戴健康数据",
+      "查询自适应推理",
+      "工具调用",
+      "传感器分析",
+      "医疗问答",
+      "多模态时间序列",
+      "证据路由",
+      "外部知识审计"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/16/weqa-wearable-health-question-answering-with-query-adaptive-agentic-reasoning.md"
+  },
+  {
+    "arxiv_id": "2606.18154",
+    "version": 1,
+    "title": "Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure",
+    "authors": [
+      "Ziqi Zhou",
+      "Yubo Ye",
+      "Sumeet Atul Vadhavka",
+      "Linwei Wang",
+      "Zhiqiang Tao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.18154",
+    "pdf_url": "https://arxiv.org/pdf/2606.18154v1",
+    "github_url": "",
+    "published": "2026-06-16",
+    "tags": [
+      "Agentic Time Series",
+      "LLM/Agent",
+      "可解释时序诊断",
+      "数字孪生",
+      "混合模型发现",
+      "领域知识结构化",
+      "迭代推理-行动循环",
+      "心脏电生理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/16/learning-cardiac-electrophysiology-digital-twins-through-agentic-discovery-of-hy.md"
+  },
+  {
+    "arxiv_id": "2606.17904",
+    "version": 1,
+    "title": "DiagFlowBench: Evaluating How Language Models Handle Off-Procedure Inputs in Grounded Diagnostic Dialogue",
+    "authors": [
+      "Guillermo Gil de Avalle",
+      "Laura Maruster",
+      "Shaina Raza",
+      "Christos Emmanouilidis"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.17904",
+    "pdf_url": "https://arxiv.org/pdf/2606.17904v1",
+    "github_url": "",
+    "published": "2026-06-16",
+    "tags": [
+      "LLM/Agent用于故障诊断",
+      "工业诊断对话",
+      "grounded对话系统",
+      "幻觉检测",
+      "流程合规性",
+      "多轮对话评估",
+      "基准数据集"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/16/diagflowbench-evaluating-how-language-models-handle-off-procedure-inputs-in-grou.md"
+  },
+  {
+    "arxiv_id": "2606.18049",
+    "version": 1,
+    "title": "ConTex: Reformulating Counterfactual Generation For Time Series Forecasting",
+    "authors": [
+      "Jan Voets",
+      "Hasan Tercan",
+      "Tobias Meisen",
+      "Sebastian Baum"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.18049",
+    "pdf_url": "https://arxiv.org/pdf/2606.18049v1",
+    "github_url": "",
+    "published": "2026-06-16",
+    "tags": [
+      "counterfactual explanation",
+      "time series forecasting",
+      "interpretability",
+      "model-agnostic",
+      "real-time inference"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/16/contex-reformulating-counterfactual-generation-for-time-series-forecasting.md"
+  },
+  {
+    "arxiv_id": "2606.17591",
+    "version": 1,
+    "title": "Closing the Feedback Loop: From Experience Extraction to Insight Governance in Verbal Reinforcement Learning",
+    "authors": [
+      "Yanwei Cui",
+      "Xing Zhang",
+      "Yulong Zhang",
+      "Li Shao",
+      "Xiaofeng Shi"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.17591",
+    "pdf_url": "https://arxiv.org/pdf/2606.17591v1",
+    "github_url": "",
+    "published": "2026-06-16",
+    "tags": [
+      "verbal reinforcement learning",
+      "LLM agent",
+      "feedback loop",
+      "insight governance",
+      "experience extraction",
+      "non-stationary environment",
+      "financial forecasting"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/16/closing-the-feedback-loop-from-experience-extraction-to-insight-governance-in-ve.md"
+  }
+]
