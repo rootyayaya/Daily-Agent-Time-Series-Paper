@@ -1,0 +1,65 @@
+[
+  {
+    "arxiv_id": "2606.18986",
+    "version": 1,
+    "title": "Beyond Tokenization: Direct Timestep Embedding and Contrastive Alignment for Time-Series Question Answering",
+    "authors": [
+      "Yafeng Wu",
+      "Huu Hiep Nguyen",
+      "Thin Nguyen",
+      "Hung Le"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.18986",
+    "pdf_url": "https://arxiv.org/pdf/2606.18986v1",
+    "github_url": "",
+    "published": "2026-06-17",
+    "tags": [
+      "Time-Series Question Answering",
+      "LLM for Time Series",
+      "Contrastive Learning",
+      "Direct Timestep Embedding",
+      "Semantic Alignment",
+      "Time Series Representation",
+      "Tokenization Bottleneck"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/17/beyond-tokenization-direct-timestep-embedding-and-contrastive-alignment-for-time.md"
+  },
+  {
+    "arxiv_id": "2606.18803",
+    "version": 1,
+    "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+    "authors": [
+      "Tengfei Lyu",
+      "Zirui Yuan",
+      "Xu Liu",
+      "Kai Wan",
+      "Zihao Lu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.18803",
+    "pdf_url": "https://arxiv.org/pdf/2606.18803v1",
+    "github_url": "",
+    "published": "2026-06-17",
+    "tags": [
+      "LLM Agent",
+      "工业应用",
+      "用户画像",
+      "工具增强",
+      "下游效用对齐",
+      "DPO微调",
+      "大规模系统"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/17/profillm-utility-aligned-agentic-user-profiling-for-industrial-ride-hailing-disp.md"
+  }
+]
