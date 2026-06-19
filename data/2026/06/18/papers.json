@@ -1,0 +1,102 @@
+[
+  {
+    "arxiv_id": "2606.19821",
+    "version": 1,
+    "title": "TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability",
+    "authors": [
+      "Geon Kim",
+      "Dara Ron",
+      "Sukhdeep Singh",
+      "Suyog Moogi",
+      "Pranshav Gajjar"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.19821",
+    "pdf_url": "https://arxiv.org/pdf/2606.19821v1",
+    "github_url": "",
+    "published": "2026-06-18",
+    "tags": [
+      "Agentic Time Series",
+      "时间序列预测",
+      "可解释故障诊断",
+      "LLM/Agent工作流",
+      "知识图谱",
+      "基础模型",
+      "零样本预测",
+      "电信网络",
+      "KPM预测",
+      "3GPP"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/18/telcoagent-a-scalable-5g-multi-kpm-forecasting-with-3gpp-grounded-explainability.md"
+  },
+  {
+    "arxiv_id": "2606.20164",
+    "version": 1,
+    "title": "MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization",
+    "authors": [
+      "Aueaphum Aueawatthanaphisut"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG",
+      "q-bio.QM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.20164",
+    "pdf_url": "https://arxiv.org/pdf/2606.20164v1",
+    "github_url": "",
+    "published": "2026-06-18",
+    "tags": [
+      "LLM/Agent用于时间序列异常检测",
+      "传感器引导推理",
+      "临床决策支持",
+      "多模态健康智能",
+      "证据图记忆",
+      "递归推理",
+      "不确定性门控精炼",
+      "长上下文推理",
+      "传感器信号分析",
+      "可追溯诊断链"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/18/medrlm-recursive-multimodal-health-intelligence-for-long-context-clinical-reason.md"
+  },
+  {
+    "arxiv_id": "2606.20401",
+    "version": 1,
+    "title": "PowerAgentBench-Dyn: A Benchmark for Agentic AI in Power System Dynamic Studies",
+    "authors": [
+      "Qian Zhang",
+      "Andrea Pomarico",
+      "Costas Mylonas",
+      "Magda Foti",
+      "Alberto Berizzi"
+    ],
+    "author_count": 6,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.20401",
+    "pdf_url": "https://arxiv.org/pdf/2606.20401v1",
+    "github_url": "",
+    "published": "2026-06-18",
+    "tags": [
+      "Agentic AI",
+      "LLM Agent",
+      "电力系统动态分析",
+      "基准测试",
+      "工具调用",
+      "语义记忆",
+      "迭代实验",
+      "工程推理"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/18/poweragentbench-dyn-a-benchmark-for-agentic-ai-in-power-system-dynamic-studies.md"
+  }
+]
