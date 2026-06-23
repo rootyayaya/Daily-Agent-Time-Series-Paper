@@ -1,0 +1,36 @@
+[
+  {
+    "arxiv_id": "2606.22126",
+    "version": 1,
+    "title": "From Recognition to Understanding: Unlocking Cognitive Time Series Reasoning with LLMs",
+    "authors": [
+      "Xin Qiu",
+      "Junlong Tong",
+      "Yao Zhang",
+      "Yunpu Ma",
+      "Wei Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.22126",
+    "pdf_url": "https://arxiv.org/pdf/2606.22126v1",
+    "github_url": "https://github.com/EIT-NLP/CognitiveTSR",
+    "published": "2026-06-20",
+    "tags": [
+      "时间序列推理",
+      "认知推理",
+      "多模态对齐",
+      "LLM时间序列",
+      "时序QA",
+      "TSCognition",
+      "TSAlign",
+      "语义理解",
+      "时序报告",
+      "时序语义对齐"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/20/from-recognition-to-understanding-unlocking-cognitive-time-series-reasoning-with.md"
+  }
+]
