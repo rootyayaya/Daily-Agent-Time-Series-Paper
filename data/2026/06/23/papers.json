@@ -1,0 +1,37 @@
+[
+  {
+    "arxiv_id": "2606.24392",
+    "version": 1,
+    "title": "ATRIA: Adaptive Traceable ECG Reporting with Iterative Agents",
+    "authors": [
+      "Donggyun Hong",
+      "Kyuhwan Lee",
+      "Junmyung Kwon",
+      "Yong-Yeon Jo"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.24392",
+    "pdf_url": "https://arxiv.org/pdf/2606.24392v1",
+    "github_url": "",
+    "published": "2026-06-23",
+    "tags": [
+      "Agentic Time Series",
+      "可解释时间序列分析",
+      "工业故障诊断",
+      "LLM/Agent 工作流",
+      "multi-agent reasoning",
+      "证据路由",
+      "可追溯诊断链",
+      "time series report",
+      "自然语言报告生成",
+      "迭代式报告生成",
+      "临床ECG报告",
+      "交互式验证"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/23/atria-adaptive-traceable-ecg-reporting-with-iterative-agents.md"
+  }
+]
