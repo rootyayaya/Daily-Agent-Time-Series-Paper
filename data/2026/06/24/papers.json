@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2606.25941",
+    "version": 1,
+    "title": "Explainable Control Framework (XCF) based on Fuzzy Model-Agnostic Explanation and LLM Agent-Supported Interface",
+    "authors": [
+      "Faliang Yin",
+      "Hak-Keung Lam",
+      "David Watson"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.25941",
+    "pdf_url": "https://arxiv.org/pdf/2606.25941v1",
+    "github_url": "",
+    "published": "2026-06-24",
+    "tags": [
+      "可解释控制",
+      "LLM Agent",
+      "自然语言报告生成",
+      "模糊模型无关解释",
+      "用户交互界面",
+      "控制决策解释",
+      "闭环系统",
+      "倒立摆",
+      "Turtlebot避障"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/24/explainable-control-framework-xcf-based-on-fuzzy-model-agnostic-explanation-and.md"
+  }
+]
