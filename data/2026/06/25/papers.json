@@ -1,0 +1,31 @@
+[
+  {
+    "arxiv_id": "2606.27199",
+    "version": 1,
+    "title": "Forecasting With LLMs: Improved Generalization Through Feature Steering",
+    "authors": [
+      "Humzah Merchant",
+      "Bradford Levy"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.27199",
+    "pdf_url": "https://arxiv.org/pdf/2606.27199v1",
+    "github_url": "",
+    "published": "2026-06-25",
+    "tags": [
+      "LLM",
+      "时间序列预测",
+      "可解释性",
+      "特征干预",
+      "稀疏自编码器",
+      "前瞻偏差",
+      "时间感知推理"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/25/forecasting-with-llms-improved-generalization-through-feature-steering.md"
+  }
+]
