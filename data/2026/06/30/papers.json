@@ -1,0 +1,98 @@
+[
+  {
+    "arxiv_id": "2606.31635",
+    "version": 1,
+    "title": "A Tutorial on Autonomous Fault-Tolerant Control Using Knowledge-Grounded LLM Agents",
+    "authors": [
+      "Javal Vyas",
+      "Milapji Singh Gill",
+      "Artan Markaj",
+      "Felix Gehlhoff",
+      "Mehmet Mercangöz"
+    ],
+    "author_count": 5,
+    "categories": [
+      "eess.SY",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.31635",
+    "pdf_url": "https://arxiv.org/pdf/2606.31635v1",
+    "github_url": "",
+    "published": "2026-06-30",
+    "tags": [
+      "LLM Agent",
+      "故障诊断",
+      "故障恢复",
+      "可解释性",
+      "外部验证器",
+      "工业过程控制",
+      "知识注入",
+      "约束规划"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/30/a-tutorial-on-autonomous-fault-tolerant-control-using-knowledge-grounded-llm-age.md"
+  },
+  {
+    "arxiv_id": "2606.31614",
+    "version": 1,
+    "title": "Automating Cause-Effect Specification with Knowledge Graphs and Large Language Models",
+    "authors": [
+      "Javal Vyas",
+      "Milapji Singh Gill",
+      "Mehmet Mercangöz"
+    ],
+    "author_count": 3,
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.31614",
+    "pdf_url": "https://arxiv.org/pdf/2606.31614v1",
+    "github_url": "",
+    "published": "2026-06-30",
+    "tags": [
+      "知识图谱",
+      "大语言模型",
+      "因果规范",
+      "过程控制",
+      "语义AI",
+      "工业诊断",
+      "自动化生成",
+      "可解释性"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/30/automating-cause-effect-specification-with-knowledge-graphs-and-large-language-m.md"
+  },
+  {
+    "arxiv_id": "2606.31470",
+    "version": 1,
+    "title": "CLOUDADV: Decision-Aligned Instance Sizing with Zero-Shot Foundation Models under Drift",
+    "authors": [
+      "Jack Bell",
+      "Giacomo Carfi",
+      "Gerlando Gramaglia",
+      "Andrea Simioni",
+      "Daniele Fontani"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.31470",
+    "pdf_url": "https://arxiv.org/pdf/2606.31470v1",
+    "github_url": "",
+    "published": "2026-06-30",
+    "tags": [
+      "时间序列预测",
+      "零样本基础模型",
+      "云资源优化",
+      "LLM推荐生成",
+      "漂移适应",
+      "决策对齐",
+      "成本节约评估"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/06/30/cloudadv-decision-aligned-instance-sizing-with-zero-shot-foundation-models-under.md"
+  }
+]
