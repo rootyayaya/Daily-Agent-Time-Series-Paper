@@ -1,0 +1,37 @@
+[
+  {
+    "arxiv_id": "2607.00733",
+    "version": 1,
+    "title": "LLM-Guided ODE Discovery and Parameter Inference from Small-Cohort Aggregate Data",
+    "authors": [
+      "Hanning Yang",
+      "Meropi Karakioulaki",
+      "Lennart Purucker",
+      "Tim Litwin",
+      "Cristina Has"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.00733",
+    "pdf_url": "https://arxiv.org/pdf/2607.00733v1",
+    "github_url": "",
+    "published": "2026-07-01",
+    "tags": [
+      "LLM/Agent",
+      "ODE发现",
+      "参数推断",
+      "小样本数据",
+      "临床诊断",
+      "工具增强推理",
+      "诊断-更新循环",
+      "可解释建模",
+      "群体统计",
+      "隐私保护"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/01/llm-guided-ode-discovery-and-parameter-inference-from-small-cohort-aggregate-dat.md"
+  }
+]
