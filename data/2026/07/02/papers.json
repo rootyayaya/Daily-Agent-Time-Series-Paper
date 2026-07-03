@@ -1,0 +1,68 @@
+[
+  {
+    "arxiv_id": "2607.01992",
+    "version": 1,
+    "title": "Traceable Fault Diagnosis for Battery Energy Storage Systems via Retrieval-Augmented Multi-Agent O&M Assistant",
+    "authors": [
+      "Jiangdi Ru",
+      "Bing Li",
+      "Yage Huang",
+      "Ding Wang",
+      "Keru Hua"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.01992",
+    "pdf_url": "https://arxiv.org/pdf/2607.01992v1",
+    "github_url": "",
+    "published": "2026-07-02",
+    "tags": [
+      "Agentic Time Series",
+      "可解释时间序列分析",
+      "工业故障诊断",
+      "时序报告生成",
+      "LLM/Agent工作流",
+      "RAG",
+      "多智能体系统",
+      "电池储能系统"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/02/traceable-fault-diagnosis-for-battery-energy-storage-systems-via-retrieval-augme.md"
+  },
+  {
+    "arxiv_id": "2607.01548",
+    "version": 1,
+    "title": "Evolutionary Feature Engineering for Structured Data",
+    "authors": [
+      "Ege Onur Taga",
+      "Yilin Zhuang",
+      "M. Emrullah Ildiz",
+      "Petros Mol",
+      "Abhimanyu Das"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.01548",
+    "pdf_url": "https://arxiv.org/pdf/2607.01548v1",
+    "github_url": "",
+    "published": "2026-07-02",
+    "tags": [
+      "LLM-based evolution",
+      "feature engineering",
+      "time series forecasting",
+      "tabular prediction",
+      "interpretability",
+      "time series foundation model",
+      "Chronos-2",
+      "EFE-Time",
+      "EFE-Tab"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/07/02/evolutionary-feature-engineering-for-structured-data.md"
+  }
+]
