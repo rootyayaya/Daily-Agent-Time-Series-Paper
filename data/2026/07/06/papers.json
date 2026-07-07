@@ -1,0 +1,68 @@
+[
+  {
+    "arxiv_id": "2607.04558",
+    "version": 1,
+    "title": "EEG-SpikeAgent: Agentic Closed-Loop Program Synthesis for Automated EEG Spike Detection",
+    "authors": [
+      "Sonali Santhosh",
+      "Kelly Shuhong Yu",
+      "Eugene Chang",
+      "Jonathan Kim",
+      "Kie Shidara"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.04558",
+    "pdf_url": "https://arxiv.org/pdf/2607.04558v1",
+    "github_url": "",
+    "published": "2026-07-06",
+    "tags": [
+      "Agentic Time Series",
+      "LLM/Agent for Time Series",
+      "Closed-Loop Program Synthesis",
+      "EEG Spike Detection",
+      "Signal Processing Feature Engineering",
+      "Tabular Classifier",
+      "Interpretability",
+      "Code-Driven Feature Generation",
+      "Clinical Time Series",
+      "Automated Feature Engineering"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/06/eeg-spikeagent-agentic-closed-loop-program-synthesis-for-automated-eeg-spike-det.md"
+  },
+  {
+    "arxiv_id": "2607.04569",
+    "version": 1,
+    "title": "LLMs for Agentic Home Energy Management",
+    "authors": [
+      "Sokipriala Jonah"
+    ],
+    "author_count": 1,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.04569",
+    "pdf_url": "https://arxiv.org/pdf/2607.04569v1",
+    "github_url": "https://github.com/sokistar24/ecohome-energy-agent",
+    "published": "2026-07-06",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "tool calling",
+      "ReAct",
+      "RAG",
+      "home energy management",
+      "time series scheduling",
+      "natural language interface",
+      "multi-appliance scheduling",
+      "MILP ground truth"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/06/llms-for-agentic-home-energy-management.md"
+  }
+]

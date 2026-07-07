@@ -1,0 +1,68 @@
+[
+  {
+    "arxiv_id": "2607.04374",
+    "version": 1,
+    "title": "An End-to-End Explainable AI Framework with Automated LLM-Based Natural Language Explanation Generation for Energy Systems",
+    "authors": [
+      "Venkata Sesha Sai Raj Nanduri",
+      "Akthar Hussain",
+      "Van-Hai Bui"
+    ],
+    "author_count": 3,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.04374",
+    "pdf_url": "https://arxiv.org/pdf/2607.04374v1",
+    "github_url": "",
+    "published": "2026-07-05",
+    "tags": [
+      "Agentic Time Series",
+      "Explainable AI (XAI)",
+      "LLM-based Explanation Generation",
+      "Time Series Report Generation",
+      "Industrial Fault Diagnosis",
+      "SHAP",
+      "LIME",
+      "Neural Network Interpretability",
+      "Energy Systems",
+      "Natural Language Explanation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/05/an-end-to-end-explainable-ai-framework-with-automated-llm-based-natural-language.md"
+  },
+  {
+    "arxiv_id": "2607.04219",
+    "version": 1,
+    "title": "Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents",
+    "authors": [
+      "Rümeysa Hilal Sevinç",
+      "Bahaeddin Türkoğlu",
+      "İbrahim Kök"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "cs.NI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.04219",
+    "pdf_url": "https://arxiv.org/pdf/2607.04219v1",
+    "github_url": "",
+    "published": "2026-07-05",
+    "tags": [
+      "Agentic IoT",
+      "AIoT",
+      "multi-agent systems",
+      "Internet of Agents",
+      "edge intelligence",
+      "cognitive IoT",
+      "autonomous coordination",
+      "tool use",
+      "adaptive planning",
+      "cyber-physical systems"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/05/agentic-iot-architectures-applications-and-challenges-toward-the-internet-of-age.md"
+  }
+]

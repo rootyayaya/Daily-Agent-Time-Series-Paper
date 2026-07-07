@@ -1,0 +1,34 @@
+[
+  {
+    "arxiv_id": "2607.03847",
+    "version": 1,
+    "title": "NeSy-CSA: A Neuro-Symbolic Framework for Open-Ended Critical Scenario Attribution",
+    "authors": [
+      "Qitong Chu",
+      "Xunjie He",
+      "Chen Deng",
+      "Huaxin Pei",
+      "Yufeng Yue"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.03847",
+    "pdf_url": "https://arxiv.org/pdf/2607.03847v1",
+    "github_url": "",
+    "published": "2026-07-04",
+    "tags": [
+      "可解释性",
+      "神经符号推理",
+      "证据图",
+      "关键场景归因",
+      "LLM Agent",
+      "决策系统",
+      "可追溯推理",
+      "干预评估"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/04/nesy-csa-a-neuro-symbolic-framework-for-open-ended-critical-scenario-attribution.md"
+  }
+]
