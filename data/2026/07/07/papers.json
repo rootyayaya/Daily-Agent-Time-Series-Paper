@@ -1,0 +1,103 @@
+[
+  {
+    "arxiv_id": "2607.05805",
+    "version": 1,
+    "title": "Onnes: A Physics-Grounded Multi-Agent LLM Simulator for Cryogenic Fault Diagnosis in Quantum Computing Infrastructure",
+    "authors": [
+      "Praneeth Narisetty",
+      "Uday Kumar Reddy Kattamanchi",
+      "Shiva Nagendra Babu Kore"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "quant-ph"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.05805",
+    "pdf_url": "https://arxiv.org/pdf/2607.05805v1",
+    "github_url": "https://github.com/Onnes-Research/onnes",
+    "published": "2026-07-07",
+    "tags": [
+      "Agentic Time Series",
+      "可解释故障诊断",
+      "多智能体LLM",
+      "物理数字孪生",
+      "低温故障诊断",
+      "零样本LLM",
+      "对比少样本演示",
+      "自一致性投票",
+      "置信门控",
+      "工业传感器解释",
+      "量子计算基础设施"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/07/07/onnes-a-physics-grounded-multi-agent-llm-simulator-for-cryogenic-fault-diagnosis.md"
+  },
+  {
+    "arxiv_id": "2607.06111",
+    "version": 1,
+    "title": "LLM-Guided Measurement Credibility Correction for Trustworthy Industrial Process Inference",
+    "authors": [
+      "Youcheng Zong",
+      "Runda Jia",
+      "Dakuo He"
+    ],
+    "author_count": 3,
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.06111",
+    "pdf_url": "https://arxiv.org/pdf/2607.06111v1",
+    "github_url": "",
+    "published": "2026-07-07",
+    "tags": [
+      "LLM-Guided Measurement Credibility Correction",
+      "工业过程推理",
+      "测量语义",
+      "可信度校正",
+      "软测量",
+      "预测",
+      "文档语义",
+      "轻量级",
+      "预推理校正",
+      "工业传感器解释"
+    ],
+    "relevance_score": 9.2,
+    "md_path": "data/2026/07/07/llm-guided-measurement-credibility-correction-for-trustworthy-industrial-process.md"
+  },
+  {
+    "arxiv_id": "2607.06349",
+    "version": 1,
+    "title": "TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting",
+    "authors": [
+      "Xiachong Lin",
+      "Du Yin",
+      "Arian Prabowo",
+      "Hao Xue",
+      "Wen Hu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.06349",
+    "pdf_url": "https://arxiv.org/pdf/2607.06349v1",
+    "github_url": "",
+    "published": "2026-07-07",
+    "tags": [
+      "Agentic Time Series",
+      "Zero-Shot Forecasting",
+      "Building IoT",
+      "Knowledge Graph",
+      "Topology Sampling",
+      "Exogenous Variables",
+      "Training-Free Framework",
+      "HVAC",
+      "Sensor Forecasting"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/07/topobrick-agentic-topology-sampling-of-exogenous-variables-for-zero-shot-buildin.md"
+  }
+]
