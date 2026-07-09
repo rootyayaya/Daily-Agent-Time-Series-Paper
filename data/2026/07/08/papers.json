@@ -1,0 +1,30 @@
+[
+  {
+    "arxiv_id": "2607.07689",
+    "version": 1,
+    "title": "Agent Delivery Engineering Predictive Reliability Framework",
+    "authors": [
+      "Dexing Liu"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.07689",
+    "pdf_url": "https://arxiv.org/pdf/2607.07689v1",
+    "github_url": "",
+    "published": "2026-07-08",
+    "tags": [
+      "LLM Agent 可靠性预测",
+      "多智能体系统",
+      "时间序列预测",
+      "异常检测",
+      "工业故障诊断",
+      "多信号融合",
+      "信任度指标",
+      "前瞻性预警"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/08/agent-delivery-engineering-predictive-reliability-framework.md"
+  }
+]
