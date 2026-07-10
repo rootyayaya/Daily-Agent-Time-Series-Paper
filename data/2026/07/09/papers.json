@@ -1,0 +1,73 @@
+[
+  {
+    "arxiv_id": "2607.08010",
+    "version": 1,
+    "title": "Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems",
+    "authors": [
+      "Kalle Kujanpää",
+      "Ning Liu",
+      "Shahnawaz Alam",
+      "Yeshwanth Reddy Sura",
+      "Tianyu Yang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.LG",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.08010",
+    "pdf_url": "https://arxiv.org/pdf/2607.08010v1",
+    "github_url": "",
+    "published": "2026-07-09",
+    "tags": [
+      "Agentic Time Series",
+      "工业故障诊断",
+      "LLM Agent",
+      "工具调用",
+      "自进化",
+      "低延迟系统",
+      "报警分类",
+      "SOP编译",
+      "可追溯诊断链",
+      "工具制作"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/09/tool-making-and-self-evolving-llm-agents-in-low-latency-systems.md"
+  },
+  {
+    "arxiv_id": "2607.08373",
+    "version": 1,
+    "title": "Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles",
+    "authors": [
+      "Matthias Weiß",
+      "Athreya Hosahalli Prakash",
+      "Maurice Artelt",
+      "Falk Dettinger",
+      "Nasser Jazdi"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.08373",
+    "pdf_url": "https://arxiv.org/pdf/2607.08373v1",
+    "github_url": "",
+    "published": "2026-07-09",
+    "tags": [
+      "在线异常检测",
+      "强化学习",
+      "人类反馈",
+      "自适应框架",
+      "概念漂移",
+      "连接车辆",
+      "微服务拓扑",
+      "深度Q网络",
+      "统计漂移检测",
+      "人机协同重训练"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/07/09/self-adaptive-anomaly-detection-with-reinforcement-learning-and-human-feedback-i.md"
+  }
+]
