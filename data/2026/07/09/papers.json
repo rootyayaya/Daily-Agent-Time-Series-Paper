@@ -1,5 +1,39 @@
 [
   {
+    "arxiv_id": "2607.08940",
+    "version": 1,
+    "title": "TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning",
+    "authors": [
+      "Fangxu Yu",
+      "Tao Feng",
+      "Dehai Min",
+      "Lu Cheng",
+      "Ge Liu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.08940",
+    "pdf_url": "https://arxiv.org/pdf/2607.08940v1",
+    "github_url": "https://github.com/tianyi-lab/TSRouter",
+    "published": "2026-07-09",
+    "tags": [
+      "时间序列推理",
+      "动态路由",
+      "模态选择",
+      "模型选择",
+      "LLM",
+      "VLM",
+      "异构图",
+      "成本感知优化",
+      "零样本泛化",
+      "TSRouter"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/07/09/tsrouter-dynamic-modality-model-selection-for-time-series-reasoning.md"
+  },
+  {
     "arxiv_id": "2607.08010",
     "version": 1,
     "title": "Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems",

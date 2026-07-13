@@ -1,0 +1,68 @@
+[
+  {
+    "arxiv_id": "2607.09076",
+    "version": 1,
+    "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+    "authors": [
+      "Saroj Gopali",
+      "Bipin Chhetri",
+      "Deepika Giri",
+      "Sima Siami-Namini",
+      "Akbar Siami Namin"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.09076",
+    "pdf_url": "https://arxiv.org/pdf/2607.09076v1",
+    "github_url": "",
+    "published": "2026-07-10",
+    "tags": [
+      "Agentic Time Series",
+      "Time-Series Foundation Model",
+      "LLM Planner",
+      "Counterfactual Physics Injection",
+      "Industrial IoT",
+      "Anomaly Detection",
+      "Closed-Loop Control",
+      "Safety Verification",
+      "Neuro-Agentic Control",
+      "Secure Water Treatment (SWaT)"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/07/10/neuro-agentic-control-a-deep-learning-based-llm-powered-agentic-ai-framework-for.md"
+  },
+  {
+    "arxiv_id": "2607.09502",
+    "version": 1,
+    "title": "All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models",
+    "authors": [
+      "Pan Li"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.09502",
+    "pdf_url": "https://arxiv.org/pdf/2607.09502v1",
+    "github_url": "",
+    "published": "2026-07-10",
+    "tags": [
+      "Agentic Time Series",
+      "可解释时序诊断",
+      "LLM/Agent工作流",
+      "自然语言报告生成",
+      "Rashomon解释集",
+      "解释-预测-反思",
+      "工业预测",
+      "时间序列预测",
+      "解释忠实度",
+      "多任务学习"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/10/all-explanations-are-wrong-but-many-are-useful-exploring-the-rashomon-explanatio.md"
+  }
+]
