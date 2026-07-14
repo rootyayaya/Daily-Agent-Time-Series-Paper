@@ -1,0 +1,67 @@
+[
+  {
+    "arxiv_id": "2607.10463",
+    "version": 1,
+    "title": "GRASP: GRanularity-Aware Search Policy for Agentic RAG",
+    "authors": [
+      "Varun Gandhi",
+      "Jaewook Lee",
+      "Shantanu Todmal",
+      "Franck Dernoncourt",
+      "Ryan Rossi"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.10463",
+    "pdf_url": "https://arxiv.org/pdf/2607.10463v1",
+    "github_url": "",
+    "published": "2026-07-11",
+    "tags": [
+      "Agentic RAG",
+      "Tool Use",
+      "Multi-step Reasoning",
+      "Reinforcement Learning",
+      "Evidence Retrieval",
+      "Context Granularity",
+      "Search Policy"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/07/11/grasp-granularity-aware-search-policy-for-agentic-rag.md"
+  },
+  {
+    "arxiv_id": "2607.10286",
+    "version": 1,
+    "title": "Can Agentic Trading Systems Pay for Their Own Intelligence?",
+    "authors": [
+      "Qiqi Duan",
+      "Changlun Li",
+      "Chen Wang",
+      "Fan Zhang",
+      "Mengxiang Wang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.10286",
+    "pdf_url": "https://arxiv.org/pdf/2607.10286v1",
+    "github_url": "",
+    "published": "2026-07-11",
+    "tags": [
+      "LLM Agent",
+      "工具调用",
+      "可追溯诊断",
+      "金融时间序列",
+      "智能体工作流评估",
+      "证据路由",
+      "利润归因",
+      "时序决策系统"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/07/11/can-agentic-trading-systems-pay-for-their-own-intelligence.md"
+  }
+]

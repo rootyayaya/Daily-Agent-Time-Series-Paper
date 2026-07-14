@@ -1,0 +1,30 @@
+[
+  {
+    "arxiv_id": "2607.11459",
+    "version": 1,
+    "title": "A Multimodal Dataset for Large Language Model Applications in the Energy Domain",
+    "authors": [
+      "Costas Mylonas",
+      "Magda Foti"
+    ],
+    "author_count": 2,
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.11459",
+    "pdf_url": "https://arxiv.org/pdf/2607.11459v1",
+    "github_url": "",
+    "published": "2026-07-13",
+    "tags": [
+      "时间序列数据集",
+      "多模态",
+      "能源领域",
+      "LLM应用",
+      "FAIR原则",
+      "知识库"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/13/a-multimodal-dataset-for-large-language-model-applications-in-the-energy-domain.md"
+  }
+]

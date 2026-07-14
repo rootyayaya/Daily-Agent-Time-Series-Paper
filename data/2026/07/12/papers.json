@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2607.10720",
+    "version": 1,
+    "title": "WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs",
+    "authors": [
+      "Mohannad Takrouri",
+      "Nicolas M. Cuadrado A.",
+      "Martin Takáč"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.10720",
+    "pdf_url": "https://arxiv.org/pdf/2607.10720v1",
+    "github_url": "https://github.com/Singularity-AI-Lab/wattcouncil",
+    "published": "2026-07-12",
+    "tags": [
+      "LLM Agent",
+      "Multi-Agent",
+      "Time Series Generation",
+      "Energy Scenario",
+      "Context-Aware",
+      "Governed Pipeline",
+      "Household Load Profile",
+      "Data Augmentation",
+      "Smart Grid"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/12/wattcouncil-context-aware-household-energy-scenario-generation-with-governed-llm.md"
+  }
+]
