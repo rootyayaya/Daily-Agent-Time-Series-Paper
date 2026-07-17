@@ -1,0 +1,65 @@
+[
+  {
+    "arxiv_id": "2607.14970",
+    "version": 1,
+    "title": "Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation",
+    "authors": [
+      "Paul Darm",
+      "Cem Alpturk",
+      "Kenneth Ulrich",
+      "William Duncan",
+      "Ali Anwar"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.14970",
+    "pdf_url": "https://arxiv.org/pdf/2607.14970v1",
+    "github_url": "",
+    "published": "2026-07-16",
+    "tags": [
+      "可解释AI",
+      "SHAP",
+      "隐函数定理",
+      "工业过程优化",
+      "自然语言解释生成",
+      "LLM",
+      "GradientSHAP",
+      "实时解释"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/16/explaining-process-control-optimisation-recommendations-via-gradientshap-and-imp.md"
+  },
+  {
+    "arxiv_id": "2607.14510",
+    "version": 1,
+    "title": "VLT: A Vision-Language-Time Series Multimodal Foundation Model for Industrial Intelligence",
+    "authors": [
+      "Haiteng Wang",
+      "Jingheng Yan",
+      "Xiaokang Wang",
+      "Lei Ren"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.14510",
+    "pdf_url": "https://arxiv.org/pdf/2607.14510v1",
+    "github_url": "",
+    "published": "2026-07-16",
+    "tags": [
+      "多模态基础模型",
+      "时间序列-文本联合建模",
+      "工业故障诊断",
+      "频域视觉桥接",
+      "Time-MoE",
+      "少样本学习",
+      "鲁棒性",
+      "泛化性"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/16/vlt-a-vision-language-time-series-multimodal-foundation-model-for-industrial-int.md"
+  }
+]
