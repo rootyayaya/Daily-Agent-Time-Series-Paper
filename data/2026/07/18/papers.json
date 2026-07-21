@@ -1,0 +1,34 @@
+[
+  {
+    "arxiv_id": "2607.16969",
+    "version": 1,
+    "title": "SurvCF(t): Counterfactual Explanations for Survival Analysis in Predictive Maintenance Multivariate Time Series Data",
+    "authors": [
+      "Zara Karazian",
+      "Panagiotis Papapetrou",
+      "Sindri Magnússon",
+      "Erik Frisk",
+      "Tony Lindgren"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.16969",
+    "pdf_url": "https://arxiv.org/pdf/2607.16969v1",
+    "github_url": "",
+    "published": "2026-07-18",
+    "tags": [
+      "可解释时间序列分析",
+      "反事实解释",
+      "预测性维护",
+      "多变量时间序列",
+      "生存分析",
+      "剩余寿命估计",
+      "工业故障诊断",
+      "可操作干预"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/18/survcft-counterfactual-explanations-for-survival-analysis-in-predictive-maintena.md"
+  }
+]

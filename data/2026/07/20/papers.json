@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2607.18147",
+    "version": 1,
+    "title": "LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications",
+    "authors": [
+      "Daniela Rojas",
+      "Abdulwahab Albassam",
+      "Aidan G. Leung",
+      "Jett Ngo",
+      "Ryan Luo"
+    ],
+    "author_count": 14,
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.18147",
+    "pdf_url": "https://arxiv.org/pdf/2607.18147v1",
+    "github_url": "",
+    "published": "2026-07-20",
+    "tags": [
+      "LLM/Agent用于时间序列分析",
+      "智能电网故障诊断",
+      "工具调用与验证",
+      "可解释时间序列报告",
+      "多智能体工作流",
+      "预测性维护",
+      "时序异常检测",
+      "RAG与证据路由"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/20/llms-and-agentic-ai-systems-for-smart-grids-a-tutorial-on-architectures-and-appl.md"
+  }
+]
