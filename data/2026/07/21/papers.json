@@ -1,0 +1,68 @@
+[
+  {
+    "arxiv_id": "2607.18748",
+    "version": 1,
+    "title": "ConceptCF: Concept-based Counterfactuals for the Explainability of Time Series",
+    "authors": [
+      "Annemarie Jutte",
+      "Faizan Ahmed",
+      "Jeroen Linssen",
+      "Maurice van Keulen"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.18748",
+    "pdf_url": "https://arxiv.org/pdf/2607.18748v1",
+    "github_url": "",
+    "published": "2026-07-21",
+    "tags": [
+      "可解释时间序列",
+      "反事实解释",
+      "概念基础解释",
+      "时间序列分解",
+      "遗传算法",
+      "预测性维护",
+      "高 stakes 领域"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/21/conceptcf-concept-based-counterfactuals-for-the-explainability-of-time-series.md"
+  },
+  {
+    "arxiv_id": "2607.19020",
+    "version": 1,
+    "title": "Biological Amnesia in ICU Time-Series Prediction: A Drift-Adaptive Two-Stream Architecture with Temporal Retrieval",
+    "authors": [
+      "Fatema Ferdous Tamanna",
+      "K. M. Merajul Arefin",
+      "Md. Abdul Masud"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.IR",
+      "q-bio.QM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.19020",
+    "pdf_url": "https://arxiv.org/pdf/2607.19020v1",
+    "github_url": "https://github.com/empresst/ClinicalRag",
+    "published": "2026-07-21",
+    "tags": [
+      "时间序列预测",
+      "ICU干预预测",
+      "概念漂移",
+      "选择性适应",
+      "双流架构",
+      "Temporal RAG",
+      "可解释性",
+      "临床决策支持",
+      "MIMIC-IV",
+      "时序检索"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/07/21/biological-amnesia-in-icu-time-series-prediction-a-drift-adaptive-two-stream-arc.md"
+  }
+]
