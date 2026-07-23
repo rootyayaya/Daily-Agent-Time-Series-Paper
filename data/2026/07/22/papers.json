@@ -1,0 +1,65 @@
+[
+  {
+    "arxiv_id": "2607.19935",
+    "version": 1,
+    "title": "MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing",
+    "authors": [
+      "Yu Liu",
+      "Zhiwei Yang",
+      "Diandian Guo",
+      "Kun Peng",
+      "Fangfang Yuan"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.19935",
+    "pdf_url": "https://arxiv.org/pdf/2607.19935v1",
+    "github_url": "",
+    "published": "2026-07-22",
+    "tags": [
+      "LLM/Agent for 时序诊断",
+      "工具调用与证据路由",
+      "可解释故障诊断",
+      "强化学习对齐",
+      "化学/材料领域诊断",
+      "证据驱动解释",
+      "细粒度归因"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/22/mof-sleuth-tool-grounded-reward-alignment-for-explainable-fine-grained-mof-cif-a.md"
+  },
+  {
+    "arxiv_id": "2607.19659",
+    "version": 1,
+    "title": "Expert-Guided Forecast Editing for Time-Series Foundation Models",
+    "authors": [
+      "Hung Le",
+      "Minh Hoang Nguyen",
+      "Manh Nguyen",
+      "Huu Hiep Nguyen",
+      "Dai Do"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.19659",
+    "pdf_url": "https://arxiv.org/pdf/2607.19659v1",
+    "github_url": "",
+    "published": "2026-07-22",
+    "tags": [
+      "时间序列基础模型",
+      "专家引导",
+      "预测编辑",
+      "趋势-季节分解",
+      "查询预算",
+      "贝叶斯优化",
+      "交叉熵方法",
+      "分子动力学"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/07/22/expert-guided-forecast-editing-for-time-series-foundation-models.md"
+  }
+]

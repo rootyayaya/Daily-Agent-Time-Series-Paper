@@ -2,7 +2,7 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-07-21 (2 篇)
+## 2026-07-22 (2 篇)
 
 ### 核心推荐 (0 篇)
 
@@ -12,5 +12,5 @@
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [ConceptCF: Concept-based Counterfactuals for the Explainability of Time Series](https://arxiv.org/abs/2607.18748) | 可解释时间序列, 反事实解释, 概念基础解释 |
-| 6.5 | [Biological Amnesia in ICU Time-Series Prediction: A Drift-Adaptive Two-Stream Architecture with Temporal Retrieval](https://arxiv.org/abs/2607.19020) [[Code](https://github.com/empresst/ClinicalRag)] | 时间序列预测, ICU干预预测, 概念漂移 |
+| 7.5 | [MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing](https://arxiv.org/abs/2607.19935) | LLM/Agent for 时序诊断, 工具调用与证据路由, 可解释故障诊断 |
+| 6.5 | [Expert-Guided Forecast Editing for Time-Series Foundation Models](https://arxiv.org/abs/2607.19659) | 时间序列基础模型, 专家引导, 预测编辑 |
