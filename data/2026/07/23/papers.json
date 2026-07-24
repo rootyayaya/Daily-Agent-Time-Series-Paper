@@ -1,0 +1,37 @@
+[
+  {
+    "arxiv_id": "2607.20814",
+    "version": 1,
+    "title": "Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs",
+    "authors": [
+      "Hai-Nam Duy Vuong",
+      "Duy-Anh Bui",
+      "Trong-Nghia Nguyen",
+      "Kim-Ngan Thi Nguyen",
+      "Trang Mai Xuan"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.20814",
+    "pdf_url": "https://arxiv.org/pdf/2607.20814v1",
+    "github_url": "",
+    "published": "2026-07-23",
+    "tags": [
+      "time series report",
+      "semantic description",
+      "自然语言报告生成",
+      "LLM/Agent用于时间序列异常检测",
+      "可解释时序诊断",
+      "多模态LLM",
+      "Grad-CAM",
+      "ECG诊断",
+      "guide grounding",
+      "知识注入",
+      "BERTScore"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/23/enhancing-explainable-cardiac-diagnosis-with-guide-grounded-multimodal-llms.md"
+  }
+]
