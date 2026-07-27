@@ -1,0 +1,128 @@
+[
+  {
+    "arxiv_id": "2607.22385",
+    "version": 1,
+    "title": "Agentic Root Cause Analysis through Evidence-Grounded Reasoning",
+    "authors": [
+      "Amaury Wei",
+      "Olga Fink"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.22385",
+    "pdf_url": "https://arxiv.org/pdf/2607.22385v1",
+    "github_url": "",
+    "published": "2026-07-24",
+    "tags": [
+      "Agentic Time Series",
+      "可解释故障诊断",
+      "根因分析",
+      "证据路由",
+      "数字孪生",
+      "工具增强LLM",
+      "零样本推理",
+      "工业传感器",
+      "推理时反思",
+      "假设驱动推理"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/07/24/agentic-root-cause-analysis-through-evidence-grounded-reasoning.md"
+  },
+  {
+    "arxiv_id": "2607.22153",
+    "version": 1,
+    "title": "Industrial Tokenization for LLM-Based Health Intelligence: A Federated Architecture for Industrial Evidence Integration",
+    "authors": [
+      "Deshui Li",
+      "Xiao-Ming Yuan",
+      "Zishun Wang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.22153",
+    "pdf_url": "https://arxiv.org/pdf/2607.22153v1",
+    "github_url": "",
+    "published": "2026-07-24",
+    "tags": [
+      "Industrial Tokenization",
+      "LLM-based reasoning",
+      "federated architecture",
+      "industrial evidence integration",
+      "DiagnosisToken",
+      "semantic interface",
+      "condition monitoring",
+      "prognostic models",
+      "heterogeneous data fusion",
+      "interpretability"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/24/industrial-tokenization-for-llm-based-health-intelligence-a-federated-architectu.md"
+  },
+  {
+    "arxiv_id": "2607.22082",
+    "version": 1,
+    "title": "When Language Models Meet NeuroGraphs: Exploring Enhanced Agentic LLM Framework Towards Brain Network Analysis",
+    "authors": [
+      "Jiaxing Li",
+      "Rui Dong",
+      "Muyao Tang",
+      "Youyong Kong"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.22082",
+    "pdf_url": "https://arxiv.org/pdf/2607.22082v1",
+    "github_url": "",
+    "published": "2026-07-24",
+    "tags": [
+      "Agentic LLM",
+      "时间序列报告",
+      "可解释诊断",
+      "知识检索增强",
+      "反思与验证",
+      "图到语义描述",
+      "脑网络分析",
+      "多步推理"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/24/when-language-models-meet-neurographs-exploring-enhanced-agentic-llm-framework-t.md"
+  },
+  {
+    "arxiv_id": "2607.21873",
+    "version": 1,
+    "title": "Multi-Agent System-driven Digital Twins for predictive maintenance: architectures, technologies and open research challenges",
+    "authors": [
+      "Korota Arsène Coulibaly",
+      "Mohamed Hamlich"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.21873",
+    "pdf_url": "https://arxiv.org/pdf/2607.21873v1",
+    "github_url": "",
+    "published": "2026-07-24",
+    "tags": [
+      "Multi-Agent System",
+      "Digital Twins",
+      "predictive maintenance",
+      "Industry 4.0",
+      "Industry 5.0",
+      "explainable AI",
+      "resource-constrained",
+      "hierarchical orchestration",
+      "systematic review"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/24/multi-agent-system-driven-digital-twins-for-predictive-maintenance-architectures.md"
+  }
+]
