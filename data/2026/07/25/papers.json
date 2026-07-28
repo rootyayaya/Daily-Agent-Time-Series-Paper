@@ -1,0 +1,37 @@
+[
+  {
+    "arxiv_id": "2607.23075",
+    "version": 1,
+    "title": "Traceable LLM Reasoning for Fake-Order Fraud Detection",
+    "authors": [
+      "Siqi You",
+      "Bingsong Xu",
+      "Zhixian Zheng",
+      "Xinjian Peng",
+      "Yang Xie"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.23075",
+    "pdf_url": "https://arxiv.org/pdf/2607.23075v1",
+    "github_url": "",
+    "published": "2026-07-25",
+    "tags": [
+      "LLM/Agent用于异常检测",
+      "可解释时序诊断",
+      "语义统一模块",
+      "反思机制",
+      "强化学习",
+      "工业传感器解释",
+      "traceable reasoning",
+      "专家反馈",
+      "欺诈检测"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/25/traceable-llm-reasoning-for-fake-order-fraud-detection.md"
+  }
+]

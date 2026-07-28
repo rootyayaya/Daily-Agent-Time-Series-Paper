@@ -1,0 +1,102 @@
+[
+  {
+    "arxiv_id": "2607.24348",
+    "version": 1,
+    "title": "DeepFaith: Evidence-Grounded LLMs for Faithful Incident Reporting in Multi-Stage APT Defense",
+    "authors": [
+      "Trung V. Phan",
+      "Tri Gia Nguyen",
+      "Thomas Bauschert"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.24348",
+    "pdf_url": "https://arxiv.org/pdf/2607.24348v1",
+    "github_url": "",
+    "published": "2026-07-27",
+    "tags": [
+      "LLM/Agent",
+      "可解释报告生成",
+      "证据路由",
+      "多阶段攻击诊断",
+      "时序语义报告",
+      "事后验证",
+      "工业安全",
+      "自然语言报告生成"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/27/deepfaith-evidence-grounded-llms-for-faithful-incident-reporting-in-multi-stage.md"
+  },
+  {
+    "arxiv_id": "2607.23983",
+    "version": 1,
+    "title": "HydroAgent: Formalizing Forecaster Expertise into Skill-Orchestrated Flood Forecasting Workflows",
+    "authors": [
+      "Qingyi Yang",
+      "Siqian Qiu",
+      "Bing Li",
+      "Xu Shan",
+      "Jia Feng"
+    ],
+    "author_count": 23,
+    "categories": [
+      "physics.geo-ph",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.23983",
+    "pdf_url": "https://arxiv.org/pdf/2607.23983v1",
+    "github_url": "",
+    "published": "2026-07-27",
+    "tags": [
+      "Agentic Time Series",
+      "LLM/Agent 工作流",
+      "Skill-MoE",
+      "水文预报",
+      "可解释诊断",
+      "专家知识形式化",
+      "规则约束推理",
+      "模型驱动工作流",
+      "多智能体协作",
+      "可追溯诊断链"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/07/27/hydroagent-formalizing-forecaster-expertise-into-skill-orchestrated-flood-foreca.md"
+  },
+  {
+    "arxiv_id": "2607.24313",
+    "version": 1,
+    "title": "Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG",
+    "authors": [
+      "Mohamed Amine Janati",
+      "Laurent Gautier",
+      "Stéphane Barbot"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.IR",
+      "cs.CV",
+      "cs.MA",
+      "cs.RO"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.24313",
+    "pdf_url": "https://arxiv.org/pdf/2607.24313v1",
+    "github_url": "",
+    "published": "2026-07-27",
+    "tags": [
+      "Multi-Agent RAG",
+      "Edge AI",
+      "Underwater Monitoring",
+      "LangChain",
+      "Multimodal Embedding",
+      "Energy-Constrained System",
+      "Automated Reporting",
+      "Retrieval-Augmented Generation",
+      "Hierarchical Architecture"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/27/energy-constrained-hierarchical-underwater-monitoring-via-local-multi-agent-rag.md"
+  }
+]
