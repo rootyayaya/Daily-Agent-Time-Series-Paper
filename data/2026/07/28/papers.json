@@ -1,0 +1,66 @@
+[
+  {
+    "arxiv_id": "2607.25947",
+    "version": 1,
+    "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
+    "authors": [
+      "Frank Nie",
+      "Ethan B Liu",
+      "Yuan Zhu",
+      "Wei Fan",
+      "Jindong Han"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.25947",
+    "pdf_url": "https://arxiv.org/pdf/2607.25947v1",
+    "github_url": "",
+    "published": "2026-07-28",
+    "tags": [
+      "Multimodal LLM",
+      "Clinical Time Series",
+      "Question Answering",
+      "Irregular Time Series",
+      "Multi-scale Encoder",
+      "Token Compression",
+      "Instruction Tuning",
+      "Healthcare"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/28/a-cost-effective-multimodal-llm-reasoning-framework-for-question-answering-over.md"
+  },
+  {
+    "arxiv_id": "2607.25554",
+    "version": 1,
+    "title": "Distilling Temporal Search and Reasoning: Evolving LLMs for Future Prediction via Harness-Assisted Efficient Data Synthesis",
+    "authors": [
+      "Wanxu Cai",
+      "Zhengyu Chen",
+      "Huaisheng Zhu",
+      "Wei Wang",
+      "Jingang Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.25554",
+    "pdf_url": "https://arxiv.org/pdf/2607.25554v1",
+    "github_url": "",
+    "published": "2026-07-28",
+    "tags": [
+      "LLM/Agent用于时间序列分析",
+      "时间推理",
+      "工具集成推理",
+      "数据合成",
+      "自进化",
+      "未来预测",
+      "时间截断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/28/distilling-temporal-search-and-reasoning-evolving-llms-for-future-prediction-via.md"
+  }
+]
