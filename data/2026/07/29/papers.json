@@ -1,0 +1,70 @@
+[
+  {
+    "arxiv_id": "2607.26724",
+    "version": 1,
+    "title": "UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks",
+    "authors": [
+      "Zhilun Zhou",
+      "Jianghao Yu",
+      "Yuming Lin",
+      "yongjun yang",
+      "Sun Yongquan"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.26724",
+    "pdf_url": "https://arxiv.org/pdf/2607.26724v1",
+    "github_url": "",
+    "published": "2026-07-29",
+    "tags": [
+      "LLM Agent",
+      "Multi-Agent System",
+      "Graph-Guided",
+      "Data Science Agent",
+      "Report Generation",
+      "Urban Data",
+      "Planner Agent",
+      "Execution Agent",
+      "Memory",
+      "User Feedback"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/29/urbands-a-graph-guided-llm-multi-agent-system-for-data-intensive-urban-tasks.md"
+  },
+  {
+    "arxiv_id": "2607.26631",
+    "version": 1,
+    "title": "RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment",
+    "authors": [
+      "Hansi Karunarathna",
+      "Nirhoshan Sivaroopan",
+      "Chamara Madarasingha",
+      "Anura Jayasumana",
+      "Kanchana Thilakarathna"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.26631",
+    "pdf_url": "https://arxiv.org/pdf/2607.26631v1",
+    "github_url": "",
+    "published": "2026-07-29",
+    "tags": [
+      "RAG",
+      "LLM-based classification",
+      "human activity recognition",
+      "retrieval-augmented generation",
+      "edge deployment",
+      "training-free",
+      "agent",
+      "cost optimization",
+      "wearable sensors"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/29/rag-har-towards-cost-efficient-llm-based-human-activity-recognition-for-edge-dep.md"
+  }
+]

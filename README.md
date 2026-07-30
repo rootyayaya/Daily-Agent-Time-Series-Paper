@@ -2,7 +2,7 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-07-28 (2 篇)
+## 2026-07-29 (2 篇)
 
 ### 核心推荐 (0 篇)
 
@@ -12,5 +12,5 @@
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series](https://arxiv.org/abs/2607.25947) | Multimodal LLM, Clinical Time Series, Question Answering |
-| 7.5 | [Distilling Temporal Search and Reasoning: Evolving LLMs for Future Prediction via Harness-Assisted Efficient Data Synthesis](https://arxiv.org/abs/2607.25554) | LLM/Agent用于时间序列分析, 时间推理, 工具集成推理 |
+| 7.5 | [UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks](https://arxiv.org/abs/2607.26724) | LLM Agent, Multi-Agent System, Graph-Guided |
+| 7.5 | [RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](https://arxiv.org/abs/2607.26631) | RAG, LLM-based classification, human activity recognition |
