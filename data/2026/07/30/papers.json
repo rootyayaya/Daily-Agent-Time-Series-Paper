@@ -1,0 +1,32 @@
+[
+  {
+    "arxiv_id": "2607.28124",
+    "version": 1,
+    "title": "Information Bottleneck Learning for Faithful Time Series Forecasting Explanations",
+    "authors": [
+      "Xu Zheng",
+      "Wei Cheng",
+      "Zhuomin Chen",
+      "Mo Sha",
+      "Jingchao Ni"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.28124",
+    "pdf_url": "https://arxiv.org/pdf/2607.28124v1",
+    "github_url": "",
+    "published": "2026-07-30",
+    "tags": [
+      "可解释时间序列预测",
+      "信息瓶颈",
+      "忠实性解释",
+      "多变量时间序列",
+      "内在可解释模型"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/30/information-bottleneck-learning-for-faithful-time-series-forecasting-explanation.md"
+  }
+]
