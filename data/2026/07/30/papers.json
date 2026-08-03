@@ -28,5 +28,95 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/07/30/information-bottleneck-learning-for-faithful-time-series-forecasting-explanation.md"
+  },
+  {
+    "arxiv_id": "2607.28481",
+    "version": 1,
+    "title": "A Fuzzy Rule-based Neuro-Symbolic Approach for Pipe Severity Prediction in Sewer Networks",
+    "authors": [
+      "Ngoc Thai Le",
+      "Thanh Ma",
+      "Umberto Straccia"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.28481",
+    "pdf_url": "https://arxiv.org/pdf/2607.28481v1",
+    "github_url": "",
+    "published": "2026-07-30",
+    "tags": [
+      "neuro-symbolic reasoning",
+      "fuzzy logic",
+      "sewer pipe severity prediction",
+      "interpretable classification",
+      "Swin Transformer",
+      "decision tree to rules",
+      "LLM for label generation",
+      "imbalanced classification",
+      "traceable reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/30/a-fuzzy-rule-based-neuro-symbolic-approach-for-pipe-severity-prediction-in-sewer.md"
+  },
+  {
+    "arxiv_id": "2607.27687",
+    "version": 1,
+    "title": "Rehearse: Stepping Back from the Confidence Cliff in Self-Improving Autoresearch",
+    "authors": [
+      "Jiazhen Ji",
+      "Shouhong Ding"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.27687",
+    "pdf_url": "https://arxiv.org/pdf/2607.27687v1",
+    "github_url": "",
+    "published": "2026-07-30",
+    "tags": [
+      "LLM Agent",
+      "自进化",
+      "反思",
+      "记忆",
+      "时间序列预测",
+      "自动研究",
+      "置信度评估",
+      "工具调用"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/07/30/rehearse-stepping-back-from-the-confidence-cliff-in-self-improving-autoresearch.md"
+  },
+  {
+    "arxiv_id": "2607.27635",
+    "version": 1,
+    "title": "HealthCAT: An Interpretable Encoder-only Transformer Framework for Health Indicator Prediction and Temporal Interpretation of Wearable Sensor Data",
+    "authors": [
+      "Xiaotong Yu",
+      "Joshua Y. Kim",
+      "HaeJin Lee",
+      "Kalina Yacef"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2607.27635",
+    "pdf_url": "https://arxiv.org/pdf/2607.27635v1",
+    "github_url": "",
+    "published": "2026-07-30",
+    "tags": [
+      "可解释时间序列分析",
+      "可穿戴传感器",
+      "健康指标预测",
+      "Transformer",
+      "时间步级解释",
+      "注意力机制"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/07/30/healthcat-an-interpretable-encoder-only-transformer-framework-for-health-indicat.md"
   }
 ]
