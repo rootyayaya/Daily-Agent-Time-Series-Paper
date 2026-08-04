@@ -1,0 +1,69 @@
+[
+  {
+    "arxiv_id": "2608.01875",
+    "version": 1,
+    "title": "ReasonCast: Towards Explainable Time Series Forecasting with Reasoning",
+    "authors": [
+      "Seunghan Lee",
+      "Jun Seo",
+      "Jaehoon Lee",
+      "Junhyeok Kang",
+      "Sangjun Han"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.01875",
+    "pdf_url": "https://arxiv.org/pdf/2608.01875v1",
+    "github_url": "https://github.com/seunghan96/reasoncast",
+    "published": "2026-08-03",
+    "tags": [
+      "time series forecasting",
+      "explainable AI",
+      "LLM",
+      "reasoning chain",
+      "unified model",
+      "benchmark",
+      "causal reasoning",
+      "task fusion",
+      "interpretability",
+      "autoregressive generation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/03/reasoncast-towards-explainable-time-series-forecasting-with-reasoning.md"
+  },
+  {
+    "arxiv_id": "2608.02351",
+    "version": 1,
+    "title": "KC-Agent: A Dual-Process Cognitive Architecture for Efficient ML Model Improvement",
+    "authors": [
+      "Gusseppe Bravo-Rocca",
+      "Jordi Guitart",
+      "Ajay Dholakia",
+      "David Ellison",
+      "Puneet Jain"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.02351",
+    "pdf_url": "https://arxiv.org/pdf/2608.02351v1",
+    "github_url": "",
+    "published": "2026-08-03",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "数据漂移",
+      "模型改进",
+      "双过程认知架构",
+      "记忆系统",
+      "NASA涡扇数据",
+      "自动化机器学习"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/03/kc-agent-a-dual-process-cognitive-architecture-for-efficient-ml-model-improvemen.md"
+  }
+]
