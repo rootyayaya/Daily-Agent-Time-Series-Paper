@@ -1,0 +1,301 @@
+[
+  {
+    "arxiv_id": "2608.03391",
+    "version": 1,
+    "title": "TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series",
+    "authors": [
+      "Nicolas Zumarraga",
+      "Lorenzo Steno",
+      "Ning Wang",
+      "Max Rosenblattl",
+      "Thomas Kaar"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03391",
+    "pdf_url": "https://arxiv.org/pdf/2608.03391v1",
+    "github_url": "https://github.com/OpenTSLM/TimeRLM",
+    "published": "2026-08-04",
+    "tags": [
+      "Agentic Time Series",
+      "Recursive Language Models",
+      "Anomaly Localization",
+      "Long-Context Time Series",
+      "Time-Series Language Models",
+      "Reinforcement Learning",
+      "Synthetic Benchmark",
+      "ECG",
+      "Sleep Monitoring",
+      "Software Observability"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/04/timerlm-recursive-language-models-enable-precise-anomaly-localization-in-long-co.md"
+  },
+  {
+    "arxiv_id": "2608.03866",
+    "version": 1,
+    "title": "ADMITBench: A Safety-Governed Reference Framework for Evaluating the Admissibility of Industrial LLM Advisories",
+    "authors": [
+      "Yash Misra",
+      "Javal Vyas",
+      "Siddharth Gutta",
+      "Mehmet Mercangöz"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03866",
+    "pdf_url": "https://arxiv.org/pdf/2608.03866v1",
+    "github_url": "",
+    "published": "2026-08-04",
+    "tags": [
+      "工业LLM咨询",
+      "安全治理评估",
+      "证据支持检查",
+      "行动级评估",
+      "参考框架",
+      "版本化评估契约",
+      "非补偿性检查",
+      "时间序列诊断",
+      "可解释故障诊断"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/04/admitbench-a-safety-governed-reference-framework-for-evaluating-the-admissibilit.md"
+  },
+  {
+    "arxiv_id": "2608.03673",
+    "version": 1,
+    "title": "CausalOPD: First-Wrong-Step Supervision for Distilling Causal Chain Reasoning",
+    "authors": [
+      "Jian Zhang",
+      "Bingyi Wang",
+      "Yizhi Liu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03673",
+    "pdf_url": "https://arxiv.org/pdf/2608.03673v1",
+    "github_url": "",
+    "published": "2026-08-04",
+    "tags": [
+      "causal chain reasoning",
+      "online process distillation",
+      "first-wrong-step supervision",
+      "industrial fault diagnosis",
+      "LLM distillation",
+      "curriculum learning",
+      "reinforcement learning",
+      "process error correction"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/04/causalopd-first-wrong-step-supervision-for-distilling-causal-chain-reasoning.md"
+  },
+  {
+    "arxiv_id": "2608.03674",
+    "version": 1,
+    "title": "DiagLoop: A Counterfactual Data Flywheel with Stage-Localized Reinforcement for Diagnostic LLMs",
+    "authors": [
+      "Jian Zhang",
+      "Bingyi Wang",
+      "Yizhi Liu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03674",
+    "pdf_url": "https://arxiv.org/pdf/2608.03674v1",
+    "github_url": "",
+    "published": "2026-08-04",
+    "tags": [
+      "counterfactual data flywheel",
+      "stage-localized reinforcement learning",
+      "diagnostic LLM",
+      "causal reasoning",
+      "symptom abstraction",
+      "causal-chain construction",
+      "root-cause attribution",
+      "hybrid checker",
+      "weakness profile",
+      "replay and preservation",
+      "industrial systems",
+      "disease diagnosis",
+      "synthetic data generation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/04/diagloop-a-counterfactual-data-flywheel-with-stage-localized-reinforcement-for-d.md"
+  },
+  {
+    "arxiv_id": "2608.03339",
+    "version": 1,
+    "title": "Traceable Multi-Agent System for Knowledge-Based Forecasting",
+    "authors": [
+      "Junhyeok Kang",
+      "Sangjun Han",
+      "Hyeokjun Choe",
+      "Soonyoung Lee"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03339",
+    "pdf_url": "https://arxiv.org/pdf/2608.03339v1",
+    "github_url": "",
+    "published": "2026-08-04",
+    "tags": [
+      "multi-agent forecasting",
+      "traceable diagnosis",
+      "causal loop diagram",
+      "evidence routing",
+      "interpretable time series",
+      "LLM agent workflow",
+      "knowledge-based forecasting",
+      "crude oil price forecasting"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/04/traceable-multi-agent-system-for-knowledge-based-forecasting.md"
+  },
+  {
+    "arxiv_id": "2608.03031",
+    "version": 1,
+    "title": "CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting",
+    "authors": [
+      "Xiaoyu Tao",
+      "Mingyue Cheng",
+      "Bokai Pan",
+      "Chuang Jiang",
+      "Huanjian Zhang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03031",
+    "pdf_url": "https://arxiv.org/pdf/2608.03031v1",
+    "github_url": "https://github.com/Xiaoyu-Tao/CastFSR",
+    "published": "2026-08-04",
+    "tags": [
+      "Agentic Time Series",
+      "Time Series Forecasting",
+      "LLM Agent",
+      "Fast-Slow-Reflect",
+      "Context-Aware Reasoning",
+      "Reflection",
+      "Reinforcement Learning",
+      "Tool Use",
+      "Evidence Retrieval",
+      "Forecast Validation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/04/castfsr-a-fast-slow-reflect-agentic-reasoning-framework-for-context-aware-time-s.md"
+  },
+  {
+    "arxiv_id": "2608.03868",
+    "version": 1,
+    "title": "GENESIS: Towards Explainable Causal Discovery",
+    "authors": [
+      "Abhinav Thorat",
+      "Ravi Kumar Kolla",
+      "Vishak K Bhat",
+      "Harsh Vardhan Singh Chauhan",
+      "Niranjan Pedanekar"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03868",
+    "pdf_url": "https://arxiv.org/pdf/2608.03868v1",
+    "github_url": "",
+    "published": "2026-08-04",
+    "tags": [
+      "Causal Discovery",
+      "LLM-assisted hybrid methods",
+      "Decision Traceability",
+      "Explainable AI",
+      "Markov Blanket",
+      "Domain Knowledge Integration",
+      "Graph Construction",
+      "Structural Motifs",
+      "Time Series Analysis",
+      "Interpretable Decision Points"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/04/genesis-towards-explainable-causal-discovery.md"
+  },
+  {
+    "arxiv_id": "2608.03591",
+    "version": 1,
+    "title": "DiagChain: A Diagnostic Benchmark for Evaluating LLM Agents on Evidence-Grounded Attack Chain Reconstruction",
+    "authors": [
+      "Xuyang Liu",
+      "Yibin Han",
+      "Zhenwei Zhang",
+      "Kai Chang",
+      "Zhiwei Xu"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03591",
+    "pdf_url": "https://arxiv.org/pdf/2608.03591v1",
+    "github_url": "",
+    "published": "2026-08-04",
+    "tags": [
+      "LLM Agent",
+      "Evidence-Grounded Reasoning",
+      "Attack Chain Reconstruction",
+      "Retrieval-Augmented Generation",
+      "Stage-wise Evaluation",
+      "Diagnostic Benchmark",
+      "Evidence Routing",
+      "Cybersecurity"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/04/diagchain-a-diagnostic-benchmark-for-evaluating-llm-agents-on-evidence-grounded.md"
+  },
+  {
+    "arxiv_id": "2608.03190",
+    "version": 1,
+    "title": "TumorBoard: Evidence-Grounded Multi-Agent Decision Support for Longitudinal Neuro-Oncology",
+    "authors": [
+      "Yantong Liu",
+      "Zheyu Zhang",
+      "Runpeng Liu",
+      "Mu Xitang",
+      "Seong-Yoon Shin"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.03190",
+    "pdf_url": "https://arxiv.org/pdf/2608.03190v1",
+    "github_url": "",
+    "published": "2026-08-04",
+    "tags": [
+      "multi-agent",
+      "evidence routing",
+      "safety governor",
+      "adversarial critic",
+      "longitudinal case state",
+      "claim-evidence ledger",
+      "medical decision support",
+      "neuro-oncology",
+      "LLM agent",
+      "auditable reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/04/tumorboard-evidence-grounded-multi-agent-decision-support-for-longitudinal-neuro.md"
+  }
+]
