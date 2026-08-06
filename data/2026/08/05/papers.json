@@ -1,0 +1,100 @@
+[
+  {
+    "arxiv_id": "2608.04695",
+    "version": 1,
+    "title": "Personalized Federated Sparse Adaptation of Time-Series Foundation Models",
+    "authors": [
+      "Priyanka Nihalchandani",
+      "Naman Srivastava",
+      "Varun Ojha",
+      "Pandarasamy Arjunan"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.04695",
+    "pdf_url": "https://arxiv.org/pdf/2608.04695v1",
+    "github_url": "",
+    "published": "2026-08-05",
+    "tags": [
+      "Time-Series Foundation Models",
+      "Federated Learning",
+      "Mixture-of-Experts",
+      "Sparse Adaptation",
+      "Building Energy Forecasting",
+      "Personalization",
+      "Heterogeneous Temporal MoE",
+      "Routing"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/05/personalized-federated-sparse-adaptation-of-time-series-foundation-models.md"
+  },
+  {
+    "arxiv_id": "2608.04374",
+    "version": 1,
+    "title": "FinReportBench: Measuring and Improving Institution-Grade Financial Report Generation",
+    "authors": [
+      "Yinghao Tang",
+      "Tan Zhenwei",
+      "Yiyao Wang",
+      "Wanli Gu",
+      "Xiaolu Zhang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.04374",
+    "pdf_url": "https://arxiv.org/pdf/2608.04374v1",
+    "github_url": "https://github.com/MisterBrookT/finreportbench",
+    "published": "2026-08-05",
+    "tags": [
+      "financial report generation",
+      "benchmark",
+      "rubric-based evaluation",
+      "skill distillation",
+      "self-review",
+      "LLM evaluation",
+      "institution-grade reporting"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/05/finreportbench-measuring-and-improving-institution-grade-financial-report-genera.md"
+  },
+  {
+    "arxiv_id": "2608.04777",
+    "version": 1,
+    "title": "IMFACT: Counterfactual Explanations for Time Series via Intrinsic Mode Function Substitution",
+    "authors": [
+      "Udo Schlegel",
+      "Julian Rakuschek",
+      "Thomas Seidl",
+      "Andreas Holzinger",
+      "Tobias Schreck"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.04777",
+    "pdf_url": "https://arxiv.org/pdf/2608.04777v1",
+    "github_url": "",
+    "published": "2026-08-05",
+    "tags": [
+      "counterfactual explanations",
+      "time series",
+      "empirical mode decomposition",
+      "intrinsic mode functions",
+      "model-agnostic",
+      "plausibility",
+      "interpretability",
+      "fault detection"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/05/imfact-counterfactual-explanations-for-time-series-via-intrinsic-mode-function-s.md"
+  }
+]
