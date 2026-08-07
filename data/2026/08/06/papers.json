@@ -1,0 +1,218 @@
+[
+  {
+    "arxiv_id": "2608.06223",
+    "version": 1,
+    "title": "TS-RAG: Retrieval Augmented Generation for Time Series Forecasting",
+    "authors": [
+      "Yixiong Xiao",
+      "Congxi Xiao",
+      "Jingbo Zhou"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.06223",
+    "pdf_url": "https://arxiv.org/pdf/2608.06223v1",
+    "github_url": "",
+    "published": "2026-08-06",
+    "tags": [
+      "Retrieval-Augmented Generation",
+      "Time Series Forecasting",
+      "Reference Tokens",
+      "Similar Sequence Retrieval",
+      "TS-RAG"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/06/ts-rag-retrieval-augmented-generation-for-time-series-forecasting.md"
+  },
+  {
+    "arxiv_id": "2608.06294",
+    "version": 1,
+    "title": "QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction",
+    "authors": [
+      "Mutasim Fuad Sarker",
+      "Adiba Rahman Namira",
+      "Wafa Binte Alam",
+      "Md Adnan Arefeen",
+      "Mahzabeen Emu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.ET"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.06294",
+    "pdf_url": "https://arxiv.org/pdf/2608.06294v1",
+    "github_url": "",
+    "published": "2026-08-06",
+    "tags": [
+      "Agentic AI",
+      "LLM-guided feature selection",
+      "Time-series mortality prediction",
+      "Quantum recurrent network",
+      "Clinical decision support",
+      "ICU monitoring",
+      "MIMIC-IV",
+      "Temporal modeling",
+      "Feature discovery",
+      "Low-parameter model"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/06/quantimedai-quantum-enhanced-time-series-model-guided-by-agentic-ai-for-cardiac.md"
+  },
+  {
+    "arxiv_id": "2608.06137",
+    "version": 1,
+    "title": "SkillTFM: Gated Skill Evolution for Training-Free Adaptation of Tabular Foundation Models",
+    "authors": [
+      "Yi He",
+      "Zhengkang Guan",
+      "Anpeng Wu",
+      "Peng Cui",
+      "Fei Wu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.06137",
+    "pdf_url": "https://arxiv.org/pdf/2608.06137v1",
+    "github_url": "",
+    "published": "2026-08-06",
+    "tags": [
+      "Agentic Time Series",
+      "Tabular Foundation Models",
+      "Skill Evolution",
+      "Gated Skill",
+      "Training-Free Adaptation",
+      "Boundary Evidence",
+      "Electricity Price Forecasting",
+      "Reusable Skills",
+      "Verification"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/06/skilltfm-gated-skill-evolution-for-training-free-adaptation-of-tabular-foundatio.md"
+  },
+  {
+    "arxiv_id": "2608.05893",
+    "version": 1,
+    "title": "ECG-LENS: Lead-Aware Clinical Context Enriched ECG Report Generation and Evaluation",
+    "authors": [
+      "Akanta Das",
+      "Tasinul Islam Ahon",
+      "Ahmed Mahir Sultan Rumi",
+      "Md Mahbubur Rahman",
+      "Tausif Amim Shadly"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.05893",
+    "pdf_url": "https://arxiv.org/pdf/2608.05893v1",
+    "github_url": "",
+    "published": "2026-08-06",
+    "tags": [
+      "ECG报告生成",
+      "多导联时序建模",
+      "临床文本生成",
+      "GPT-2解码器",
+      "诊断标签评估",
+      "PTB-XL",
+      "MIMIC-IV-ECG"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/06/ecg-lens-lead-aware-clinical-context-enriched-ecg-report-generation-and-evaluati.md"
+  },
+  {
+    "arxiv_id": "2608.05685",
+    "version": 1,
+    "title": "Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model",
+    "authors": [
+      "Gospel Bassey",
+      "Vincent Fakiyesi"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.05685",
+    "pdf_url": "https://arxiv.org/pdf/2608.05685v1",
+    "github_url": "",
+    "published": "2026-08-06",
+    "tags": [
+      "工业故障诊断",
+      "可解释时间序列分析",
+      "标签构建与验证",
+      "无监督异常检测",
+      "双头模型",
+      "时序事件定位与分类"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/06/grounded-well-condition-anomaly-detection-on-the-volve-field-constructed-labels.md"
+  },
+  {
+    "arxiv_id": "2608.05571",
+    "version": 1,
+    "title": "Align-RAG: Alignment Is All You Need for TSFM In-Context Learning",
+    "authors": [
+      "Mohammad Asadi",
+      "Soheil Hor",
+      "Bardiya Akhbari",
+      "Jack W. O'Sullivan",
+      "Tahoura Nedaee"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.05571",
+    "pdf_url": "https://arxiv.org/pdf/2608.05571v1",
+    "github_url": "https://github.com/masadi-99/align-rag",
+    "published": "2026-08-06",
+    "tags": [
+      "Retrieval-Augmented Forecasting",
+      "Time Series Foundation Models",
+      "In-Context Learning",
+      "Training-Free Alignment",
+      "Chronos-Bolt",
+      "Zero-Shot Forecasting",
+      "Closed-Form Alignment",
+      "RAG for Time Series"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/06/align-rag-alignment-is-all-you-need-for-tsfm-in-context-learning.md"
+  },
+  {
+    "arxiv_id": "2608.05702",
+    "version": 1,
+    "title": "SEAM: Global consistency beyond local accuracy in scientific machine learning",
+    "authors": [
+      "Gnankan Landry Regis N'guessan",
+      "Bum Jun Kim"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.CE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.05702",
+    "pdf_url": "https://arxiv.org/pdf/2608.05702v1",
+    "github_url": "",
+    "published": "2026-08-06",
+    "tags": [
+      "可解释性",
+      "全局一致性",
+      "科学机器学习",
+      "解释审计",
+      "分布偏移监测",
+      "传感器",
+      "多区域分析"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/06/seam-global-consistency-beyond-local-accuracy-in-scientific-machine-learning.md"
+  }
+]
