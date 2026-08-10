@@ -214,5 +214,37 @@
     ],
     "relevance_score": 6.5,
     "md_path": "data/2026/08/06/seam-global-consistency-beyond-local-accuracy-in-scientific-machine-learning.md"
+  },
+  {
+    "arxiv_id": "2608.06305",
+    "version": 2,
+    "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations",
+    "authors": [
+      "Sagar Tamang",
+      "Ayush Vyas",
+      "Tabarakul Hazarika"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.06305",
+    "pdf_url": "https://arxiv.org/pdf/2608.06305v2",
+    "github_url": "https://github.com/twospoon/READ",
+    "published": "2026-08-06",
+    "tags": [
+      "Agentic RAG",
+      "Interpretable Retrieval",
+      "Document Search",
+      "Model Context Protocol",
+      "Audit Trail",
+      "Financial Documents",
+      "Tool Use",
+      "Evidence Routing"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/06/beyond-top-k-replacing-black-box-retrieval-with-interpretable-agentic-operations.md"
   }
 ]

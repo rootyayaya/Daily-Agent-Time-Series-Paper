@@ -1,0 +1,128 @@
+[
+  {
+    "arxiv_id": "2608.07427",
+    "version": 1,
+    "title": "A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy",
+    "authors": [
+      "Bhavika Jalli",
+      "Nikhil Korati Prasanna",
+      "Jayanta Choudhury"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.PF"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.07427",
+    "pdf_url": "https://arxiv.org/pdf/2608.07427v1",
+    "github_url": "",
+    "published": "2026-08-07",
+    "tags": [
+      "Vision-Language Model",
+      "Time-Series Analysis",
+      "Anomaly Detection",
+      "Energy Efficiency",
+      "Telecom Network Analytics",
+      "Multivariate KPI",
+      "Token Reduction",
+      "Numerical Time-Series Data Analysis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/07/a-picture-is-worth-a-thousand-tokens-how-vision-language-models-cut-ai-energy-co.md"
+  },
+  {
+    "arxiv_id": "2608.07126",
+    "version": 1,
+    "title": "PHOENIX: Fine-Tuned SLM-Powered Autonomous Satellite Lifetime Extension via Predictive Self-Healing and Multi-Agent AI Recovery",
+    "authors": [
+      "Sumaiya Islam",
+      "Harsha Kumara Moraliyage"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.07126",
+    "pdf_url": "https://arxiv.org/pdf/2608.07126v1",
+    "github_url": "",
+    "published": "2026-08-07",
+    "tags": [
+      "LLM/Agent for Time Series Anomaly Detection",
+      "Time Series Report",
+      "Predictive Maintenance",
+      "Multi-Agent Reasoning",
+      "Memory System",
+      "Small Language Model",
+      "Onboard Edge Inference",
+      "Synthetic Data Generation",
+      "Diffusion Model",
+      "Satellite Fault Diagnosis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/07/phoenix-fine-tuned-slm-powered-autonomous-satellite-lifetime-extension-via-predi.md"
+  },
+  {
+    "arxiv_id": "2608.06867",
+    "version": 1,
+    "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+    "authors": [
+      "Tao Feng",
+      "Fangxu Yu",
+      "Haozhen Zhang",
+      "Zhongjie Dai",
+      "Liangqi Yuan"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.06867",
+    "pdf_url": "https://arxiv.org/pdf/2608.06867v1",
+    "github_url": "",
+    "published": "2026-08-07",
+    "tags": [
+      "LLM Router",
+      "Model Routing",
+      "Time-Series Routing",
+      "Unified Infrastructure",
+      "Benchmark",
+      "Sequential Decision Process",
+      "Cost-Effective Deployment",
+      "Personalized Routing"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/07/llmrouter-unified-infrastructure-for-developing-evaluating-and-deploying-llm-rou.md"
+  },
+  {
+    "arxiv_id": "2608.07148",
+    "version": 1,
+    "title": "A MARL Centered Reference Architecture for Large Language Model Augmentation in Smart Manufacturing",
+    "authors": [
+      "Fouad Bahrpeyma",
+      "Dirk Reichelt"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.07148",
+    "pdf_url": "https://arxiv.org/pdf/2608.07148v1",
+    "github_url": "",
+    "published": "2026-08-07",
+    "tags": [
+      "LLM-Augmented MARL",
+      "Smart Manufacturing",
+      "Dec-POMDP",
+      "Reference Architecture",
+      "Semantic Reasoning",
+      "Adaptive Control",
+      "LLM Attachment Points",
+      "Hierarchical Planning",
+      "Reward Design",
+      "Communication"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/07/a-marl-centered-reference-architecture-for-large-language-model-augmentation-in.md"
+  }
+]
