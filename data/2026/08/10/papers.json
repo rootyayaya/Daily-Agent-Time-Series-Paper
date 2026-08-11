@@ -1,0 +1,100 @@
+[
+  {
+    "arxiv_id": "2608.09053",
+    "version": 1,
+    "title": "Diagnosing as Cardiologists Do: ECG Agents with Doctor-Grounded Priors for Clinical Reasoning Across Diseases and Populations",
+    "authors": [
+      "Hongxiang Gao",
+      "He-yang Xu",
+      "Yuwen Li",
+      "Minghui Zhao",
+      "Zhipeng Cai"
+    ],
+    "author_count": 9,
+    "categories": [
+      "eess.SP",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.09053",
+    "pdf_url": "https://arxiv.org/pdf/2608.09053v1",
+    "github_url": "",
+    "published": "2026-08-10",
+    "tags": [
+      "Agentic Time Series",
+      "ECG 诊断",
+      "视觉语言模型",
+      "临床推理",
+      "可解释诊断",
+      "测量引导推理",
+      "零样本迁移",
+      "报告生成"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/10/diagnosing-as-cardiologists-do-ecg-agents-with-doctor-grounded-priors-for-clinic.md"
+  },
+  {
+    "arxiv_id": "2608.08968",
+    "version": 1,
+    "title": "GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices",
+    "authors": [
+      "Yifang Tian",
+      "Yaming Liu",
+      "Zichun Chong",
+      "Zihang Huang",
+      "Yiran Li"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.08968",
+    "pdf_url": "https://arxiv.org/pdf/2608.08968v1",
+    "github_url": "",
+    "published": "2026-08-10",
+    "tags": [
+      "LLM Agent",
+      "Root Cause Analysis",
+      "Microservices",
+      "Graph-Augmented",
+      "Multi-modal Telemetry",
+      "Incident Response",
+      "SURE-Score",
+      "Trace and Graph Structure",
+      "Diagnosis",
+      "Actionable Recommendations"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/10/gala-graph-augmented-llm-agents-for-root-cause-analysis-and-incident-response-in.md"
+  },
+  {
+    "arxiv_id": "2608.09246",
+    "version": 1,
+    "title": "An Explainable GNN Framework for Component-Level Anomaly Diagnosis",
+    "authors": [
+      "Sena Ozgunay",
+      "Louise Travé-Massuyès",
+      "Jean-Michel Loubes",
+      "Raul Sena Ferreira"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.09246",
+    "pdf_url": "https://arxiv.org/pdf/2608.09246v1",
+    "github_url": "",
+    "published": "2026-08-10",
+    "tags": [
+      "可解释GNN",
+      "组件级诊断",
+      "多变量时间序列",
+      "异常检测",
+      "工业系统",
+      "传感器影响分析"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/10/an-explainable-gnn-framework-for-component-level-anomaly-diagnosis.md"
+  }
+]

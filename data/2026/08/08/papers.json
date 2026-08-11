@@ -1,0 +1,70 @@
+[
+  {
+    "arxiv_id": "2608.08100",
+    "version": 1,
+    "title": "Defending Retrieval-Augmented Intrusion Detection Against Knowledge Poisoning and Prompt Injection",
+    "authors": [
+      "Kaysarul Anas Apurba",
+      "Md. Hasibul Hasan",
+      "Mahedee Zaman Moon",
+      "Sk. Md. Mizanur Rahman",
+      "Atsuo Inomata"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.08100",
+    "pdf_url": "https://arxiv.org/pdf/2608.08100v1",
+    "github_url": "",
+    "published": "2026-08-08",
+    "tags": [
+      "RAG",
+      "multi-agent",
+      "intrusion detection",
+      "network traffic classification",
+      "prompt injection",
+      "knowledge poisoning",
+      "retrieval-boundary defense",
+      "explainable AI",
+      "incident report generation",
+      "security"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/08/defending-retrieval-augmented-intrusion-detection-against-knowledge-poisoning-an.md"
+  },
+  {
+    "arxiv_id": "2608.07885",
+    "version": 1,
+    "title": "Reason Wide, Not Deep: Amortizing the Reasoning Premium into Distilled Skills",
+    "authors": [
+      "Agamdeep Singh",
+      "Srishti Gautam",
+      "Priyanshu Gupta",
+      "Nikita Mehrotra",
+      "Tanmay Bakshi"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.07885",
+    "pdf_url": "https://arxiv.org/pdf/2608.07885v1",
+    "github_url": "",
+    "published": "2026-08-08",
+    "tags": [
+      "Agentic Time Series",
+      "Skill Distillation",
+      "LLM Agent",
+      "Reasoning Amortization",
+      "Tool Use",
+      "Self-Evolving Skills",
+      "Trajectory Analysis",
+      "System Prompt Injection"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/08/reason-wide-not-deep-amortizing-the-reasoning-premium-into-distilled-skills.md"
+  }
+]

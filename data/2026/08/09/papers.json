@@ -1,0 +1,102 @@
+[
+  {
+    "arxiv_id": "2608.08859",
+    "version": 1,
+    "title": "Agentic Anomaly Detection with ORCA-Style Dynamic Inductive Bias Adaptation in Multimodal Wearable Time Series Data",
+    "authors": [
+      "Anushka Roy",
+      "Jyotirmoy Singh",
+      "Shreea Bose",
+      "Chittaranjan Hota"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.08859",
+    "pdf_url": "https://arxiv.org/pdf/2608.08859v1",
+    "github_url": "",
+    "published": "2026-08-09",
+    "tags": [
+      "Agentic Time Series",
+      "Anomaly Detection",
+      "Multivariate Time Series",
+      "Adaptive Inductive Bias",
+      "Temporal Receptive Field",
+      "Wearable Sensors",
+      "Physiological Signals",
+      "Inference-time Adaptation",
+      "Resource-constrained",
+      "MIMIC-IV"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/09/agentic-anomaly-detection-with-orca-style-dynamic-inductive-bias-adaptation-in-m.md"
+  },
+  {
+    "arxiv_id": "2608.08675",
+    "version": 1,
+    "title": "Efficient Test-Time Scaling for LLM-based Time Series Forecasting",
+    "authors": [
+      "Xuan-May Le",
+      "Minh-Tuan Tran",
+      "Ling Luo",
+      "Uwe Aickelin",
+      "Dinh Phung"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.08675",
+    "pdf_url": "https://arxiv.org/pdf/2608.08675v1",
+    "github_url": "https://github.com/xuanmay2701/SCALER",
+    "published": "2026-08-09",
+    "tags": [
+      "LLM-based time series forecasting",
+      "test-time scaling",
+      "coarse-to-fine refinement",
+      "iterative residual token refinement",
+      "long-term forecasting",
+      "zero-shot forecasting",
+      "efficient inference",
+      "shape modeling"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/09/efficient-test-time-scaling-for-llm-based-time-series-forecasting.md"
+  },
+  {
+    "arxiv_id": "2608.08618",
+    "version": 1,
+    "title": "RAG-Based Auto-Configuration for Industrial Fieldbus Devices",
+    "authors": [
+      "Aadil Gani Ganie",
+      "Saad Ezzini",
+      "Naveed Farooz Marazi"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.08618",
+    "pdf_url": "https://arxiv.org/pdf/2608.08618v1",
+    "github_url": "",
+    "published": "2026-08-09",
+    "tags": [
+      "RAG",
+      "LLM",
+      "工业设备配置",
+      "混合检索",
+      "本体对齐",
+      "工具调用",
+      "安全护栏",
+      "自进化",
+      "可追溯诊断",
+      "时间序列报告"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/09/rag-based-auto-configuration-for-industrial-fieldbus-devices.md"
+  }
+]
