@@ -1,0 +1,128 @@
+[
+  {
+    "arxiv_id": "2608.12304",
+    "version": 1,
+    "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+    "authors": [
+      "Saman Marandi",
+      "Yu-Shu Hu",
+      "Mohammad Modarres"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.12304",
+    "pdf_url": "https://arxiv.org/pdf/2608.12304v1",
+    "github_url": "",
+    "published": "2026-08-12",
+    "tags": [
+      "Agentic Time Series",
+      "Knowledge Graph",
+      "Retrieval-Augmented Generation",
+      "Functional Modeling",
+      "Fault Diagnosis",
+      "LLM Agent",
+      "Diagnostic Reasoning",
+      "Reliability Analysis"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/12/constructing-dynamic-master-logic-models-as-knowledge-graphs-for-complex-system.md"
+  },
+  {
+    "arxiv_id": "2608.11679",
+    "version": 1,
+    "title": "AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection",
+    "authors": [
+      "Touseef Hasan",
+      "Mounika Ghanta",
+      "Souvika Sarkar",
+      "Ujjwal Guin"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.IR",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.11679",
+    "pdf_url": "https://arxiv.org/pdf/2608.11679v1",
+    "github_url": "",
+    "published": "2026-08-12",
+    "tags": [
+      "Agentic Time Series",
+      "Digital Twin",
+      "Anomaly Detection",
+      "LLM Reasoning",
+      "Natural Language Report",
+      "Knowledge-Grounded Explanation",
+      "Multi-Agent Collaboration",
+      "Contextual Retrieval",
+      "Industrial Diagnosis",
+      "Sensor Data Interpretation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/12/agentictwin-an-agentic-llm-framework-integrated-with-digital-twin-for-anomaly-de.md"
+  },
+  {
+    "arxiv_id": "2608.11801",
+    "version": 1,
+    "title": "JAPE: Joint Anomaly Prediction and Intrinsic Explanation in Multivariate Time Series",
+    "authors": [
+      "Yian Wei",
+      "Yuanyuan Yao",
+      "Lu Chen",
+      "Xiangmin Zhou",
+      "Tianyi Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.11801",
+    "pdf_url": "https://arxiv.org/pdf/2608.11801v1",
+    "github_url": "",
+    "published": "2026-08-12",
+    "tags": [
+      "Multivariate Time Series",
+      "Anomaly Prediction",
+      "Explainability",
+      "Dependency Structure Modeling",
+      "Spatio-Temporal Representation",
+      "Variable-level Explanation",
+      "Graph-based Anomaly Detection"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/12/jape-joint-anomaly-prediction-and-intrinsic-explanation-in-multivariate-time-ser.md"
+  },
+  {
+    "arxiv_id": "2608.11534",
+    "version": 1,
+    "title": "CT-$Δ$Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models",
+    "authors": [
+      "Kegeng Tang",
+      "Jingbo Wang",
+      "Shaogang Ren",
+      "Zihao Wang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.11534",
+    "pdf_url": "https://arxiv.org/pdf/2608.11534v1",
+    "github_url": "",
+    "published": "2026-08-12",
+    "tags": [
+      "medical imaging",
+      "longitudinal comparison",
+      "difference reporting",
+      "vision-language model",
+      "benchmark",
+      "temporal reasoning"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/12/ct-δbench-a-benchmark-for-longitudinal-3d-medical-imaging-difference-reporting-w.md"
+  }
+]
