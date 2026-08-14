@@ -1,0 +1,136 @@
+[
+  {
+    "arxiv_id": "2608.12841",
+    "version": 1,
+    "title": "AQuA: Recursively Self-Improving Quantitative Trading Research Agents",
+    "authors": [
+      "Jiacheng Guo",
+      "Suozhi Huang",
+      "Yunlong Gao",
+      "Zihao Li",
+      "Jian Ge"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.12841",
+    "pdf_url": "https://arxiv.org/pdf/2608.12841v1",
+    "github_url": "",
+    "published": "2026-08-13",
+    "tags": [
+      "Agentic Time Series",
+      "Self-Improving Agents",
+      "Quantitative Trading",
+      "Multi-Agent Pipeline",
+      "Time Series Forecasting",
+      "Evidence Retention",
+      "Sandbox Evaluation",
+      "Factor Discovery"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/13/aqua-recursively-self-improving-quantitative-trading-research-agents.md"
+  },
+  {
+    "arxiv_id": "2608.13031",
+    "version": 1,
+    "title": "UniTraffic-Agent: Unified Traffic Video Reasoning for AI City Challenge 2026 Track 3 with Two Out-of-Domain Evaluations",
+    "authors": [
+      "Peng Li",
+      "Qianqian Xu",
+      "Shilong Bao",
+      "Yangbangyan Jiang",
+      "Qingming Huang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.13031",
+    "pdf_url": "https://arxiv.org/pdf/2608.13031v1",
+    "github_url": "https://github.com/Roclp/UniTraffic-Agent",
+    "published": "2026-08-13",
+    "tags": [
+      "Agentic workflow",
+      "Video reasoning",
+      "Traffic anomaly reasoning",
+      "Multimodal LLM",
+      "Evidence-based reasoning",
+      "Task-specific action adapters",
+      "AI City Challenge"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/13/unitraffic-agent-unified-traffic-video-reasoning-for-ai-city-challenge-2026-trac.md"
+  },
+  {
+    "arxiv_id": "2608.13558",
+    "version": 1,
+    "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+    "authors": [
+      "Bobo Li",
+      "Hao Fei",
+      "Tianjie Ju",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.13558",
+    "pdf_url": "https://arxiv.org/pdf/2608.13558v1",
+    "github_url": "",
+    "published": "2026-08-13",
+    "tags": [
+      "Agentic Time Series",
+      "LLM/Agent 工作流",
+      "多模态感知",
+      "科学发现自动化",
+      "证据路由",
+      "可追溯性",
+      "统计验证",
+      "多智能体协作",
+      "时序信号处理",
+      "端到端研究自动化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/13/omniscientist-an-omni-modal-omni-discipline-ai-scientist.md"
+  },
+  {
+    "arxiv_id": "2608.12984",
+    "version": 1,
+    "title": "Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research",
+    "authors": [
+      "Xing Zhang",
+      "Yanwei Cui",
+      "Guanghui Wang",
+      "Peiyang He"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.12984",
+    "pdf_url": "https://arxiv.org/pdf/2608.12984v1",
+    "github_url": "",
+    "published": "2026-08-13",
+    "tags": [
+      "multi-agent system",
+      "trust-tiered knowledge library",
+      "point-in-time evidence",
+      "contradiction-free report generation",
+      "red-team verification",
+      "evidence routing",
+      "model routing",
+      "RAG alternative",
+      "long-form report generation",
+      "provenance tracking"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/13/reconcile-once-write-anytime-a-trust-tiered-librarian-and-a-multi-agent-writer-f.md"
+  }
+]
