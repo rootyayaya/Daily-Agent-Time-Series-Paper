@@ -1,0 +1,65 @@
+[
+  {
+    "arxiv_id": "2608.14270",
+    "version": 1,
+    "title": "TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments",
+    "authors": [
+      "Qingren Yao",
+      "Yaxuan Kong",
+      "Yuqi Nie",
+      "Yichen Li",
+      "Stefan Zohren"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.14270",
+    "pdf_url": "https://arxiv.org/pdf/2608.14270v1",
+    "github_url": "",
+    "published": "2026-08-14",
+    "tags": [
+      "Agentic Time Series",
+      "Time Series QA Benchmark",
+      "Evolving Environments",
+      "Self-Evolving Agent",
+      "Skill Library",
+      "Temporal Validity",
+      "LLM Agent",
+      "Time Series Analysis",
+      "Failure Mode Analysis",
+      "Live Benchmark"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/14/timesage-ev-a-live-benchmark-for-agentic-time-series-analysis-in-evolving-enviro.md"
+  },
+  {
+    "arxiv_id": "2608.14054",
+    "version": 1,
+    "title": "Model-agnostic Retrieval-Augmented Extended Forecasting for time series",
+    "authors": [
+      "Juan Pablo Villa Serna",
+      "Rohan Asthana",
+      "Vasileios Belagiannis"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.14054",
+    "pdf_url": "https://arxiv.org/pdf/2608.14054v1",
+    "github_url": "",
+    "published": "2026-08-14",
+    "tags": [
+      "Retrieval-Augmented Forecasting",
+      "Time Series Foundation Models",
+      "RAG for Time Series",
+      "Model-Agnostic Adaptation",
+      "Zero-shot Forecasting",
+      "Domain Adaptation",
+      "Efficient Inference"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/14/model-agnostic-retrieval-augmented-extended-forecasting-for-time-series.md"
+  }
+]

@@ -132,5 +132,34 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/08/13/reconcile-once-write-anytime-a-trust-tiered-librarian-and-a-multi-agent-writer-f.md"
+  },
+  {
+    "arxiv_id": "2608.13676",
+    "version": 1,
+    "title": "EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models",
+    "authors": [
+      "Deeksha M Shama",
+      "Punnisa Amornsirikul",
+      "Archana Venkataraman"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.13676",
+    "pdf_url": "https://arxiv.org/pdf/2608.13676v1",
+    "github_url": "",
+    "published": "2026-08-13",
+    "tags": [
+      "EEG foundation models",
+      "interpretability",
+      "post-hoc attribution",
+      "frequency domain mapping",
+      "source domain mapping",
+      "biomarker identification",
+      "clinical EEG analysis"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/13/eeg-prism-physiologically-grounded-interpretability-of-predictions-by-eeg-founda.md"
   }
 ]
