@@ -1,0 +1,103 @@
+[
+  {
+    "arxiv_id": "2608.18017",
+    "version": 1,
+    "title": "Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach",
+    "authors": [
+      "Lu Xu",
+      "Xu Li",
+      "Linjiang Zheng",
+      "Fan Li",
+      "Riquan Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.18017",
+    "pdf_url": "https://arxiv.org/pdf/2608.18017v1",
+    "github_url": "",
+    "published": "2026-08-18",
+    "tags": [
+      "Agentic Time Series",
+      "可解释时序诊断",
+      "LLM时间序列分析",
+      "自然语言报告生成",
+      "统计专家与LLM结合",
+      "提示工程",
+      "少样本学习",
+      "航空安全",
+      "飞行数据分析",
+      "故障解释"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/18/can-large-language-models-explain-flight-safety-events-a-prior-guided-semantic-l.md"
+  },
+  {
+    "arxiv_id": "2608.17933",
+    "version": 1,
+    "title": "EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection",
+    "authors": [
+      "Lei Jiang",
+      "Ye Wei",
+      "Xinyu Xi",
+      "Jordan Langham-Lopez",
+      "Yifan Bao"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.CE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.17933",
+    "pdf_url": "https://arxiv.org/pdf/2608.17933v1",
+    "github_url": "",
+    "published": "2026-08-18",
+    "tags": [
+      "LLM Agent",
+      "Time Series Change Point Detection",
+      "Self-Evolving",
+      "Validation-Guided",
+      "Tool Use",
+      "Financial Time Series",
+      "Autonomous Model Selection",
+      "Experiment Trajectory Evolution",
+      "Revision/Alternative/Recombination",
+      "Agentic Time Series"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/18/evots-agent-a-self-evolving-llm-agent-for-financial-time-series-change-point-det.md"
+  },
+  {
+    "arxiv_id": "2608.17965",
+    "version": 1,
+    "title": "Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection",
+    "authors": [
+      "Bin Li",
+      "Dongdong Wang",
+      "Siyang Lu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.17965",
+    "pdf_url": "https://arxiv.org/pdf/2608.17965v1",
+    "github_url": "",
+    "published": "2026-08-18",
+    "tags": [
+      "log anomaly detection",
+      "model calibration",
+      "confidence estimation",
+      "language models",
+      "reliability",
+      "post-hoc framework",
+      "class imbalance",
+      "overconfidence"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/18/too-sure-to-be-safe-model-calibration-for-reliable-log-anomaly-detection.md"
+  }
+]
