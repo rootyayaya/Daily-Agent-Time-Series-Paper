@@ -1,0 +1,170 @@
+[
+  {
+    "arxiv_id": "2608.18836",
+    "version": 1,
+    "title": "Verifiable abstention makes AI leak diagnosis accountable in water distribution networks",
+    "authors": [
+      "Tianwei Mu",
+      "Yue Wang",
+      "Mingzhe Yuan",
+      "Manhong Huang",
+      "Wenhong Wang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.18836",
+    "pdf_url": "https://arxiv.org/pdf/2608.18836v1",
+    "github_url": "",
+    "published": "2026-08-19",
+    "tags": [
+      "Agentic Time Series",
+      "可解释故障诊断",
+      "LLM/Agent",
+      "可验证弃权",
+      "数字孪生",
+      "证据路由",
+      "监督者-执行者架构",
+      "工业传感器解释",
+      "预测性维护",
+      "自然语言报告"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/19/verifiable-abstention-makes-ai-leak-diagnosis-accountable-in-water-distribution.md"
+  },
+  {
+    "arxiv_id": "2608.18473",
+    "version": 1,
+    "title": "A Locally Deployable Tool-Grounded LLM Multi-agent Framework for Automating Methane Emission Analysis and Reporting",
+    "authors": [
+      "Yang Yan",
+      "Zifan Zhou",
+      "Xuan Wang",
+      "Erum Hassan",
+      "Bilguunzaya Mijiddorj"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.18473",
+    "pdf_url": "https://arxiv.org/pdf/2608.18473v1",
+    "github_url": "",
+    "published": "2026-08-19",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Multi-agent Framework",
+      "Tool Grounding",
+      "Workflow Coordination",
+      "Methane Emission Analysis",
+      "Field Monitoring",
+      "Report Generation",
+      "Sensor Processing",
+      "Plume Analysis",
+      "Traceable Outputs",
+      "Local Deployment",
+      "Data Security"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/19/a-locally-deployable-tool-grounded-llm-multi-agent-framework-for-automating-meth.md"
+  },
+  {
+    "arxiv_id": "2608.18465",
+    "version": 1,
+    "title": "Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual",
+    "authors": [
+      "Seongjun Ha",
+      "Md Rashedul Islam",
+      "Gaurav Nanda",
+      "Damon Lercel"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.HC",
+      "cs.ET",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.18465",
+    "pdf_url": "https://arxiv.org/pdf/2608.18465v1",
+    "github_url": "",
+    "published": "2026-08-19",
+    "tags": [
+      "Multimodal RAG",
+      "Aircraft Maintenance",
+      "ColPali",
+      "Vision-Language Model",
+      "Technical Manual Retrieval",
+      "Interpretability",
+      "Industrial Documentation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/19/reducing-technician-search-burden-a-multimodal-rag-for-cessna-172-maintenance-ma.md"
+  },
+  {
+    "arxiv_id": "2608.18704",
+    "version": 1,
+    "title": "MemFuse: Multi-Source Memory Fusion from Fragmented Observations",
+    "authors": [
+      "Chao Li",
+      "Yuanfa Li",
+      "Wenhao Wu",
+      "Xule Liu",
+      "Zhi Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.18704",
+    "pdf_url": "https://arxiv.org/pdf/2608.18704v1",
+    "github_url": "",
+    "published": "2026-08-19",
+    "tags": [
+      "multi-source memory fusion",
+      "long-term memory",
+      "agent memory",
+      "evidence traceability",
+      "temporal reasoning",
+      "cross-source evidence fusion",
+      "benchmark",
+      "LLM agents"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/19/memfuse-multi-source-memory-fusion-from-fragmented-observations.md"
+  },
+  {
+    "arxiv_id": "2608.18419",
+    "version": 1,
+    "title": "Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLaMA 3.1 8B",
+    "authors": [
+      "Rahul Chowdhury",
+      "Timothy A Rupprecht",
+      "Senhao Cao",
+      "Jiahao Liu",
+      "Octavia Camps"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.18419",
+    "pdf_url": "https://arxiv.org/pdf/2608.18419v1",
+    "github_url": "",
+    "published": "2026-08-19",
+    "tags": [
+      "Mechanistic Interpretability",
+      "LLM Time-Series Prediction",
+      "In-Context Learning",
+      "Activation Patching",
+      "Probing",
+      "Induction Circuit",
+      "Numerical Reasoning",
+      "First Differences"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/19/mechanistic-interpretability-of-structure-aware-numerical-reasoning-in-llama-31.md"
+  }
+]
