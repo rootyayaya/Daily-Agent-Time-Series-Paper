@@ -1,0 +1,124 @@
+[
+  {
+    "arxiv_id": "2608.20116",
+    "version": 1,
+    "title": "When Text and Numbers Disagree: Evidence Arbitration in Large Language Models",
+    "authors": [
+      "Mattia Carletti",
+      "Edward Phillips",
+      "Fredrik K. Gustafsson",
+      "Patitapaban Palo",
+      "Lei Clifton"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.20116",
+    "pdf_url": "https://arxiv.org/pdf/2608.20116v1",
+    "github_url": "",
+    "published": "2026-08-20",
+    "tags": [
+      "LLM证据仲裁",
+      "时间序列与文本冲突",
+      "工具增强决策",
+      "多模态证据融合",
+      "时间序列报告",
+      "可解释诊断",
+      "模型可靠性",
+      "合成基准"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/20/when-text-and-numbers-disagree-evidence-arbitration-in-large-language-models.md"
+  },
+  {
+    "arxiv_id": "2608.19938",
+    "version": 1,
+    "title": "From Noise to Signal: Improving Security Log Anomaly Detection Using LLMs with Endpoint-Specific Logs",
+    "authors": [
+      "Christopher Henshaw",
+      "Gour Karmakar"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.19938",
+    "pdf_url": "https://arxiv.org/pdf/2608.19938v1",
+    "github_url": "",
+    "published": "2026-08-20",
+    "tags": [
+      "LLM-based anomaly detection",
+      "security log analysis",
+      "instruction-tuned LLM",
+      "authentication behavior",
+      "rule-based vs statistical vs LLM",
+      "borderline anomaly detection",
+      "structured output",
+      "cybersecurity testbed"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/20/from-noise-to-signal-improving-security-log-anomaly-detection-using-llms-with-en.md"
+  },
+  {
+    "arxiv_id": "2608.19819",
+    "version": 1,
+    "title": "Large reasoning models for abnormal situation management in safety-critical industrial processes",
+    "authors": [
+      "Khalid Alhazmi"
+    ],
+    "author_count": 1,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.19819",
+    "pdf_url": "https://arxiv.org/pdf/2608.19819v1",
+    "github_url": "",
+    "published": "2026-08-20",
+    "tags": [
+      "LLM/Agent for time series anomaly detection",
+      "fault diagnosis",
+      "industrial process safety",
+      "tool use",
+      "programmatic verification",
+      "reasoning model",
+      "abnormal situation management",
+      "root-cause analysis",
+      "auditable decision chain"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/20/large-reasoning-models-for-abnormal-situation-management-in-safety-critical-indu.md"
+  },
+  {
+    "arxiv_id": "2608.19966",
+    "version": 1,
+    "title": "Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning",
+    "authors": [
+      "Jiazhe Wang",
+      "Zhiquan Huang",
+      "Linjing Xue",
+      "Ming Liu",
+      "Meiwen Li"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.19966",
+    "pdf_url": "https://arxiv.org/pdf/2608.19966v1",
+    "github_url": "",
+    "published": "2026-08-20",
+    "tags": [
+      "multivariate time series forecasting",
+      "semantic structured partitioning",
+      "patch-based forecasting",
+      "dynamic semantic graph",
+      "importance-aware routing",
+      "expert modeling",
+      "Transformer"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/20/rethinking-patch-based-multivariate-time-series-forecasting-with-semantic-struct.md"
+  }
+]
