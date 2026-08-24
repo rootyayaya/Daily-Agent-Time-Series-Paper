@@ -120,5 +120,40 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/08/20/rethinking-patch-based-multivariate-time-series-forecasting-with-semantic-struct.md"
+  },
+  {
+    "arxiv_id": "2608.20519",
+    "version": 1,
+    "title": "An integrated diffusion-weighted imaging processing and interpretation platform for MR-guided radiotherapy",
+    "authors": [
+      "Yunxiang Li",
+      "Yan Dai",
+      "Yen-Peng Liao",
+      "Jie Deng",
+      "Jill B De Vis"
+    ],
+    "author_count": 6,
+    "categories": [
+      "physics.med-ph",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.20519",
+    "pdf_url": "https://arxiv.org/pdf/2608.20519v1",
+    "github_url": "",
+    "published": "2026-08-20",
+    "tags": [
+      "RAG",
+      "LLM agent",
+      "time series report",
+      "traceable diagnosis",
+      "clinical interpretation",
+      "tool use",
+      "knowledge base",
+      "evidence routing",
+      "MR-guided radiotherapy",
+      "diffusion-weighted imaging"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/20/an-integrated-diffusion-weighted-imaging-processing-and-interpretation-platform.md"
   }
 ]

@@ -1,0 +1,97 @@
+[
+  {
+    "arxiv_id": "2608.21277",
+    "version": 1,
+    "title": "ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting",
+    "authors": [
+      "Yichen Jiang",
+      "Yueqiao Chen",
+      "Dongyu Liu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.21277",
+    "pdf_url": "https://arxiv.org/pdf/2608.21277v1",
+    "github_url": "",
+    "published": "2026-08-21",
+    "tags": [
+      "time series report",
+      "semantic description",
+      "LLM-guided concept bottleneck",
+      "interpretable forecasting",
+      "multivariate time series",
+      "natural language generation",
+      "concept activation",
+      "domain knowledge injection",
+      "intervention"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/21/conceptts-llm-guided-concept-bottlenecks-for-interpretable-multivariate-time-ser.md"
+  },
+  {
+    "arxiv_id": "2608.20920",
+    "version": 1,
+    "title": "ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction",
+    "authors": [
+      "Linhao Zhong",
+      "Zongze Du",
+      "Linyu Wu",
+      "Yu Bo",
+      "Hourong Li"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.20920",
+    "pdf_url": "https://arxiv.org/pdf/2608.20920v1",
+    "github_url": "",
+    "published": "2026-08-21",
+    "tags": [
+      "Agentic Time Series",
+      "未来事件预测",
+      "双智能体架构",
+      "记忆管理",
+      "自进化",
+      "证据蒸馏",
+      "开放网络预测"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/21/foredreamer-a-self-evolving-dual-agent-memory-architecture-for-future-event-pred.md"
+  },
+  {
+    "arxiv_id": "2608.20761",
+    "version": 1,
+    "title": "Fuzzy-MoE: Interpretable Regime-Conditioned Expert Routing for Non-Stationary Multivariate Time Series Forecasting",
+    "authors": [
+      "Lan Guo",
+      "Jie Xiao",
+      "Zhao Su",
+      "Jun Shen",
+      "Haoran Li"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.20761",
+    "pdf_url": "https://arxiv.org/pdf/2608.20761v1",
+    "github_url": "",
+    "published": "2026-08-21",
+    "tags": [
+      "Mixture-of-Experts",
+      "Interpretable Routing",
+      "Non-Stationary Time Series",
+      "Multivariate Forecasting",
+      "Fuzzy Logic",
+      "Latent State Identification",
+      "Expert Selection",
+      "Mechanism Transparency"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/21/fuzzy-moe-interpretable-regime-conditioned-expert-routing-for-non-stationary-mul.md"
+  }
+]
