@@ -1,0 +1,33 @@
+[
+  {
+    "arxiv_id": "2608.22321",
+    "version": 1,
+    "title": "Semantics or Structure? Auditing Text Sensitivity in Multimodal Time-Series Forecasting",
+    "authors": [
+      "Karthik Sridhar",
+      "Atharva Gupta",
+      "Nishant Pradhan",
+      "Murari Mandal",
+      "Dhruv Kumar"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.22321",
+    "pdf_url": "https://arxiv.org/pdf/2608.22321v1",
+    "github_url": "",
+    "published": "2026-08-23",
+    "tags": [
+      "多模态时间序列预测",
+      "文本敏感性审计",
+      "扰动分析",
+      "可解释性",
+      "多模态基础模型",
+      "Time-MMD基准",
+      "诊断工具包"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/23/semantics-or-structure-auditing-text-sensitivity-in-multimodal-time-series-forec.md"
+  }
+]

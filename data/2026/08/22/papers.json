@@ -1,0 +1,65 @@
+[
+  {
+    "arxiv_id": "2608.21868",
+    "version": 1,
+    "title": "HiMA-MDD: A Hierarchical Multi-Agent Harness for Interpretable Multimodal Depression Detection in Clinical Interviews",
+    "authors": [
+      "Ao Chen",
+      "Xiaojiang Peng"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.21868",
+    "pdf_url": "https://arxiv.org/pdf/2608.21868v1",
+    "github_url": "",
+    "published": "2026-08-22",
+    "tags": [
+      "多智能体系统",
+      "分层证据路由",
+      "可解释诊断",
+      "临床访谈分析",
+      "LLM工作流编排",
+      "证据追踪",
+      "PHQ-8评估",
+      "多模态融合"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/22/hima-mdd-a-hierarchical-multi-agent-harness-for-interpretable-multimodal-depress.md"
+  },
+  {
+    "arxiv_id": "2608.22062",
+    "version": 1,
+    "title": "Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification",
+    "authors": [
+      "Xingtao Lin",
+      "Yubo Feng",
+      "Weixin Liu",
+      "Hangqi Ren",
+      "Junchao Zhou"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.22062",
+    "pdf_url": "https://arxiv.org/pdf/2608.22062v1",
+    "github_url": "",
+    "published": "2026-08-22",
+    "tags": [
+      "GraphRAG",
+      "证据路由",
+      "事件验证",
+      "临床时间序列",
+      "可追溯诊断链",
+      "证据合约",
+      "时间序列报告",
+      "多源证据融合",
+      "LLM/Agent",
+      "医疗诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/22/search-broadly-seek-evidence-on-both-sides-decide-narrowly-evidence-admissible-g.md"
+  }
+]

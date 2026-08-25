@@ -1,0 +1,177 @@
+[
+  {
+    "arxiv_id": "2608.23058",
+    "version": 1,
+    "title": "LLM-based Agents for Forecasting and Prediction: Methods, Training, Evaluation, and Applications",
+    "authors": [
+      "Xiaogang Xu",
+      "Jiaqi Tang",
+      "Jianmin Chen",
+      "Yingying Yan",
+      "Zhenchao Tang"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.23058",
+    "pdf_url": "https://arxiv.org/pdf/2608.23058v1",
+    "github_url": "",
+    "published": "2026-08-24",
+    "tags": [
+      "LLM-based Forecasting Agents",
+      "Time Series Forecasting",
+      "Tool-Augmented Agents",
+      "Retrieval-Augmented Generation",
+      "Hybrid LLM-Statistical Models",
+      "Evidence Retrieval",
+      "Evaluation Protocols",
+      "Distribution Shift",
+      "Benchmark Contamination",
+      "Financial Forecasting",
+      "Weather Forecasting",
+      "Health Forecasting",
+      "Energy Forecasting",
+      "Operations Forecasting"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/24/llm-based-agents-for-forecasting-and-prediction-methods-training-evaluation-and.md"
+  },
+  {
+    "arxiv_id": "2608.23473",
+    "version": 1,
+    "title": "MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters",
+    "authors": [
+      "ChengAo Shen",
+      "Wenchao Yu",
+      "Fangyu Wu",
+      "Dongjin Song",
+      "Hanghang Tong"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.23473",
+    "pdf_url": "https://arxiv.org/pdf/2608.23473v1",
+    "github_url": "",
+    "published": "2026-08-24",
+    "tags": [
+      "Agentic Time Series",
+      "多智能体框架",
+      "少样本学习",
+      "轻量级时序预测器",
+      "数据生成",
+      "元优化",
+      "时序预测",
+      "资源受限场景",
+      "文本上下文"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/24/metacaster-meta-harness-optimized-agent-for-end-to-end-few-shot-learning-of-ligh.md"
+  },
+  {
+    "arxiv_id": "2608.23397",
+    "version": 1,
+    "title": "MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction",
+    "authors": [
+      "Ruoyu Wu",
+      "Shenfu Xie",
+      "Yinqian Sun",
+      "Haibo Tong",
+      "Feifei Zhao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.23397",
+    "pdf_url": "https://arxiv.org/pdf/2608.23397v1",
+    "github_url": "",
+    "published": "2026-08-24",
+    "tags": [
+      "Clinical Agent",
+      "Self-Evolution",
+      "Process-Constrained Reasoning",
+      "Evidence Grounding",
+      "Skill Bank",
+      "Process Rules",
+      "Symbolic Schemas",
+      "Measurement Procedures",
+      "Safety-Prioritized Critic",
+      "Tool Interface",
+      "Diagnosis Accuracy",
+      "Treatment-Intent Coverage",
+      "Partial Observability",
+      "Agentic Workflow"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/24/mediskill-evo-process-constrained-self-evolution-for-evidence-grounded-clinical.md"
+  },
+  {
+    "arxiv_id": "2608.22968",
+    "version": 1,
+    "title": "Do Time-Series Foundation Models Pay Off for Industrial Monitoring? A Cost-Aware Empirical Study",
+    "authors": [
+      "Guan-Hua Wen",
+      "Kuan-Yu Chen"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.22968",
+    "pdf_url": "https://arxiv.org/pdf/2608.22968v1",
+    "github_url": "",
+    "published": "2026-08-24",
+    "tags": [
+      "Time-Series Foundation Models",
+      "Industrial Monitoring",
+      "Anomaly Detection",
+      "Empirical Study",
+      "Cost-Aware Evaluation",
+      "C-MAPSS",
+      "MIMII",
+      "BDG2",
+      "Zero-Shot Forecasting",
+      "Lightweight Baselines"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/24/do-time-series-foundation-models-pay-off-for-industrial-monitoring-a-cost-aware.md"
+  },
+  {
+    "arxiv_id": "2608.22817",
+    "version": 1,
+    "title": "Industrial-Instruction: An End-to-End Framework for Building Instruction-Tuning and Benchmark Datasets from Industrial Technical Reports",
+    "authors": [
+      "Parsa Bakhtiari",
+      "Hassan Bashiri",
+      "Alireza Khalilipour",
+      "Masoud Nasiripour",
+      "Moharram Challenger"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.22817",
+    "pdf_url": "https://arxiv.org/pdf/2608.22817v1",
+    "github_url": "https://github.com/parssky/industrial-instruction",
+    "published": "2026-08-24",
+    "tags": [
+      "Industrial Technical Reports",
+      "Instruction Tuning",
+      "QA Benchmark",
+      "Semantic Retrieval",
+      "Evidence Grounding",
+      "LLM Fine-tuning",
+      "Document Understanding",
+      "Layout-aware Extraction",
+      "Multi-document Reasoning",
+      "Open vs Closed LLM"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/24/industrial-instruction-an-end-to-end-framework-for-building-instruction-tuning-a.md"
+  }
+]
