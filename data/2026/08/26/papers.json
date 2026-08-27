@@ -1,0 +1,102 @@
+[
+  {
+    "arxiv_id": "2608.25661",
+    "version": 1,
+    "title": "From General Agents to RCA Experts: A Self-Evolving Harness for Root Cause Analysis",
+    "authors": [
+      "Haiyu Huang",
+      "Jiewei Lyu",
+      "Zhihan Jiang",
+      "Jinyang Liu",
+      "Xiao He"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.25661",
+    "pdf_url": "https://arxiv.org/pdf/2608.25661v1",
+    "github_url": "",
+    "published": "2026-08-26",
+    "tags": [
+      "Agentic Time Series",
+      "Root Cause Analysis",
+      "Self-Evolving Agent",
+      "LLM-based Diagnosis",
+      "Tool Use",
+      "Verification",
+      "Industrial Deployment",
+      "Experience Accumulation",
+      "Harness Design",
+      "Multi-agent Reasoning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/26/from-general-agents-to-rca-experts-a-self-evolving-harness-for-root-cause-analys.md"
+  },
+  {
+    "arxiv_id": "2608.25871",
+    "version": 1,
+    "title": "CEDAR: Controlled and Event-Driven Demand Forecasting via Residual Decomposition",
+    "authors": [
+      "Junjie Meng",
+      "Ranxu Zhang",
+      "Zi-an Zhang",
+      "Shujun Liu",
+      "Xiaoning Qi"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.25871",
+    "pdf_url": "https://arxiv.org/pdf/2608.25871v1",
+    "github_url": "",
+    "published": "2026-08-26",
+    "tags": [
+      "Time Series Forecasting",
+      "Decision-Conditioned Forecasting",
+      "LLM-Assisted Event Alignment",
+      "Residual Decomposition",
+      "E-commerce Demand Forecasting",
+      "Counterfactual Simulation",
+      "Action-Conditioned Transformer"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/26/cedar-controlled-and-event-driven-demand-forecasting-via-residual-decomposition.md"
+  },
+  {
+    "arxiv_id": "2608.26088",
+    "version": 1,
+    "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+    "authors": [
+      "Evelyn Ma",
+      "Rama Kumar Pasumarthi",
+      "Kishwar Shafin",
+      "Mandar Sharma",
+      "Mimi Sun"
+    ],
+    "author_count": 28,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.26088",
+    "pdf_url": "https://arxiv.org/pdf/2608.26088v1",
+    "github_url": "",
+    "published": "2026-08-26",
+    "tags": [
+      "Agentic Time Series",
+      "Autonomous Data Selection",
+      "Geospatial Foundation Model Embeddings",
+      "Multimodal Data Fusion",
+      "Natural Language Query",
+      "Automated Model Selection",
+      "Spatiotemporal Prediction",
+      "End-to-End Workflow",
+      "Planetary-Scale Analytics"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/26/planetary-prediction-engine-autonomous-geospatial-prediction-via-intelligent-dat.md"
+  }
+]
