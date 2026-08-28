@@ -1,0 +1,197 @@
+[
+  {
+    "arxiv_id": "2608.27182",
+    "version": 1,
+    "title": "TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution",
+    "authors": [
+      "Tommaso Bendinelli",
+      "Artur Dox",
+      "Christian Holz"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.27182",
+    "pdf_url": "https://arxiv.org/pdf/2608.27182v1",
+    "github_url": "",
+    "published": "2026-08-27",
+    "tags": [
+      "LLM Agent",
+      "Time-Series Root-Cause Attribution",
+      "Controlled Evaluation",
+      "Anomaly Detection",
+      "Dynamical Systems",
+      "Simulation-Based Benchmark",
+      "Agent Trajectories",
+      "Domain Context",
+      "Numerical vs Visual Exploration",
+      "Prediction Format Impact"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/27/tracebench-controlled-evaluation-of-llm-agents-for-time-series-root-cause-attrib.md"
+  },
+  {
+    "arxiv_id": "2608.27021",
+    "version": 1,
+    "title": "FaulT-Bench: Towards Benchmarking Network Troubleshooting LLM Agents under Unreliable User Tickets",
+    "authors": [
+      "Kuan-Hao Tseng",
+      "Niruth Bogahawatta",
+      "Yasod Ginige",
+      "Kunjan Patel",
+      "Kosta Dakic"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.NI",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.27021",
+    "pdf_url": "https://arxiv.org/pdf/2608.27021v1",
+    "github_url": "",
+    "published": "2026-08-27",
+    "tags": [
+      "Agentic Time Series",
+      "网络故障诊断",
+      "LLM Agent",
+      "基准测试",
+      "不可靠用户工单",
+      "诊断推理",
+      "工具调用",
+      "LLM评估"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/27/fault-bench-towards-benchmarking-network-troubleshooting-llm-agents-under-unreli.md"
+  },
+  {
+    "arxiv_id": "2608.26990",
+    "version": 1,
+    "title": "DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research",
+    "authors": [
+      "Linsen Zhu",
+      "Yi Shi"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.26990",
+    "pdf_url": "https://arxiv.org/pdf/2608.26990v1",
+    "github_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "published": "2026-08-27",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "Stock Research",
+      "Evidence-Aware Orchestration",
+      "Multi-Agent System",
+      "Risk Control",
+      "Report Generation",
+      "Model Routing",
+      "Strategy Skills",
+      "Financial Analysis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/08/27/dsa-evidence-aware-llm-agent-orchestration-for-multi-market-stock-research.md"
+  },
+  {
+    "arxiv_id": "2608.27219",
+    "version": 1,
+    "title": "BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing",
+    "authors": [
+      "Yu Yvonne Wu",
+      "Arvind Pillai",
+      "Yuliang Chen",
+      "Yuwei Zhang",
+      "Sudarshan Regmi"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.27219",
+    "pdf_url": "https://arxiv.org/pdf/2608.27219v1",
+    "github_url": "",
+    "published": "2026-08-27",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "时间序列报告",
+      "可解释诊断",
+      "自然语言生成",
+      "时序推理",
+      "传感器数据",
+      "LLM-as-Judge",
+      "证据路由",
+      "长期时序建模",
+      "健康监测"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/27/balms-benchmarking-agentic-llms-for-longitudinal-mental-health-sensing.md"
+  },
+  {
+    "arxiv_id": "2608.27334",
+    "version": 1,
+    "title": "BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks",
+    "authors": [
+      "Jeong-Yoon Kim"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.27334",
+    "pdf_url": "https://arxiv.org/pdf/2608.27334v1",
+    "github_url": "https://github.com/kjy7567/BTS-AgentBench",
+    "published": "2026-08-27",
+    "tags": [
+      "Agentic Time Series",
+      "Telemetry Logs",
+      "Time Series Report",
+      "Benchmark Construction",
+      "Evidence Attribution",
+      "Read-Only Tool Store",
+      "Multi-Turn Episodes",
+      "Industrial Diagnostics",
+      "LLM Agent Evaluation",
+      "Replayable Pipeline"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/27/bts-agentbench-a-deterministic-replayable-pipeline-from-read-only-telemetry-logs.md"
+  },
+  {
+    "arxiv_id": "2608.26829",
+    "version": 1,
+    "title": "SAGE: Variate-Wise Semantic Augmentation for Vision-Language Time Series Forecasting",
+    "authors": [
+      "Haizhao Fan",
+      "Xinyi Le"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.26829",
+    "pdf_url": "https://arxiv.org/pdf/2608.26829v1",
+    "github_url": "",
+    "published": "2026-08-27",
+    "tags": [
+      "Time Series Forecasting",
+      "Vision-Language Model",
+      "CLIP",
+      "Semantic Augmentation",
+      "Multimodal Learning",
+      "Variable-Specific Description",
+      "Statistical Descriptors",
+      "Contrastive Learning",
+      "Long-Term Forecasting",
+      "M4 Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/27/sage-variate-wise-semantic-augmentation-for-vision-language-time-series-forecast.md"
+  }
+]
