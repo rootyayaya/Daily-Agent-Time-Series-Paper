@@ -193,5 +193,38 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/08/27/sage-variate-wise-semantic-augmentation-for-vision-language-time-series-forecast.md"
+  },
+  {
+    "arxiv_id": "2608.26870",
+    "version": 1,
+    "title": "C-Unseen: Weak Signal Detection in Dynamic Temporal Knowledge Graphs via LLM Reasoning",
+    "authors": [
+      "Yassir Lairgi",
+      "Ludovic Moncla",
+      "Khalid Benabdeslem",
+      "Rémy Cazabet",
+      "Pierre Cléau"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.26870",
+    "pdf_url": "https://arxiv.org/pdf/2608.26870v1",
+    "github_url": "",
+    "published": "2026-08-27",
+    "tags": [
+      "Dynamic Temporal Knowledge Graphs",
+      "Weak Signal Detection",
+      "LLM Reasoning",
+      "Chain-of-Thought",
+      "Rare Subgraph Extraction",
+      "Temporal Persistence Tracking",
+      "Self-Interpretable Framework"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/27/c-unseen-weak-signal-detection-in-dynamic-temporal-knowledge-graphs-via-llm-reas.md"
   }
 ]
