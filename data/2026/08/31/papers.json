@@ -1,0 +1,199 @@
+[
+  {
+    "arxiv_id": "2608.30976",
+    "version": 1,
+    "title": "A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting",
+    "authors": [
+      "Xiaoyu Tao",
+      "Mingyue Cheng",
+      "Ze Guo",
+      "Bokai Pan",
+      "Qi Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.30976",
+    "pdf_url": "https://arxiv.org/pdf/2608.30976v1",
+    "github_url": "",
+    "published": "2026-08-31",
+    "tags": [
+      "Agentic Time Series",
+      "Human-in-the-Loop",
+      "Time Series Forecasting",
+      "LLM Agent",
+      "Execution Report",
+      "Evidence Routing",
+      "Tool Use",
+      "Constraint Checking",
+      "Electricity Price Forecasting",
+      "Interpretability"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/08/31/a-human-in-the-loop-autonomous-agent-for-industry-time-series-forecasting.md"
+  },
+  {
+    "arxiv_id": "2608.30685",
+    "version": 1,
+    "title": "ATLAS: Dual-Horizon Diagnostic Evaluation for Industrial Tool-Use Agents",
+    "authors": [
+      "Wei Chen",
+      "Peilun Zhou",
+      "Zhaoyu Hu",
+      "Jiajun Chai",
+      "Zhongni Hou"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.30685",
+    "pdf_url": "https://arxiv.org/pdf/2608.30685v1",
+    "github_url": "",
+    "published": "2026-08-31",
+    "tags": [
+      "LLM Agent 评估",
+      "工具调用诊断",
+      "双视野评估框架",
+      "工业应用",
+      "轨迹级诊断",
+      "交互级诊断",
+      "LLM judge 校准",
+      "策略优化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/31/atlas-dual-horizon-diagnostic-evaluation-for-industrial-tool-use-agents.md"
+  },
+  {
+    "arxiv_id": "2608.30192",
+    "version": 1,
+    "title": "FaVOR: LLM-Based Agentic Framework for Factor Mining via Empirical Validation",
+    "authors": [
+      "Hyeonjin Kim",
+      "Minseok Kim",
+      "Seunghyeon Jung",
+      "Sujin Pyo",
+      "Huisu Jang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.30192",
+    "pdf_url": "https://arxiv.org/pdf/2608.30192v1",
+    "github_url": "https://github.com/damilab/FaVOR",
+    "published": "2026-08-31",
+    "tags": [
+      "LLM Agent",
+      "多智能体系统",
+      "因子挖掘",
+      "假设验证",
+      "可解释性",
+      "金融时间序列",
+      "验证循环",
+      "经济合理性",
+      "鲁棒性"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/31/favor-llm-based-agentic-framework-for-factor-mining-via-empirical-validation.md"
+  },
+  {
+    "arxiv_id": "2608.30502",
+    "version": 1,
+    "title": "When the Martingale Never Stops Firing: Anytime-Valid Gating on Real Forecast Streams",
+    "authors": [
+      "Weijia Han",
+      "Lisha Qu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.30502",
+    "pdf_url": "https://arxiv.org/pdf/2608.30502v1",
+    "github_url": "",
+    "published": "2026-08-31",
+    "tags": [
+      "Anytime-valid inference",
+      "Conformal test martingales",
+      "Time series foundation models",
+      "Online monitoring",
+      "Gating mechanism",
+      "Kalman filter",
+      "Forecast streams",
+      "Change detection",
+      "Dependent data",
+      "Null-calibration"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/31/when-the-martingale-never-stops-firing-anytime-valid-gating-on-real-forecast-str.md"
+  },
+  {
+    "arxiv_id": "2608.31128",
+    "version": 1,
+    "title": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+    "authors": [
+      "Yung Wei Shueh",
+      "Zhi-Jie Chen",
+      "Chia-Hsuan Hsu",
+      "Hsin-Ling Hsu",
+      "Donghua Zhang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.31128",
+    "pdf_url": "https://arxiv.org/pdf/2608.31128v1",
+    "github_url": "",
+    "published": "2026-08-31",
+    "tags": [
+      "multi-agent system",
+      "guideline-grounded report generation",
+      "verification layer",
+      "clinical decision support",
+      "EHR",
+      "risk screening",
+      "LLM entailment",
+      "auditable system",
+      "RAG",
+      "citation"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/31/diasentinel-an-auditable-multi-agent-system-for-guideline-grounded-diabetes-risk.md"
+  },
+  {
+    "arxiv_id": "2608.30581",
+    "version": 1,
+    "title": "Automated Testing of LLM-Based Post Hoc Explainers Using Model Checking as an Oracle",
+    "authors": [
+      "Dennis Gross",
+      "Helge Spieker"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.30581",
+    "pdf_url": "https://arxiv.org/pdf/2608.30581v1",
+    "github_url": "",
+    "published": "2026-08-31",
+    "tags": [
+      "LLM解释器",
+      "模型检测",
+      "自动化测试",
+      "自然语言解释",
+      "顺序决策",
+      "忠实性评估",
+      "测试用例生成",
+      "MDP环境"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/31/automated-testing-of-llm-based-post-hoc-explainers-using-model-checking-as-an-or.md"
+  }
+]

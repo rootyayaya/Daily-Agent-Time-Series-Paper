@@ -1,0 +1,60 @@
+[
+  {
+    "arxiv_id": "2608.29579",
+    "version": 1,
+    "title": "Predicting the Unpredictable: LLM-powered Long-term Chaotic Time Series Forecasting under Short-term Observations",
+    "authors": [
+      "Yuhang Yao",
+      "Bohan Jiang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.29579",
+    "pdf_url": "https://arxiv.org/pdf/2608.29579v1",
+    "github_url": "",
+    "published": "2026-08-30",
+    "tags": [
+      "LLM for time series forecasting",
+      "chaotic time series",
+      "phase-space embedding",
+      "multivariate fusion",
+      "gated weighting",
+      "short-term observations",
+      "long-term prediction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/08/30/predicting-the-unpredictable-llm-powered-long-term-chaotic-time-series-forecasti.md"
+  },
+  {
+    "arxiv_id": "2608.29901",
+    "version": 1,
+    "title": "INTERVenE: Temporal-Abstraction-Interval Based Transformers for Short-Horizon Medical Event Prediction",
+    "authors": [
+      "Shahar Oded",
+      "Yuval Shahar"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.29901",
+    "pdf_url": "https://arxiv.org/pdf/2608.29901v1",
+    "github_url": "",
+    "published": "2026-08-30",
+    "tags": [
+      "时间序列预测",
+      "电子健康记录",
+      "时间抽象",
+      "可解释性",
+      "Transformer",
+      "医疗事件预测",
+      "知识驱动",
+      "区间表示"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/08/30/intervene-temporal-abstraction-interval-based-transformers-for-short-horizon-med.md"
+  }
+]

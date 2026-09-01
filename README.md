@@ -2,21 +2,20 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-08-27 (7 篇)
+## 2026-08-31 (6 篇)
 
-### 核心推荐 (3 篇)
-
-| 分数 | 论文 | 标签 |
-|:----:|------|------|
-| 9.5 | [TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution](https://arxiv.org/abs/2608.27182) | LLM Agent, Time-Series Root-Cause Attribution, Controlled Evaluation |
-| 8.5 | [FaulT-Bench: Towards Benchmarking Network Troubleshooting LLM Agents under Unreliable User Tickets](https://arxiv.org/abs/2608.27021) | Agentic Time Series, 网络故障诊断, LLM Agent |
-| 8.5 | [DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research](https://arxiv.org/abs/2608.26990) [[Code](https://github.com/ZhuLinsen/daily_stock_analysis)] | Agentic Time Series, LLM Agent, Stock Research |
-
-### 可借鉴论文 (4 篇)
+### 核心推荐 (1 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing](https://arxiv.org/abs/2608.27219) | Agentic Time Series, LLM Agent, 时间序列报告 |
-| 7.5 | [BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks](https://arxiv.org/abs/2608.27334) [[Code](https://github.com/kjy7567/BTS-AgentBench)] | Agentic Time Series, Telemetry Logs, Time Series Report |
-| 7.5 | [SAGE: Variate-Wise Semantic Augmentation for Vision-Language Time Series Forecasting](https://arxiv.org/abs/2608.26829) | Time Series Forecasting, Vision-Language Model, CLIP |
-| 6.5 | [C-Unseen: Weak Signal Detection in Dynamic Temporal Knowledge Graphs via LLM Reasoning](https://arxiv.org/abs/2608.26870) | Dynamic Temporal Knowledge Graphs, Weak Signal Detection, LLM Reasoning |
+| 9.5 | [A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting](https://arxiv.org/abs/2608.30976) | Agentic Time Series, Human-in-the-Loop, Time Series Forecasting |
+
+### 可借鉴论文 (5 篇)
+
+| 分数 | 论文 | 标签 |
+|:----:|------|------|
+| 7.5 | [ATLAS: Dual-Horizon Diagnostic Evaluation for Industrial Tool-Use Agents](https://arxiv.org/abs/2608.30685) | LLM Agent 评估, 工具调用诊断, 双视野评估框架 |
+| 7.5 | [FaVOR: LLM-Based Agentic Framework for Factor Mining via Empirical Validation](https://arxiv.org/abs/2608.30192) [[Code](https://github.com/damilab/FaVOR)] | LLM Agent, 多智能体系统, 因子挖掘 |
+| 7.5 | [When the Martingale Never Stops Firing: Anytime-Valid Gating on Real Forecast Streams](https://arxiv.org/abs/2608.30502) | Anytime-valid inference, Conformal test martingales, Time series foundation models |
+| 6.5 | [DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening](https://arxiv.org/abs/2608.31128) | multi-agent system, guideline-grounded report generation, verification layer |
+| 6.5 | [Automated Testing of LLM-Based Post Hoc Explainers Using Model Checking as an Oracle](https://arxiv.org/abs/2608.30581) | LLM解释器, 模型检测, 自动化测试 |
