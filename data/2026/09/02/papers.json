@@ -1,0 +1,36 @@
+[
+  {
+    "arxiv_id": "2609.02649",
+    "version": 1,
+    "title": "Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting",
+    "authors": [
+      "Ron Begleiter",
+      "Katya Egert Berg",
+      "Gilad Saban",
+      "Gil Shabat"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.02649",
+    "pdf_url": "https://arxiv.org/pdf/2609.02649v1",
+    "github_url": "",
+    "published": "2026-09-02",
+    "tags": [
+      "LLM/Agent for Time Series",
+      "Root Cause Analysis",
+      "Diagnostic Report Generation",
+      "Consensus Aggregation",
+      "Embedding-Space Reweighting",
+      "Industrial Fault Diagnosis",
+      "Efficient LLM Inference",
+      "Explainable Diagnostics",
+      "OpenRCA Benchmark"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/02/loom-weaving-diagnostic-strands-into-free-text-consensus-via-embedding-space-rew.md"
+  }
+]
