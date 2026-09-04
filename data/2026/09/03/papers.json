@@ -1,0 +1,63 @@
+[
+  {
+    "arxiv_id": "2609.03937",
+    "version": 1,
+    "title": "RATL: Learning from Retrieved Residuals for Robust Multivariate Time-Series Forecasting",
+    "authors": [
+      "Yuchen He",
+      "Yueyang Cang",
+      "Zhiyuan Ning",
+      "Ningyu Wang",
+      "Li Shi"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.03937",
+    "pdf_url": "https://arxiv.org/pdf/2609.03937v1",
+    "github_url": "",
+    "published": "2026-09-03",
+    "tags": [
+      "Retrieval-Augmented Generation (RAG)",
+      "Time Series Forecasting",
+      "Residual Memory",
+      "Feedback Correction",
+      "Plug-in Method",
+      "Multivariate Time Series",
+      "Router",
+      "Causal Retrieval"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/03/ratl-learning-from-retrieved-residuals-for-robust-multivariate-time-series-forec.md"
+  },
+  {
+    "arxiv_id": "2609.03878",
+    "version": 1,
+    "title": "Differentiable Interval Bottlenecks for Interpretable Anomaly Detection in Numerical Data",
+    "authors": [
+      "Lamine Diop",
+      "Marc Plantevit"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.03878",
+    "pdf_url": "https://arxiv.org/pdf/2609.03878v1",
+    "github_url": "",
+    "published": "2026-09-03",
+    "tags": [
+      "可解释异常检测",
+      "自编码器",
+      "区间瓶颈",
+      "数值数据",
+      "无标签可解释性",
+      "ADBench基准"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/09/03/differentiable-interval-bottlenecks-for-interpretable-anomaly-detection-in-numer.md"
+  }
+]
