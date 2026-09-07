@@ -33,6 +33,36 @@
     "md_path": "data/2026/09/03/ratl-learning-from-retrieved-residuals-for-robust-multivariate-time-series-forec.md"
   },
   {
+    "arxiv_id": "2609.04544",
+    "version": 1,
+    "title": "Integrating Agentic Artificial Intelligence with High-Performance Computing for Grid Planning",
+    "authors": [
+      "Samim Konjicija",
+      "Slaven Peles"
+    ],
+    "author_count": 2,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.04544",
+    "pdf_url": "https://arxiv.org/pdf/2609.04544v1",
+    "github_url": "",
+    "published": "2026-09-03",
+    "tags": [
+      "Agentic AI",
+      "LLM",
+      "High-Performance Computing",
+      "Power Flow Optimization",
+      "Natural Language Reports",
+      "Autonomous Decision-Making",
+      "Interactive Steering",
+      "Concurrent Exploration",
+      "Grid Planning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/03/integrating-agentic-artificial-intelligence-with-high-performance-computing-for.md"
+  },
+  {
     "arxiv_id": "2609.03878",
     "version": 1,
     "title": "Differentiable Interval Bottlenecks for Interpretable Anomaly Detection in Numerical Data",

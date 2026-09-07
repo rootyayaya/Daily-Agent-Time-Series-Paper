@@ -1,0 +1,104 @@
+[
+  {
+    "arxiv_id": "2609.05314",
+    "version": 1,
+    "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+    "authors": [
+      "Alexander Neubauer",
+      "Tianzhen Hong",
+      "Han Li",
+      "Mengbo Yu",
+      "Amin Darbandi"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.05314",
+    "pdf_url": "https://arxiv.org/pdf/2609.05314v1",
+    "github_url": "",
+    "published": "2026-09-04",
+    "tags": [
+      "LLM for HVAC",
+      "Building Energy Systems",
+      "Time Series Report",
+      "Semantic Description",
+      "LLM/Agent for Fault Diagnosis",
+      "Predictive Maintenance",
+      "Sensor Data Interpretation",
+      "Deployment Readiness",
+      "Human-in-the-loop",
+      "Critical Review"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/04/large-language-models-for-hvac-operations-in-building-energy-systems-a-critical.md"
+  },
+  {
+    "arxiv_id": "2609.05405",
+    "version": 1,
+    "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+    "authors": [
+      "Ji Soo Lee",
+      "Xilun Chen",
+      "Pierce Chuang",
+      "Ashish Shenoy",
+      "Jason Wei"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.05405",
+    "pdf_url": "https://arxiv.org/pdf/2609.05405v1",
+    "github_url": "",
+    "published": "2026-09-04",
+    "tags": [
+      "time series reasoning",
+      "wearable health data",
+      "LLM benchmark",
+      "multi-signal integration",
+      "health reasoning",
+      "longitudinal data",
+      "physiological interpretation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/04/wearableqa-a-benchmark-for-health-reasoning-over-real-world-wearable-data.md"
+  },
+  {
+    "arxiv_id": "2609.04842",
+    "version": 1,
+    "title": "MMTClinic: Multimodal, Multilingual Time Series Question Answering and Reasoning Benchmark for Clinical Domain",
+    "authors": [
+      "Sourav Malakar",
+      "Harshit Nigam",
+      "Akash Ghosh",
+      "Sriparna Saha",
+      "Amlan Chakrabarti"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.04842",
+    "pdf_url": "https://arxiv.org/pdf/2609.04842v1",
+    "github_url": "",
+    "published": "2026-09-04",
+    "tags": [
+      "clinical time series",
+      "multimodal QA",
+      "multilingual benchmark",
+      "LLM evaluation",
+      "time series reasoning",
+      "physiological signals",
+      "mortality prediction",
+      "heart rate forecasting",
+      "SOFA score estimation",
+      "chain-of-thought"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/04/mmtclinic-multimodal-multilingual-time-series-question-answering-and-reasoning-b.md"
+  }
+]
