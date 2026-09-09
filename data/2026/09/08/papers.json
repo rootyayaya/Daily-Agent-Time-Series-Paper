@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2609.08772",
+    "version": 1,
+    "title": "It's All in the Way You Say It: The Role of Information Representation in LLM-Based Glycemic-Event Prediction",
+    "authors": [
+      "Andrea Apicella",
+      "Pasquale Arpaia",
+      "Matteo Orefice",
+      "Andrea Pollastro",
+      "Roberto Prevete"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.08772",
+    "pdf_url": "https://arxiv.org/pdf/2609.08772v1",
+    "github_url": "",
+    "published": "2026-09-08",
+    "tags": [
+      "LLM for time series",
+      "physiological time-series prediction",
+      "glycemic-event prediction",
+      "prompt-based inference",
+      "information representation",
+      "zero-shot and few-shot learning",
+      "OhioT1DM dataset",
+      "type 1 diabetes",
+      "clinical decision support"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/08/its-all-in-the-way-you-say-it-the-role-of-information-representation-in-llm-base.md"
+  }
+]
