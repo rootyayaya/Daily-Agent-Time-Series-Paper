@@ -1,0 +1,72 @@
+[
+  {
+    "arxiv_id": "2609.10135",
+    "version": 1,
+    "title": "Agent-Based ML-LLM Fusion with Self-Optimizing Prompts for Plateau Weather Alerts",
+    "authors": [
+      "Shuai Yan",
+      "Yang Xu",
+      "Shan He"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.10135",
+    "pdf_url": "https://arxiv.org/pdf/2609.10135v1",
+    "github_url": "",
+    "published": "2026-09-09",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "Self-Optimizing Prompts",
+      "Weather Alert Generation",
+      "Natural Language Report Generation",
+      "Explainable Decision-Making",
+      "Industrial Sensor Interpretation",
+      "Multi-Stage Architecture",
+      "Intent Recognition",
+      "Hazard Prediction",
+      "Reasoning-Enhanced Generation",
+      "LightGBM",
+      "Uncertainty Statements",
+      "Causal Mechanisms",
+      "Proactive Perception"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/09/agent-based-ml-llm-fusion-with-self-optimizing-prompts-for-plateau-weather-alert.md"
+  },
+  {
+    "arxiv_id": "2609.09625",
+    "version": 1,
+    "title": "From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins",
+    "authors": [
+      "Haoran Gao",
+      "An Li",
+      "Zhen Li",
+      "Jun Cai"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.09625",
+    "pdf_url": "https://arxiv.org/pdf/2609.09625v1",
+    "github_url": "",
+    "published": "2026-09-09",
+    "tags": [
+      "Cognitive Digital Twins",
+      "Digital Twin Architecture",
+      "Self-Evolving Closed Loop",
+      "Knowledge and Memory",
+      "Task Orchestration",
+      "Semantic Communication",
+      "LLM Integration",
+      "Industrial Diagnosis",
+      "Predictive Maintenance"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/09/09/from-state-synchronization-to-cognitive-self-evolution-an-operational-architectu.md"
+  }
+]
