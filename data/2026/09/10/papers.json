@@ -1,0 +1,34 @@
+[
+  {
+    "arxiv_id": "2609.11860",
+    "version": 1,
+    "title": "Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models",
+    "authors": [
+      "Rodion Krjutškov",
+      "Eduard Barbu",
+      "Nikos Sakkas",
+      "Sofia Yfanti"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.11860",
+    "pdf_url": "https://arxiv.org/pdf/2609.11860v1",
+    "github_url": "",
+    "published": "2026-09-10",
+    "tags": [
+      "Conversational XAI",
+      "LLM Function Calling",
+      "Energy Consumption Forecasting",
+      "Explainability Assistant",
+      "Natural Language Interaction",
+      "Intent Parsing",
+      "Time Series Interpretation",
+      "Human-in-the-loop Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/10/explainability-assistant-a-conversational-xai-interface-for-interpreting-energy.md"
+  }
+]
