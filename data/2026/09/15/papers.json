@@ -1,0 +1,69 @@
+[
+  {
+    "arxiv_id": "2609.16774",
+    "version": 1,
+    "title": "Explainable Post-Disaster Grid Observability Recovery Using Human-Oversight Agentic LLMs",
+    "authors": [
+      "Biswas Rudra Jyoti Arka",
+      "Sadman Sakib",
+      "Md. Zahidul Islam",
+      "Shamsun Nahar Edib"
+    ],
+    "author_count": 4,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.16774",
+    "pdf_url": "https://arxiv.org/pdf/2609.16774v1",
+    "github_url": "",
+    "published": "2026-09-15",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "Tool Calling",
+      "可解释性",
+      "故障诊断",
+      "工业传感器",
+      "电力系统",
+      "PMU恢复",
+      "人类监督",
+      "可追溯诊断链"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/15/explainable-post-disaster-grid-observability-recovery-using-human-oversight-agen.md"
+  },
+  {
+    "arxiv_id": "2609.17107",
+    "version": 1,
+    "title": "Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics",
+    "authors": [
+      "Baibek Davletiyarov",
+      "Junaid Ahmed Khan",
+      "Andrea Bartolini"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.17107",
+    "pdf_url": "https://arxiv.org/pdf/2609.17107v1",
+    "github_url": "",
+    "published": "2026-09-15",
+    "tags": [
+      "Agentic Time Series",
+      "Knowledge Graph",
+      "Deep Agent",
+      "Operational Data Analytics",
+      "Neurosymbolic",
+      "LLM Tool Use",
+      "Virtual Knowledge Graph",
+      "Data Center Telemetry",
+      "Industry 4.0",
+      "Trustworthy AI",
+      "Symbolic Separation",
+      "Deterministic Validation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/15/symbolic-separation-grounding-deep-agents-in-knowledge-graphs-for-trustworthy-op.md"
+  }
+]
