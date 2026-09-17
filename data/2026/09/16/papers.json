@@ -1,0 +1,43 @@
+[
+  {
+    "arxiv_id": "2609.18812",
+    "version": 1,
+    "title": "WaveTLM: Reliable Time-Series Language Modeling through Task Compilation",
+    "authors": [
+      "Jiahui Chen",
+      "Bingke Zhu",
+      "Hongyu Pan",
+      "Yingying Chen"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.18812",
+    "pdf_url": "https://arxiv.org/pdf/2609.18812v1",
+    "github_url": "",
+    "published": "2026-09-16",
+    "tags": [
+      "Time-Series Language Modeling",
+      "Task Compilation",
+      "Reliable Output Generation",
+      "Contract-Grounded Benchmark",
+      "ExecTS-QA",
+      "WaveTLM",
+      "Compiler-Executor Architecture",
+      "Anomaly Detection",
+      "Forecasting",
+      "Imputation",
+      "Classification",
+      "Waveform Analysis",
+      "LLM for Time Series",
+      "Structured Output",
+      "Task-Native Executors",
+      "Reliability",
+      "Hallucination Mitigation",
+      "Industrial Diagnosis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/16/wavetlm-reliable-time-series-language-modeling-through-task-compilation.md"
+  }
+]
