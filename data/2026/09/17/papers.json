@@ -1,0 +1,69 @@
+[
+  {
+    "arxiv_id": "2609.20620",
+    "version": 1,
+    "title": "A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies",
+    "authors": [
+      "Khalid Halba",
+      "Kylie Cooper",
+      "James G. Bellingham"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.20620",
+    "pdf_url": "https://arxiv.org/pdf/2609.20620v1",
+    "github_url": "",
+    "published": "2026-09-17",
+    "tags": [
+      "LLM-based diagnosis",
+      "fault recovery",
+      "AUV",
+      "simulation platform",
+      "ensemble evaluation",
+      "anomaly detection",
+      "structured prompting",
+      "LLM-judge",
+      "autonomous systems",
+      "predictive maintenance"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/17/a-simulation-platform-for-auv-fault-recovery-exploring-llm-based-diagnostic-stra.md"
+  },
+  {
+    "arxiv_id": "2609.19615",
+    "version": 1,
+    "title": "Semantic Layer Induction from Raw Telemetry via Hierarchical LLM and RAG Abstraction",
+    "authors": [
+      "Yuanzhe Jia",
+      "Ali Anaissi"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.19615",
+    "pdf_url": "https://arxiv.org/pdf/2609.19615v1",
+    "github_url": "",
+    "published": "2026-09-17",
+    "tags": [
+      "LLM",
+      "RAG",
+      "telemetry",
+      "semantic layer",
+      "hierarchical abstraction",
+      "LLM-as-Judge",
+      "industrial logs",
+      "unsupervised",
+      "semantic clustering",
+      "canonical naming"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/17/semantic-layer-induction-from-raw-telemetry-via-hierarchical-llm-and-rag-abstrac.md"
+  }
+]
