@@ -1,0 +1,33 @@
+[
+  {
+    "arxiv_id": "2609.21425",
+    "version": 1,
+    "title": "Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework",
+    "authors": [
+      "Delun Kong",
+      "Wanyun Ling",
+      "Chenxi Liu",
+      "Ziyue Li"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.21425",
+    "pdf_url": "https://arxiv.org/pdf/2609.21425v1",
+    "github_url": "",
+    "published": "2026-09-18",
+    "tags": [
+      "零样本时间序列预测",
+      "证据溯源",
+      "审计框架",
+      "检索增强预测",
+      "LLM先验",
+      "时间序列基础模型",
+      "基准测试",
+      "可解释性"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/09/18/tracing-the-evidence-behind-zero-shot-time-series-forecasting-a-source-first-tax.md"
+  }
+]

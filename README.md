@@ -2,16 +2,14 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-09-17 (2 篇)
+## 2026-09-18 (1 篇)
 
-### 核心推荐 (1 篇)
+### 核心推荐 (0 篇)
 
-| 分数 | 论文 | 标签 |
-|:----:|------|------|
-| 8.5 | [A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies](https://arxiv.org/abs/2609.20620) | LLM-based diagnosis, fault recovery, AUV |
+暂无。
 
 ### 可借鉴论文 (1 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [Semantic Layer Induction from Raw Telemetry via Hierarchical LLM and RAG Abstraction](https://arxiv.org/abs/2609.19615) | LLM, RAG, telemetry |
+| 6.5 | [Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework](https://arxiv.org/abs/2609.21425) | 零样本时间序列预测, 证据溯源, 审计框架 |
