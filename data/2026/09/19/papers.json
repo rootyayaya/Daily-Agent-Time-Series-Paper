@@ -1,0 +1,37 @@
+[
+  {
+    "arxiv_id": "2609.23215",
+    "version": 1,
+    "title": "Triggers and Diagnostics for LLM-Based Interpretability Failures in Active Inference Agents",
+    "authors": [
+      "Param Raval",
+      "Rohit Shenoy",
+      "Archana Vaidheeswaran"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.23215",
+    "pdf_url": "https://arxiv.org/pdf/2609.23215v1",
+    "github_url": "",
+    "published": "2026-09-19",
+    "tags": [
+      "LLM解释器",
+      "主动推理",
+      "时序异常检测",
+      "可解释性失败",
+      "智能体审计",
+      "电网需求",
+      "自然语言报告",
+      "运行时监督",
+      "黑盒触发",
+      "数据投毒",
+      "谄媚合理化",
+      "提示注入"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/19/triggers-and-diagnostics-for-llm-based-interpretability-failures-in-active-infer.md"
+  }
+]

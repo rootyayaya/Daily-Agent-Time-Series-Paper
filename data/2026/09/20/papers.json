@@ -1,0 +1,109 @@
+[
+  {
+    "arxiv_id": "2609.23883",
+    "version": 1,
+    "title": "Collaborative Streaming Anomaly Detection with Interactive Explanations and Ensemble Consensus",
+    "authors": [
+      "Diogo Risca",
+      "Afonso Lourenço",
+      "Ricardo Martins",
+      "Goreti Marreiros"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.23883",
+    "pdf_url": "https://arxiv.org/pdf/2609.23883v1",
+    "github_url": "",
+    "published": "2026-09-20",
+    "tags": [
+      "流式异常检测",
+      "集成共识",
+      "可解释性",
+      "代理模型",
+      "人机交互",
+      "工业传感器",
+      "异常解释",
+      "交互式诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/20/collaborative-streaming-anomaly-detection-with-interactive-explanations-and-ense.md"
+  },
+  {
+    "arxiv_id": "2609.23257",
+    "version": 1,
+    "title": "CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning",
+    "authors": [
+      "Minkyoung Kim",
+      "Daeun Ji",
+      "Yohan Lee",
+      "Beomsoo Kim",
+      "Beakcheol Jang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.23257",
+    "pdf_url": "https://arxiv.org/pdf/2609.23257v1",
+    "github_url": "",
+    "published": "2026-09-20",
+    "tags": [
+      "LLM-based Time Series Forecasting",
+      "Residual Learning",
+      "Test-Time Adaptation",
+      "Distribution Shift",
+      "Decomposed Temporal Components",
+      "Control Signals",
+      "Frozen Backbone",
+      "LLM Agent as Controller",
+      "Non-stationary Time Series"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/20/ctrl-control-based-time-series-forecasting-with-llm-guided-residual-learning.md"
+  },
+  {
+    "arxiv_id": "2609.23950",
+    "version": 1,
+    "title": "ORION-CMR: On-scanner Reporting with Integrated Foundation Model for End-to-End Cardiac MRI Analysis and Interpretation",
+    "authors": [
+      "Omer Burak Demirel",
+      "Kelly K. Horst",
+      "Alessio Perazzolo",
+      "Elisa Bruno",
+      "Kenan Kaya"
+    ],
+    "author_count": 18,
+    "categories": [
+      "eess.IV",
+      "cs.CV",
+      "cs.LG",
+      "physics.med-ph"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.23950",
+    "pdf_url": "https://arxiv.org/pdf/2609.23950v1",
+    "github_url": "",
+    "published": "2026-09-20",
+    "tags": [
+      "医学影像基础模型",
+      "报告生成",
+      "LLM报告生成",
+      "端到端诊断",
+      "心脏MRI",
+      "临床验证",
+      "多任务学习",
+      "异常检测",
+      "疾病分类",
+      "序列分类",
+      "心室功能评估",
+      "瘢痕分割",
+      "多模态融合",
+      "扫描仪原生AI",
+      "实时分析"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/09/20/orion-cmr-on-scanner-reporting-with-integrated-foundation-model-for-end-to-end-c.md"
+  }
+]

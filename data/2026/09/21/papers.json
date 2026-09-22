@@ -1,0 +1,109 @@
+[
+  {
+    "arxiv_id": "2609.24862",
+    "version": 1,
+    "title": "When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting",
+    "authors": [
+      "Yifan Hu",
+      "Xilin Dai",
+      "Zhiyuan Qu",
+      "Yiding Liu",
+      "Zewei Dong"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.24862",
+    "pdf_url": "https://arxiv.org/pdf/2609.24862v1",
+    "github_url": "",
+    "published": "2026-09-21",
+    "tags": [
+      "Agentic Time Series",
+      "Self-Evolving Policies",
+      "Time Series Forecasting",
+      "Delayed Feedback",
+      "Orchestration Policy",
+      "Expert Trust",
+      "Agent Path Selection",
+      "Intervention Strength",
+      "Frozen Backbone",
+      "Time-MMD",
+      "LLM Agent",
+      "Tool Use",
+      "Multi-Agent Reasoning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/21/when-tomorrow-becomes-today-self-evolving-policies-for-agentic-time-series-forec.md"
+  },
+  {
+    "arxiv_id": "2609.24677",
+    "version": 1,
+    "title": "TimeLitmus: A Diagnostic Benchmark for Cross-Modal Understanding and Explanation Faithfulness in Event-Conditioned Time-Series Prediction",
+    "authors": [
+      "Jie Gong",
+      "Maowei Jiang",
+      "Zhiwei Liu",
+      "Yankai Chen",
+      "Guojun Xiong"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.24677",
+    "pdf_url": "https://arxiv.org/pdf/2609.24677v1",
+    "github_url": "",
+    "published": "2026-09-21",
+    "tags": [
+      "Time Series",
+      "LLM",
+      "Cross-Modal Understanding",
+      "Explanation Faithfulness",
+      "Event-Conditioned Prediction",
+      "Diagnostic Benchmark",
+      "Counterfactual Evaluation",
+      "Contrastive Interventions",
+      "Shortcut Controls",
+      "Semantic Report",
+      "Evidence Routing",
+      "Industrial Diagnosis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/21/timelitmus-a-diagnostic-benchmark-for-cross-modal-understanding-and-explanation.md"
+  },
+  {
+    "arxiv_id": "2609.24090",
+    "version": 1,
+    "title": "Incremental Consistency Execution for Autonomous Intelligent Systems",
+    "authors": [
+      "Cheng Li",
+      "Jiexiong Liu",
+      "Yixuan Chen",
+      "Ziheng Huang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.24090",
+    "pdf_url": "https://arxiv.org/pdf/2609.24090v1",
+    "github_url": "",
+    "published": "2026-09-21",
+    "tags": [
+      "Agentic Time Series",
+      "工业故障诊断",
+      "增量一致性执行",
+      "任务事实契约",
+      "依赖掩码",
+      "状态扰动不变量",
+      "LLM多工具助手",
+      "可追溯诊断链",
+      "执行优化",
+      "自主智能系统"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/21/incremental-consistency-execution-for-autonomous-intelligent-systems.md"
+  }
+]
