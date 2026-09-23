@@ -1,0 +1,37 @@
+[
+  {
+    "arxiv_id": "2609.26389",
+    "version": 1,
+    "title": "TimeInteract: Towards Real-Time Interactive Intelligence for Streaming Time Series",
+    "authors": [
+      "Sheng Pan",
+      "Yongli Gu",
+      "Yiqing Guo",
+      "Warren Jin",
+      "Bo Du"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.26389",
+    "pdf_url": "https://arxiv.org/pdf/2609.26389v1",
+    "github_url": "",
+    "published": "2026-09-22",
+    "tags": [
+      "Streaming Time Series",
+      "Time-Series Language Models",
+      "Interactive Intelligence",
+      "Real-Time Anomaly Detection",
+      "Response Triggering",
+      "Dual-View Encoder",
+      "Decoupled Inference",
+      "StreamTSI-34K",
+      "Agentic Time Series",
+      "Semantic Report Generation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/22/timeinteract-towards-real-time-interactive-intelligence-for-streaming-time-serie.md"
+  }
+]
