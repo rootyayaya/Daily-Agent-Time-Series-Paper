@@ -1,0 +1,68 @@
+[
+  {
+    "arxiv_id": "2609.27277",
+    "version": 1,
+    "title": "TimeEvo: Failure-Driven Self-Evolution of a Time Series Agent",
+    "authors": [
+      "Jie Yang",
+      "Yan Zheng",
+      "Jiarui Sun",
+      "Xiran Fan",
+      "Junpeng Wang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.27277",
+    "pdf_url": "https://arxiv.org/pdf/2609.27277v1",
+    "github_url": "https://github.com/Muyiiiii/TimeEvo",
+    "published": "2026-09-23",
+    "tags": [
+      "Agentic Time Series",
+      "自进化Skill",
+      "工具调用",
+      "失败驱动学习",
+      "时序问答",
+      "工具对齐",
+      "能力缺口聚类",
+      "证据路由",
+      "可解释诊断链",
+      "LLM Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/09/23/timeevo-failure-driven-self-evolution-of-a-time-series-agent.md"
+  },
+  {
+    "arxiv_id": "2609.27385",
+    "version": 1,
+    "title": "Forecast Workflow Bench: Evaluating Language-Model Decisions with Budgeted Forecast Tools",
+    "authors": [
+      "Shunya Nagashima"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.27385",
+    "pdf_url": "https://arxiv.org/pdf/2609.27385v1",
+    "github_url": "",
+    "published": "2026-09-23",
+    "tags": [
+      "Agentic Time Series",
+      "LLM决策",
+      "时间序列基础模型",
+      "工具调用",
+      "预算约束",
+      "预测工作流",
+      "成本感知",
+      "基准测试",
+      "电力负荷预测",
+      "决策质量评估"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/23/forecast-workflow-bench-evaluating-language-model-decisions-with-budgeted-foreca.md"
+  }
+]
