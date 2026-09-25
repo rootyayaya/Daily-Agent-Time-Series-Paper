@@ -2,15 +2,17 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-09-23 (2 篇)
+## 2026-09-24 (3 篇)
 
-### 核心推荐 (2 篇)
+### 核心推荐 (1 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.5 | [TimeEvo: Failure-Driven Self-Evolution of a Time Series Agent](https://arxiv.org/abs/2609.27277) [[Code](https://github.com/Muyiiiii/TimeEvo)] | Agentic Time Series, 自进化Skill, 工具调用 |
-| 8.5 | [Forecast Workflow Bench: Evaluating Language-Model Decisions with Budgeted Forecast Tools](https://arxiv.org/abs/2609.27385) | Agentic Time Series, LLM决策, 时间序列基础模型 |
+| 8.5 | [WeatherDiagFlow: Evidence-Grounded Radar Nowcasting with Diagnostic Flow Refinement](https://arxiv.org/abs/2609.29772) | 雷达临近预报, 证据接地报告生成, 多智能体工作流 |
 
-### 可借鉴论文 (0 篇)
+### 可借鉴论文 (2 篇)
 
-暂无。
+| 分数 | 论文 | 标签 |
+|:----:|------|------|
+| 7.5 | [TimeBraid: Unifying Time Series and Language for Understanding and Forecasting](https://arxiv.org/abs/2609.29792) | 时间序列与语言统一建模, 时序基础模型, LLM |
+| 7.5 | [Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents](https://arxiv.org/abs/2609.28876) | LLM Agent, 时序预测, 可回放环境 |

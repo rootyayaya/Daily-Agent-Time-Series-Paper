@@ -1,0 +1,106 @@
+[
+  {
+    "arxiv_id": "2609.29772",
+    "version": 1,
+    "title": "WeatherDiagFlow: Evidence-Grounded Radar Nowcasting with Diagnostic Flow Refinement",
+    "authors": [
+      "Chunlei Shi",
+      "Yufeng Zhu",
+      "Yixiao Liang",
+      "Dan Niu",
+      "Yongchao Feng"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.MM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.29772",
+    "pdf_url": "https://arxiv.org/pdf/2609.29772v1",
+    "github_url": "",
+    "published": "2026-09-24",
+    "tags": [
+      "雷达临近预报",
+      "证据接地报告生成",
+      "多智能体工作流",
+      "可审计验证",
+      "结构化诊断证据",
+      "预报-公报-审计任务",
+      "工业气象诊断",
+      "泄漏控制协议",
+      "时序语义报告",
+      "Agentic Time Series"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/24/weatherdiagflow-evidence-grounded-radar-nowcasting-with-diagnostic-flow-refineme.md"
+  },
+  {
+    "arxiv_id": "2609.29792",
+    "version": 1,
+    "title": "TimeBraid: Unifying Time Series and Language for Understanding and Forecasting",
+    "authors": [
+      "Xinyue Wang",
+      "Jiacheng Pang",
+      "Kun Zhou",
+      "Kexin Zhang",
+      "Defu Cao"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.29792",
+    "pdf_url": "https://arxiv.org/pdf/2609.29792v1",
+    "github_url": "",
+    "published": "2026-09-24",
+    "tags": [
+      "时间序列与语言统一建模",
+      "时序基础模型",
+      "LLM",
+      "多模态对齐",
+      "零样本预测",
+      "指令微调",
+      "时序理解与推理",
+      "语义报告生成"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/24/timebraid-unifying-time-series-and-language-for-understanding-and-forecasting.md"
+  },
+  {
+    "arxiv_id": "2609.28876",
+    "version": 1,
+    "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
+    "authors": [
+      "Liqin Ye",
+      "Haorui Wang",
+      "Fardin Ahmed",
+      "Rongzhi Zhang",
+      "Yuan He"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.28876",
+    "pdf_url": "https://arxiv.org/pdf/2609.28876v1",
+    "github_url": "",
+    "published": "2026-09-24",
+    "tags": [
+      "LLM Agent",
+      "时序预测",
+      "可回放环境",
+      "工具调用",
+      "记忆机制",
+      "预测市场",
+      "新闻检索",
+      "基准测试",
+      "监督微调",
+      "反馈优化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/24/forecast-dojo-replayable-environments-for-benchmarking-and-training-llm-forecast.md"
+  }
+]
