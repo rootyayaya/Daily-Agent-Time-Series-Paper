@@ -1,0 +1,36 @@
+[
+  {
+    "arxiv_id": "2609.31255",
+    "version": 1,
+    "title": "PIA: A Personal Intelligence Agent Turning Health Conversations into Records and Records into Understanding",
+    "authors": [
+      "Jeonghun Yoon",
+      "Dongchan Kim",
+      "Hongyeon Yu",
+      "Young-Bum Kim",
+      "Jaegul Choo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.31255",
+    "pdf_url": "https://arxiv.org/pdf/2609.31255v1",
+    "github_url": "",
+    "published": "2026-09-25",
+    "tags": [
+      "Agentic Time Series",
+      "Personal Health Agent",
+      "Memory Harness",
+      "Temporal Reasoning",
+      "Knowledge Graph",
+      "Clinical Records",
+      "Natural Language Understanding",
+      "Causal Trajectory",
+      "LLM Agent",
+      "Health Monitoring"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/25/pia-a-personal-intelligence-agent-turning-health-conversations-into-records-and.md"
+  }
+]

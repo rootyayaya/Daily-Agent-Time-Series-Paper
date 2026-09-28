@@ -102,5 +102,40 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/09/24/forecast-dojo-replayable-environments-for-benchmarking-and-training-llm-forecast.md"
+  },
+  {
+    "arxiv_id": "2609.29803",
+    "version": 1,
+    "title": "SEEK: Skill-Routed Evaluation with Evolvable Knowledge for Industrial Search",
+    "authors": [
+      "Zhongxin Huang",
+      "Songyang Li",
+      "Renzhe Zhou",
+      "Feiran Zhu",
+      "Chenglei Dai"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.29803",
+    "pdf_url": "https://arxiv.org/pdf/2609.29803v1",
+    "github_url": "",
+    "published": "2026-09-24",
+    "tags": [
+      "Skill-Routed Evaluation",
+      "Evolvable Knowledge",
+      "LLM-based Evaluation",
+      "Industrial Search",
+      "Failure Mode Attribution",
+      "Skill Bank",
+      "Replay-Gated Update",
+      "Listwise Evaluator",
+      "Diagnostic Signals",
+      "Kuaishou Deployment"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/09/24/seek-skill-routed-evaluation-with-evolvable-knowledge-for-industrial-search.md"
   }
 ]
