@@ -1,0 +1,102 @@
+[
+  {
+    "arxiv_id": "2609.36686",
+    "version": 1,
+    "title": "Where Root Cause Analysis Fails: A Retrieval-Reranking Decomposition",
+    "authors": [
+      "Hada Melino Muhammad",
+      "Luan Pham",
+      "Laure Barrière",
+      "Sachin Shetty",
+      "Leonardo Pulga"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.36686",
+    "pdf_url": "https://arxiv.org/pdf/2609.36686v1",
+    "github_url": "https://github.com/cruiseresearchgroup/DecompRCA",
+    "published": "2026-09-29",
+    "tags": [
+      "Root Cause Analysis",
+      "Retrieval-Reranking Decomposition",
+      "LLM Reranker",
+      "Multi-Signal Retrieval",
+      "Industrial Sensor Diagnosis",
+      "Benchmark Audit",
+      "Top@k Accuracy",
+      "Causal Graph",
+      "System Description Document",
+      "Anomaly Detection"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/29/where-root-cause-analysis-fails-a-retrieval-reranking-decomposition.md"
+  },
+  {
+    "arxiv_id": "2609.36914",
+    "version": 1,
+    "title": "Can Language Models Learn to Forecast Stock Prices",
+    "authors": [
+      "Jiacheng Guo",
+      "Suozhi Huang",
+      "Shuzhen Li",
+      "Yunlong Gao",
+      "Zerui Cheng"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.36914",
+    "pdf_url": "https://arxiv.org/pdf/2609.36914v1",
+    "github_url": "",
+    "published": "2026-09-29",
+    "tags": [
+      "LLM Agent",
+      "Tool Use",
+      "Time Series Forecasting",
+      "Financial Forecasting",
+      "Post-training",
+      "Reinforcement Learning",
+      "PPO",
+      "Evidence Gathering",
+      "Numerical Judgment",
+      "Chronological Sandbox"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/29/can-language-models-learn-to-forecast-stock-prices.md"
+  },
+  {
+    "arxiv_id": "2609.36966",
+    "version": 1,
+    "title": "JudgeCast: Time Series Forecasting with Experience-Informed Covariate Judgements",
+    "authors": [
+      "Donguk Kwon",
+      "Wooseok Jeong",
+      "Dongha Lee"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.36966",
+    "pdf_url": "https://arxiv.org/pdf/2609.36966v1",
+    "github_url": "",
+    "published": "2026-09-29",
+    "tags": [
+      "时间序列预测",
+      "协变量判断",
+      "LLM智能体",
+      "经验学习",
+      "反馈优化",
+      "时序基础模型",
+      "judgmental adjustment",
+      "残差引导",
+      "自进化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/29/judgecast-time-series-forecasting-with-experience-informed-covariate-judgements.md"
+  }
+]
