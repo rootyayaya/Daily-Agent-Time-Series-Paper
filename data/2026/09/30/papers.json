@@ -1,0 +1,164 @@
+[
+  {
+    "arxiv_id": "2609.40272",
+    "version": 1,
+    "title": "Skill-Based AI Agents for Power-System Studies",
+    "authors": [
+      "Pavel Etingov",
+      "Shuchismita Biswas"
+    ],
+    "author_count": 2,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.40272",
+    "pdf_url": "https://arxiv.org/pdf/2609.40272v1",
+    "github_url": "",
+    "published": "2026-09-30",
+    "tags": [
+      "Agentic AI",
+      "MCP",
+      "Skill-based Agents",
+      "Power System Studies",
+      "Dynamic Simulation",
+      "Model Validation",
+      "Multi-Agent Orchestration",
+      "Industrial Fault Diagnosis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/30/skill-based-ai-agents-for-power-system-studies.md"
+  },
+  {
+    "arxiv_id": "2609.40265",
+    "version": 1,
+    "title": "OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning",
+    "authors": [
+      "Tony Chen",
+      "Timo Stoffregen",
+      "Maxwell Xu",
+      "Thomas Kaar",
+      "Martin Maritsch"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.40265",
+    "pdf_url": "https://arxiv.org/pdf/2609.40265v1",
+    "github_url": "https://github.com/OpenTSLM/OpenTSLM-TeeMoE",
+    "published": "2026-09-30",
+    "tags": [
+      "Time-Series Language Model",
+      "Mixture-of-Experts",
+      "LoRA",
+      "Forecasting",
+      "Context-Conditioned Prediction",
+      "Temporal Reasoning",
+      "TimeSeriesExam",
+      "GIFT-Eval",
+      "Context is Key",
+      "Skill-MoE",
+      "External Numerical Specialists",
+      "Forecast Aggregation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/09/30/opentslm-teemoe-a-unified-time-series-language-model-for-forecasting-contextual.md"
+  },
+  {
+    "arxiv_id": "2609.38980",
+    "version": 1,
+    "title": "SCORE-LM: State-Space Radar Representations with Language Models for Fault Diagnosis",
+    "authors": [
+      "Mainak Mallick",
+      "Seung-Kyum Choi"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "eess.SP"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.38980",
+    "pdf_url": "https://arxiv.org/pdf/2609.38980v1",
+    "github_url": "",
+    "published": "2026-09-30",
+    "tags": [
+      "LLM for fault diagnosis",
+      "radar fault diagnosis",
+      "state-space model",
+      "language model adaptation",
+      "maintenance guidance",
+      "soft token projection",
+      "industrial sensor interpretation",
+      "compact diagnosis",
+      "self-supervised learning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/30/score-lm-state-space-radar-representations-with-language-models-for-fault-diagno.md"
+  },
+  {
+    "arxiv_id": "2609.38869",
+    "version": 1,
+    "title": "Reasoning Externalization for Faithful Large Language Model Narratives of Stock Return Predictions",
+    "authors": [
+      "Sujung Kim",
+      "Seung Hwan Cho",
+      "Sangjin Park",
+      "Young-Min Kim"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.CE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.38869",
+    "pdf_url": "https://arxiv.org/pdf/2609.38869v1",
+    "github_url": "",
+    "published": "2026-09-30",
+    "tags": [
+      "LLM叙事生成",
+      "可解释性",
+      "SHAP",
+      "证据溯源",
+      "推理外化",
+      "金融时间序列",
+      "忠实性验证",
+      "历史类比",
+      "XGBoost",
+      "自然语言报告"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/09/30/reasoning-externalization-for-faithful-large-language-model-narratives-of-stock.md"
+  },
+  {
+    "arxiv_id": "2609.39257",
+    "version": 1,
+    "title": "From Benchmarks to Production: Transferring Time Series Anomaly Detection Methods for Electricity Production Monitoring",
+    "authors": [
+      "Nicolas Vautier",
+      "Paul Caron",
+      "Nardi Xhepi",
+      "Félicie Bizeul",
+      "Manel Boumghar"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2609.39257",
+    "pdf_url": "https://arxiv.org/pdf/2609.39257v1",
+    "github_url": "",
+    "published": "2026-09-30",
+    "tags": [
+      "时间序列异常检测",
+      "工业电力生产监控",
+      "可解释性",
+      "人机协同",
+      "自动化报告",
+      "生产部署"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/09/30/from-benchmarks-to-production-transferring-time-series-anomaly-detection-methods.md"
+  }
+]
