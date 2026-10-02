@@ -1,0 +1,215 @@
+[
+  {
+    "arxiv_id": "2610.01800",
+    "version": 1,
+    "title": "LineupRL: Verifiable Reinforcement Learning for Time Series Captioning via Caption-to-Series Identification",
+    "authors": [
+      "Haochen Zhang",
+      "Laura Yao",
+      "Zachary Plotkin",
+      "Gengwei Zhang",
+      "Tianlong Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.01800",
+    "pdf_url": "https://arxiv.org/pdf/2610.01800v1",
+    "github_url": "",
+    "published": "2026-10-01",
+    "tags": [
+      "TimeSeries2Report",
+      "Time Series Captioning",
+      "LLM Verifier",
+      "Reinforcement Learning with Verifiable Rewards",
+      "Caption-to-Series Identification",
+      "Natural Language Report Generation",
+      "Semantic Description",
+      "Signal-to-Language Bridge",
+      "Reward Hacking Resistance",
+      "Vision Language Model",
+      "Time Series Understanding"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/01/lineuprl-verifiable-reinforcement-learning-for-time-series-captioning-via-captio.md"
+  },
+  {
+    "arxiv_id": "2610.01364",
+    "version": 1,
+    "title": "LLM-Driven Multi-Agent Control for Skill-Based Smart Manufacturing",
+    "authors": [
+      "Kay Köhle",
+      "Darko Anicic",
+      "Thomas A. Runkler",
+      "René Graf"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.01364",
+    "pdf_url": "https://arxiv.org/pdf/2610.01364v1",
+    "github_url": "",
+    "published": "2026-10-01",
+    "tags": [
+      "LLM-based multi-agent",
+      "smart manufacturing",
+      "fault diagnosis",
+      "MCP tool server",
+      "OPC UA",
+      "MQTT",
+      "emergent fault diagnosis",
+      "agent architecture comparison",
+      "industrial automation",
+      "real-time state injection"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/01/llm-driven-multi-agent-control-for-skill-based-smart-manufacturing.md"
+  },
+  {
+    "arxiv_id": "2610.01223",
+    "version": 1,
+    "title": "Have an LLM Write Your Anomaly Detector: Autonomous Discovery of Compact, Interpretable Detectors for Time Series",
+    "authors": [
+      "David Berghaus"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.01223",
+    "pdf_url": "https://arxiv.org/pdf/2610.01223v1",
+    "github_url": "",
+    "published": "2026-10-01",
+    "tags": [
+      "LLM-driven program search",
+      "autonomous research loop",
+      "time series anomaly detection",
+      "interpretable detector",
+      "compact detector",
+      "TSB-AD benchmark",
+      "univariate anomaly detection",
+      "multivariate anomaly detection",
+      "spectral features",
+      "covariance-aware distance",
+      "no GPU training",
+      "efficient inference",
+      "transparent model",
+      "LLM as author",
+      "program synthesis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/01/have-an-llm-write-your-anomaly-detector-autonomous-discovery-of-compact-interpre.md"
+  },
+  {
+    "arxiv_id": "2610.01168",
+    "version": 1,
+    "title": "Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability",
+    "authors": [
+      "Roberto Stanzione",
+      "Jules Barbe",
+      "Magali Parrino",
+      "Jérémie Fourmann",
+      "Paul Boniol"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.01168",
+    "pdf_url": "https://arxiv.org/pdf/2610.01168v1",
+    "github_url": "",
+    "published": "2026-10-01",
+    "tags": [
+      "Time Series Anomaly Detection",
+      "Explainability",
+      "Interpretability",
+      "Benchmark",
+      "Multivariate Time Series",
+      "High-dimensional Time Series",
+      "LLM for Time Series",
+      "Industrial Sensor Data",
+      "Cloud Storage Systems",
+      "Anomaly Attribution",
+      "Semantic Annotation",
+      "Frozen LLM Baselines",
+      "Real-world Dataset",
+      "Detection-Explainability-Interpretability Pipeline"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/01/detect-explain-interpret-an-end-to-end-benchmark-for-time-series-anomaly-detecti.md"
+  },
+  {
+    "arxiv_id": "2610.01955",
+    "version": 1,
+    "title": "Do Your Own Research: Learning to Forecast by Learning to Search",
+    "authors": [
+      "Yusuf Afifi",
+      "Artur Kiulian",
+      "Anton Polishko",
+      "Mykola Khandoga",
+      "Hamudi Naanaa"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.01955",
+    "pdf_url": "https://arxiv.org/pdf/2610.01955v1",
+    "github_url": "https://github.com/afifi-yusuf/prime-forecast",
+    "published": "2026-10-01",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Forecasting",
+      "Reinforcement Learning",
+      "Evidence Gathering",
+      "Tool Use",
+      "Financial Time Series",
+      "Temporal Reasoning",
+      "GRPO",
+      "Brier Score",
+      "Search Discipline"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/01/do-your-own-research-learning-to-forecast-by-learning-to-search.md"
+  },
+  {
+    "arxiv_id": "2610.00978",
+    "version": 1,
+    "title": "Generalist Representation, Specialist Detection: TS-Router for Time-Series Anomaly Detection",
+    "authors": [
+      "Tian Lan",
+      "Yifei Gao",
+      "Yimeng Lu",
+      "Xuming An",
+      "Meng Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.00978",
+    "pdf_url": "https://arxiv.org/pdf/2610.00978v1",
+    "github_url": "",
+    "published": "2026-10-01",
+    "tags": [
+      "Time Series Anomaly Detection",
+      "Time-Series Foundation Model",
+      "Router",
+      "Specialist Selection",
+      "Representation Learning",
+      "Unsupervised Detection",
+      "Model Selection",
+      "Industrial Sensor"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/01/generalist-representation-specialist-detection-ts-router-for-time-series-anomaly.md"
+  }
+]
