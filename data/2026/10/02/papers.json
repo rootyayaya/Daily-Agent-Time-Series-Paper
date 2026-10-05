@@ -1,0 +1,36 @@
+[
+  {
+    "arxiv_id": "2610.03139",
+    "version": 1,
+    "title": "Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models",
+    "authors": [
+      "Jaron Fontaine",
+      "Jelle De Moerloose",
+      "Xander Vanparys",
+      "Anton Lambrecht",
+      "Eli De Poorter"
+    ],
+    "author_count": 6,
+    "categories": [
+      "eess.SP"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.03139",
+    "pdf_url": "https://arxiv.org/pdf/2610.03139v1",
+    "github_url": "",
+    "published": "2026-10-02",
+    "tags": [
+      "Agentic Time Series",
+      "多时间尺度智能",
+      "无线感知与推理",
+      "设备端基础模型",
+      "LLM工具调用",
+      "双环架构",
+      "6G网络",
+      "物理层基础模型",
+      "边缘计算",
+      "异步推理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/02/agentic-rf-intelligence-multi-timescale-6g-sensing-and-reasoning-with-on-device.md"
+  }
+]

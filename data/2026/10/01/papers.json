@@ -146,6 +146,37 @@
     "md_path": "data/2026/10/01/detect-explain-interpret-an-end-to-end-benchmark-for-time-series-anomaly-detecti.md"
   },
   {
+    "arxiv_id": "2610.02378",
+    "version": 1,
+    "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+    "authors": [
+      "Meng Liang",
+      "Guanbo Feng",
+      "Haozhuang Chi",
+      "Shilong Zhao",
+      "Zhixin Xiong"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.02378",
+    "pdf_url": "https://arxiv.org/pdf/2610.02378v1",
+    "github_url": "",
+    "published": "2026-10-01",
+    "tags": [
+      "Agentic Time Series",
+      "Vision-to-Language",
+      "LLM Decision Support",
+      "Precision Aquaculture",
+      "Multimodal DPO",
+      "Hierarchical Behavior Encoder",
+      "Industrial Fault Diagnosis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/01/thpl-a-vision-to-language-decision-support-framework-for-rainbow-trout-feeding-m.md"
+  },
+  {
     "arxiv_id": "2610.01955",
     "version": 1,
     "title": "Do Your Own Research: Learning to Forecast by Learning to Search",
