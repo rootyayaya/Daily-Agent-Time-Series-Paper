@@ -1,0 +1,98 @@
+[
+  {
+    "arxiv_id": "2610.05031",
+    "version": 1,
+    "title": "When LLMs Sit Above Diagnostic Tools: Unrealized Complementarity in Industrial Fault Diagnosis",
+    "authors": [
+      "Donghwan Kim"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.05031",
+    "pdf_url": "https://arxiv.org/pdf/2610.05031v1",
+    "github_url": "",
+    "published": "2026-10-04",
+    "tags": [
+      "LLM集成",
+      "工业故障诊断",
+      "工具调用",
+      "证据路由",
+      "多源信息融合",
+      "诊断报告生成",
+      "可解释性",
+      "时序异常检测",
+      "预测性维护",
+      "基准评估"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/04/when-llms-sit-above-diagnostic-tools-unrealized-complementarity-in-industrial-fa.md"
+  },
+  {
+    "arxiv_id": "2610.04942",
+    "version": 1,
+    "title": "Zero-Shot Time-Series Question Answering via Decoupled Perception and Reasoning",
+    "authors": [
+      "Jing Xie",
+      "Haochen Yuan",
+      "Yunbo Wang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.04942",
+    "pdf_url": "https://arxiv.org/pdf/2610.04942v1",
+    "github_url": "",
+    "published": "2026-10-04",
+    "tags": [
+      "Agentic Time Series",
+      "Time-Series Question Answering",
+      "Zero-Shot",
+      "Tool Selection",
+      "Tool Calling",
+      "Memory",
+      "Feedback Loop",
+      "Iterative Re-perception",
+      "Decoupled Perception and Reasoning",
+      "Time-Series Perception State",
+      "LLM Agent",
+      "Numerical Feature Extraction",
+      "Semantic Reasoning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/04/zero-shot-time-series-question-answering-via-decoupled-perception-and-reasoning.md"
+  },
+  {
+    "arxiv_id": "2610.04925",
+    "version": 1,
+    "title": "TSAE: Structured Sparse Autoencoders for Interpreting Time-Series Forecasting Models",
+    "authors": [
+      "Baoxi Liu",
+      "Yi Xie"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.04925",
+    "pdf_url": "https://arxiv.org/pdf/2610.04925v1",
+    "github_url": "",
+    "published": "2026-10-04",
+    "tags": [
+      "可解释时序预测",
+      "稀疏自编码器",
+      "时序表示解耦",
+      "特征归因",
+      "预测一致性微调",
+      "时序语义评估协议",
+      "PatchTST",
+      "工业传感器解释"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/04/tsae-structured-sparse-autoencoders-for-interpreting-time-series-forecasting-mod.md"
+  }
+]

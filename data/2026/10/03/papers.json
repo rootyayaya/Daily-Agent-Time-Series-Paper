@@ -1,0 +1,106 @@
+[
+  {
+    "arxiv_id": "2610.04517",
+    "version": 1,
+    "title": "EvoCast: Reliable Autonomous Research Agents for Iterative Forecasting Architecture Evolution",
+    "authors": [
+      "Kaipeng Xu",
+      "Xianli Yan",
+      "Yan Wang",
+      "Xiang Liu",
+      "Shan Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.04517",
+    "pdf_url": "https://arxiv.org/pdf/2610.04517v1",
+    "github_url": "https://github.com/18e0-x/EvoCast",
+    "published": "2026-10-03",
+    "tags": [
+      "Autonomous Research Agent",
+      "Time Series Forecasting",
+      "Architecture Evolution",
+      "LLM Agent",
+      "Mechanism Ablation",
+      "Evidence-Grounded Reasoning",
+      "Cognition-Authority Separation",
+      "Iterative Optimization",
+      "AutoML",
+      "Agentic Time Series"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/03/evocast-reliable-autonomous-research-agents-for-iterative-forecasting-architectu.md"
+  },
+  {
+    "arxiv_id": "2610.04286",
+    "version": 1,
+    "title": "CyTReX: Explainable AI-Based Cybersecurity Threat Reasoning Framework for DER Networks",
+    "authors": [
+      "Damilola Popoola",
+      "Souradeep Bhattacharya",
+      "Manimaran Govindarasu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.04286",
+    "pdf_url": "https://arxiv.org/pdf/2610.04286v1",
+    "github_url": "",
+    "published": "2026-10-03",
+    "tags": [
+      "LLM Agent",
+      "可解释AI",
+      "证据路由",
+      "SHAP归因",
+      "MCP工具调用",
+      "威胁推理",
+      "异常检测",
+      "网络安全",
+      "DER网络",
+      "可追溯诊断链",
+      "SOC分诊",
+      "结构化证据包"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/03/cytrex-explainable-ai-based-cybersecurity-threat-reasoning-framework-for-der-net.md"
+  },
+  {
+    "arxiv_id": "2610.04278",
+    "version": 1,
+    "title": "Do RUL explanations hold up? Faithfulness and stability of attributions on C-MAPSS",
+    "authors": [
+      "Manh Hien Nguyen",
+      "Ngoc Thanh Nguyen",
+      "Isabella Mendoza Cortes",
+      "Tam Khuat",
+      "Thanh Pham"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.04278",
+    "pdf_url": "https://arxiv.org/pdf/2610.04278v1",
+    "github_url": "",
+    "published": "2026-10-03",
+    "tags": [
+      "RUL预测",
+      "可解释性",
+      "归因方法",
+      "C-MAPSS",
+      "预测性维护",
+      "XAI评估",
+      "工业传感器",
+      "忠实性",
+      "稳定性"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/03/do-rul-explanations-hold-up-faithfulness-and-stability-of-attributions-on-c-maps.md"
+  }
+]

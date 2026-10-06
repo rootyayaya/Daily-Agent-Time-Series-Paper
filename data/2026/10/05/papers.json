@@ -1,0 +1,101 @@
+[
+  {
+    "arxiv_id": "2610.05726",
+    "version": 1,
+    "title": "FreSia: Frequency-Semantic Instantiation and Alignment for Multivariate Time Series Analysis",
+    "authors": [
+      "Yubo Wang",
+      "Hui He",
+      "Hezhe Qiao",
+      "Guoqing Ji",
+      "Zhendong Niu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.05726",
+    "pdf_url": "https://arxiv.org/pdf/2610.05726v1",
+    "github_url": "",
+    "published": "2026-10-05",
+    "tags": [
+      "LLM for Time Series",
+      "Multivariate Time Series",
+      "Frequency-Domain Prompting",
+      "Semantic Alignment",
+      "Time Series Forecasting",
+      "Anomaly Detection",
+      "Time-Frequency Fusion",
+      "Prompt Engineering",
+      "Multimodal Time Series",
+      "LLM Semantic Space"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/05/fresia-frequency-semantic-instantiation-and-alignment-for-multivariate-time-seri.md"
+  },
+  {
+    "arxiv_id": "2610.06180",
+    "version": 1,
+    "title": "Anlu: Enabling In-Context Time Series Anomaly Detection in Foundation Models via Counterfactual Supervision",
+    "authors": [
+      "Tian Lan",
+      "Yifei Gao",
+      "Yimeng Lu",
+      "Xuming An",
+      "Meng Wang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.06180",
+    "pdf_url": "https://arxiv.org/pdf/2610.06180v1",
+    "github_url": "",
+    "published": "2026-10-05",
+    "tags": [
+      "时间序列异常检测",
+      "上下文学习",
+      "基础模型",
+      "反事实监督",
+      "参考记忆",
+      "门控适配器",
+      "TSB-AD-U"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/05/anlu-enabling-in-context-time-series-anomaly-detection-in-foundation-models-via.md"
+  },
+  {
+    "arxiv_id": "2610.05686",
+    "version": 1,
+    "title": "Do Time-Series QA Systems Read the Time Series? Evidence Use and Reasoning Reliability",
+    "authors": [
+      "Zhuomin Chen",
+      "Jingchao Ni",
+      "Xu Zheng",
+      "Janki Bhimani",
+      "Mo Sha"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.05686",
+    "pdf_url": "https://arxiv.org/pdf/2610.05686v1",
+    "github_url": "",
+    "published": "2026-10-05",
+    "tags": [
+      "Time-Series QA",
+      "LLM Evaluation",
+      "Evidence Use",
+      "Reasoning Reliability",
+      "Rationale Audit",
+      "Intervention Benchmark",
+      "Time-Series Understanding",
+      "Numerical Grounding",
+      "Agentic Time Series"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/05/do-time-series-qa-systems-read-the-time-series-evidence-use-and-reasoning-reliab.md"
+  }
+]
