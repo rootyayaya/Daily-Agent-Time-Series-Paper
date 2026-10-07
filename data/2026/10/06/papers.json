@@ -1,0 +1,72 @@
+[
+  {
+    "arxiv_id": "2610.08244",
+    "version": 1,
+    "title": "Sensor-Language-Action Models",
+    "authors": [
+      "Yuekai Xu",
+      "Zitao Shuai",
+      "Yuzhe Yang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.08244",
+    "pdf_url": "https://arxiv.org/pdf/2610.08244v1",
+    "github_url": "",
+    "published": "2026-10-06",
+    "tags": [
+      "Sensor-Language-Action",
+      "多模态传感器",
+      "自然语言接口",
+      "动作预测",
+      "动作解释",
+      "可解释性",
+      "证据接地",
+      "零样本泛化",
+      "临床预测",
+      "手术室",
+      "代谢健康",
+      "基准数据集",
+      "时序语义报告"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/06/sensor-language-action-models.md"
+  },
+  {
+    "arxiv_id": "2610.08622",
+    "version": 1,
+    "title": "Agentic RCA for Internet-Scale Services Using Constrained Creativity",
+    "authors": [
+      "Sayan Sinha",
+      "Vipul Harsh",
+      "B. Aditya Prakash",
+      "Vyas Sekar",
+      "Hui Zhang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.NI",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.08622",
+    "pdf_url": "https://arxiv.org/pdf/2610.08622v1",
+    "github_url": "",
+    "published": "2026-10-06",
+    "tags": [
+      "Agentic RCA",
+      "LLM Agent",
+      "Constrained Creativity",
+      "Root Cause Analysis",
+      "Internet-Scale Services",
+      "Explainable Diagnosis",
+      "Domain-Specific Language",
+      "Verifiable Output",
+      "Cost Efficiency",
+      "Failure Troubleshooting"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/06/agentic-rca-for-internet-scale-services-using-constrained-creativity.md"
+  }
+]
