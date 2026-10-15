@@ -1,0 +1,135 @@
+[
+  {
+    "arxiv_id": "2610.19725",
+    "version": 1,
+    "title": "TIMERSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models",
+    "authors": [
+      "Haoxin Liu",
+      "Deqing Fu",
+      "Lucheng Fu",
+      "Yiqiao Jin",
+      "Rushi Qiang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.19725",
+    "pdf_url": "https://arxiv.org/pdf/2610.19725v1",
+    "github_url": "",
+    "published": "2026-10-14",
+    "tags": [
+      "Agentic Time Series",
+      "Time-Series Foundation Models",
+      "Self-Improving Agent",
+      "Coding Agent",
+      "Forecasting Pipeline Optimization",
+      "Feedback-Guided Revision",
+      "Adaptive Pipeline Selection",
+      "Automated Deployment",
+      "Time Series Forecasting"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/14/timersi-towards-self-improved-agentic-deployment-for-time-series-foundation-mode.md"
+  },
+  {
+    "arxiv_id": "2610.19860",
+    "version": 1,
+    "title": "Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance",
+    "authors": [
+      "Kristoffer Hjelmen Nesland",
+      "Bjarne Grimstad",
+      "Antorweep Chakravorty",
+      "Dan Sui"
+    ],
+    "author_count": 4,
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.19860",
+    "pdf_url": "https://arxiv.org/pdf/2610.19860v1",
+    "github_url": "",
+    "published": "2026-10-14",
+    "tags": [
+      "LLM",
+      "多模态融合",
+      "异常检测",
+      "工业传感器",
+      "数据过滤",
+      "虚拟流量计",
+      "软测量",
+      "文本信息",
+      "训练数据质量",
+      "预测性维护"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/14/text-informed-training-data-filtering-for-enhanced-virtual-flow-meter-performanc.md"
+  },
+  {
+    "arxiv_id": "2610.20243",
+    "version": 1,
+    "title": "Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection",
+    "authors": [
+      "Christos Panourgias",
+      "Roberto Stanzione",
+      "Adrien Petralia",
+      "Themis Palpanas",
+      "Paul Boniol"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.20243",
+    "pdf_url": "https://arxiv.org/pdf/2610.20243v1",
+    "github_url": "",
+    "published": "2026-10-14",
+    "tags": [
+      "时间序列异常检测",
+      "模型选择",
+      "检索增强",
+      "相似性搜索",
+      "知识库",
+      "分布外泛化",
+      "工业诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/14/retrieval-over-training-similarity-search-based-model-selection-for-time-series.md"
+  },
+  {
+    "arxiv_id": "2610.19396",
+    "version": 1,
+    "title": "EpiGuard: An Autonomous Infectious-Disease Early Warning Agent Platform",
+    "authors": [
+      "Tonglong Wei",
+      "Zheng Yuan",
+      "Lingshuai Lin",
+      "Yuhui Yao",
+      "Xing Xie"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.19396",
+    "pdf_url": "https://arxiv.org/pdf/2610.19396v1",
+    "github_url": "",
+    "published": "2026-10-14",
+    "tags": [
+      "Agentic Time Series",
+      "Autonomous Early Warning",
+      "Epidemic Forecasting",
+      "Evidence Routing",
+      "Self-Improving Agent",
+      "Reusable SOP",
+      "Multi-Source Surveillance",
+      "Data Availability Regimes",
+      "LLM/Agent Workflow",
+      "Time Series Forecasting"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/14/epiguard-an-autonomous-infectious-disease-early-warning-agent-platform.md"
+  }
+]
