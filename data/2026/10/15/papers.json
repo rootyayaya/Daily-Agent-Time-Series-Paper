@@ -1,0 +1,211 @@
+[
+  {
+    "arxiv_id": "2610.21308",
+    "version": 1,
+    "title": "PocketTSLM: Deploying an On-Device Soft-Prompt Time-Series Language Model for Privacy-Preserving Smartphone Reasoning",
+    "authors": [
+      "Max Rosenblattl",
+      "Nikhil Krishnaswamy",
+      "Leon Nissen",
+      "Manuel Milling",
+      "Nicolas Zumarraga"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.21308",
+    "pdf_url": "https://arxiv.org/pdf/2610.21308v1",
+    "github_url": "https://github.com/SchmiedmayerLab/PocketTSLM",
+    "published": "2026-10-15",
+    "tags": [
+      "Agentic Time Series",
+      "On-Device LLM",
+      "Soft-Prompt",
+      "Time-Series Language Model",
+      "Privacy-Preserving",
+      "Mobile Deployment",
+      "ECG-QA",
+      "Sleep Staging"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/15/pockettslm-deploying-an-on-device-soft-prompt-time-series-language-model-for-pri.md"
+  },
+  {
+    "arxiv_id": "2610.21274",
+    "version": 1,
+    "title": "TimeCap: A Scalable Open-Source Pipeline for Captioning Wearable Health Time-Series Data",
+    "authors": [
+      "Max Rosenblattl",
+      "Milana Gurbanova",
+      "Karl Aurel Deck",
+      "Narayan Schuetz",
+      "Thomas Kaar"
+    ],
+    "author_count": 19,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.21274",
+    "pdf_url": "https://arxiv.org/pdf/2610.21274v1",
+    "github_url": "https://github.com/SchmiedmayerLab/TimeCAP",
+    "published": "2026-10-15",
+    "tags": [
+      "时间序列描述生成",
+      "可穿戴健康数据",
+      "TSLM",
+      "确定性标注流水线",
+      "多模态时序",
+      "数据集构建",
+      "Agentic Time Series"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/15/timecap-a-scalable-open-source-pipeline-for-captioning-wearable-health-time-seri.md"
+  },
+  {
+    "arxiv_id": "2610.21281",
+    "version": 1,
+    "title": "Diviner: Agentic RCA with Human-Governed Adaptation for Large-Scale Infrastructure",
+    "authors": [
+      "Pradipta Ghosh",
+      "Gaurav Mitra",
+      "Shripad Nadgowda",
+      "Akshil Shah",
+      "Junyu Liu"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.21281",
+    "pdf_url": "https://arxiv.org/pdf/2610.21281v1",
+    "github_url": "",
+    "published": "2026-10-15",
+    "tags": [
+      "Agentic RCA",
+      "Root Cause Analysis",
+      "LLM Agent",
+      "Evidence Routing",
+      "Incident Knowledge Graph",
+      "Human-in-the-loop",
+      "Skill Adaptation",
+      "Tool Use",
+      "Multi-agent",
+      "Verifier",
+      "Industrial Diagnosis",
+      "Large-Scale Infrastructure",
+      "Observability",
+      "Groundedness",
+      "Workflow"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/15/diviner-agentic-rca-with-human-governed-adaptation-for-large-scale-infrastructur.md"
+  },
+  {
+    "arxiv_id": "2610.22327",
+    "version": 1,
+    "title": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
+    "authors": [
+      "Hedi Zisling",
+      "Liran Nochumsohn",
+      "Ilan Naiman",
+      "Mihir Parmar",
+      "Omri Azencot"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.22327",
+    "pdf_url": "https://arxiv.org/pdf/2610.22327v1",
+    "github_url": "",
+    "published": "2026-10-15",
+    "tags": [
+      "Time Series Language Models",
+      "Complementary Representations",
+      "Delay Embedding",
+      "Visual Encoding",
+      "Multi-level Feature Fusion",
+      "Time Series Reasoning",
+      "TSRBench",
+      "Multivariate Time Series",
+      "Qwen3-VL",
+      "Invariance Analysis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/15/twice-upon-a-time-complementary-representations-for-time-series-reasoning.md"
+  },
+  {
+    "arxiv_id": "2610.22064",
+    "version": 1,
+    "title": "From Signals to Evidence: Interpretable Underwater Acoustic Target Sensing with Large Language Models - Part I: Framework and Recognition",
+    "authors": [
+      "Yuge Zhang",
+      "Jie Chen",
+      "Zhengqiao Zhao",
+      "Xiling Yao",
+      "Lingji Xu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.SD",
+      "eess.SP"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.22064",
+    "pdf_url": "https://arxiv.org/pdf/2610.22064v1",
+    "github_url": "",
+    "published": "2026-10-15",
+    "tags": [
+      "LLM for time series",
+      "interpretable time series",
+      "underwater acoustic sensing",
+      "physics-aware encoding",
+      "evidence-grounded reasoning",
+      "multimodal time series",
+      "attribute-level evaluation",
+      "industrial fault diagnosis",
+      "semantic report generation",
+      "signal-to-evidence chain"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/15/from-signals-to-evidence-interpretable-underwater-acoustic-target-sensing-with-l.md"
+  },
+  {
+    "arxiv_id": "2610.21502",
+    "version": 1,
+    "title": "ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing",
+    "authors": [
+      "Hao Zhang",
+      "Hengrui Liu",
+      "Lina Sun",
+      "Junmin Meng"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.21502",
+    "pdf_url": "https://arxiv.org/pdf/2610.21502v1",
+    "github_url": "",
+    "published": "2026-10-15",
+    "tags": [
+      "LLM Agent",
+      "工作流编排",
+      "遥感图像处理",
+      "工具调用",
+      "输出验证",
+      "故障注入",
+      "可追溯处理链",
+      "自然语言指令",
+      "多模型集成",
+      "地理空间变换"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/15/isw-agent-integrating-llm-driven-dialogue-with-n8n-workflow-for-internal-solitar.md"
+  }
+]
