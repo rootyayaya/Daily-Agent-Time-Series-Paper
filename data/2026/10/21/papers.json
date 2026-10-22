@@ -1,0 +1,130 @@
+[
+  {
+    "arxiv_id": "2610.29504",
+    "version": 1,
+    "title": "Rethinking Agentic Model Orchestration for Time Series Forecasting",
+    "authors": [
+      "Tong Guan",
+      "Tianxiang Zhan",
+      "Shirui Pan",
+      "Ming Jin"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.29504",
+    "pdf_url": "https://arxiv.org/pdf/2610.29504v1",
+    "github_url": "",
+    "published": "2026-10-21",
+    "tags": [
+      "Agentic Model Orchestration",
+      "Time Series Forecasting",
+      "Foundation Models",
+      "Model Selection",
+      "Controlled Evaluation",
+      "GIFT-Eval",
+      "Complementarity",
+      "Historical Evidence Saturation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/21/rethinking-agentic-model-orchestration-for-time-series-forecasting.md"
+  },
+  {
+    "arxiv_id": "2610.30072",
+    "version": 1,
+    "title": "Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis",
+    "authors": [
+      "Xinzhe Wang",
+      "Xudong Weng",
+      "Zang Li",
+      "Shaolei Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.30072",
+    "pdf_url": "https://arxiv.org/pdf/2610.30072v1",
+    "github_url": "",
+    "published": "2026-10-21",
+    "tags": [
+      "Agentic Data Analysis",
+      "Chart as Epistemic Action",
+      "Experience Distillation",
+      "Trajectory Rollout",
+      "Tool Use",
+      "Visual Reasoning",
+      "Time Series Anomaly Detection",
+      "LLM Agent",
+      "Self-Evolving Skill",
+      "Feedback Optimization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/21/charts-as-epistemic-actions-for-experience-driven-agentic-data-analysis.md"
+  },
+  {
+    "arxiv_id": "2610.29283",
+    "version": 1,
+    "title": "Computer Vision and Knowledge-Grounded Language Models for Intelligent Beekeeper Assistance",
+    "authors": [
+      "Asaduz Zaman",
+      "Mohaimenul Azam Khan Raiaan",
+      "Malika Nisal Ratnayake"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.29283",
+    "pdf_url": "https://arxiv.org/pdf/2610.29283v1",
+    "github_url": "",
+    "published": "2026-10-21",
+    "tags": [
+      "可解释报告生成",
+      "知识库触发",
+      "事实模式",
+      "边缘部署",
+      "图像检测",
+      "结构化事实",
+      "约束文本生成",
+      "领域知识",
+      "非时序数据"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/21/computer-vision-and-knowledge-grounded-language-models-for-intelligent-beekeeper.md"
+  },
+  {
+    "arxiv_id": "2610.29036",
+    "version": 1,
+    "title": "GRAIL: From Saliency to Semantics in Time-Series Explanation",
+    "authors": [
+      "Enver Menadjiev",
+      "Yiqiu Shen",
+      "Jaesik Choi",
+      "Julia Stoyanovich"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.29036",
+    "pdf_url": "https://arxiv.org/pdf/2610.29036v1",
+    "github_url": "",
+    "published": "2026-10-21",
+    "tags": [
+      "时间序列解释",
+      "区域归因",
+      "反事实基线",
+      "Owen值",
+      "语义特征",
+      "ECG",
+      "可解释性",
+      "领域知识"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/21/grail-from-saliency-to-semantics-in-time-series-explanation.md"
+  }
+]
