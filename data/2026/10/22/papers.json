@@ -1,0 +1,135 @@
+[
+  {
+    "arxiv_id": "2610.30593",
+    "version": 1,
+    "title": "TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying",
+    "authors": [
+      "Zhao Tan",
+      "Xianglong Bao",
+      "Zhipeng Xi",
+      "Ming Jin"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.DB",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.30593",
+    "pdf_url": "https://arxiv.org/pdf/2610.30593v1",
+    "github_url": "https://github.com/Atlamtiz/tt-sax",
+    "published": "2026-10-22",
+    "tags": [
+      "时间序列符号化",
+      "自然语言查询",
+      "形状查询",
+      "LLM",
+      "语义桥接",
+      "时序数据库",
+      "SAX改进",
+      "NLQTSBench",
+      "可解释时序分析"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/22/tt-sax-a-two-track-time-series-symbolization-for-natural-language-shape-querying.md"
+  },
+  {
+    "arxiv_id": "2610.30557",
+    "version": 1,
+    "title": "Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core",
+    "authors": [
+      "Yebo Feng",
+      "Jingyang Dai",
+      "Liangrui Pan",
+      "Nelson Lau",
+      "Jiahua Xu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA",
+      "q-fin.PM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.30557",
+    "pdf_url": "https://arxiv.org/pdf/2610.30557v1",
+    "github_url": "https://github.com/yebof/quant-agent",
+    "published": "2026-10-22",
+    "tags": [
+      "Multi-Agent LLM",
+      "Self-Evolution",
+      "Memory",
+      "Reflection",
+      "Feedback Optimization",
+      "Typed Reports",
+      "Financial Time Series",
+      "Risk Management",
+      "Live Deployment",
+      "Replay Verification"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/22/governed-self-evolution-for-autonomous-investing-a-multi-agent-llm-system-with-a.md"
+  },
+  {
+    "arxiv_id": "2610.30995",
+    "version": 1,
+    "title": "EEG-Captioner: Grounding EEG-to-Language Generation in Fundamental Signal Properties",
+    "authors": [
+      "Leyuan Jin",
+      "Jiahao Mei",
+      "Yixuan Yuan",
+      "Shimeng Li",
+      "Mengyue Wu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.30995",
+    "pdf_url": "https://arxiv.org/pdf/2610.30995v1",
+    "github_url": "",
+    "published": "2026-10-22",
+    "tags": [
+      "EEG-to-language",
+      "signal captioning",
+      "signal-level QA",
+      "multimodal encoder",
+      "time series semantics",
+      "factual consistency"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/22/eeg-captioner-grounding-eeg-to-language-generation-in-fundamental-signal-propert.md"
+  },
+  {
+    "arxiv_id": "2610.31003",
+    "version": 1,
+    "title": "Agri-SCHOLAR: Simulation-Grounded In-Season Rolling Advisories for Agricultural Crops Using LLM-Bounded Optimization",
+    "authors": [
+      "Geetha Charan",
+      "Vedant Balasubramaniam",
+      "Manojkumar Patil",
+      "V. Priyanka",
+      "Kodur Sai Vinay Sathvik"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.31003",
+    "pdf_url": "https://arxiv.org/pdf/2610.31003v1",
+    "github_url": "",
+    "published": "2026-10-22",
+    "tags": [
+      "LLM-Agent",
+      "多智能体系统",
+      "仿真优化",
+      "滚动决策",
+      "农业时序数据",
+      "多目标优化",
+      "闭环系统",
+      "预测性维护"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/22/agri-scholar-simulation-grounded-in-season-rolling-advisories-for-agricultural-c.md"
+  }
+]
