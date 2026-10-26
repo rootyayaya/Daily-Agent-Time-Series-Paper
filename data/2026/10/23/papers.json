@@ -1,0 +1,38 @@
+[
+  {
+    "arxiv_id": "2610.32305",
+    "version": 1,
+    "title": "DMAIC-Bench: From Self-Reflection to Self-Restraint for Agents in Multi-Stage Analytical Tasks",
+    "authors": [
+      "Shan Peng",
+      "Shuaiqi Cheng",
+      "Miao Peng",
+      "Chenyi Zi",
+      "Jia Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.32305",
+    "pdf_url": "https://arxiv.org/pdf/2610.32305v1",
+    "github_url": "https://github.com/psptpx/DMAIC-Bench-public",
+    "published": "2026-10-23",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "自反思",
+      "自我约束",
+      "多阶段分析",
+      "工业诊断",
+      "证据路由",
+      "基准测试",
+      "决策制定",
+      "可解释诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/23/dmaic-bench-from-self-reflection-to-self-restraint-for-agents-in-multi-stage-ana.md"
+  }
+]

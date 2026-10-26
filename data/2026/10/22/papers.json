@@ -70,6 +70,37 @@
     "md_path": "data/2026/10/22/governed-self-evolution-for-autonomous-investing-a-multi-agent-llm-system-with-a.md"
   },
   {
+    "arxiv_id": "2610.31959",
+    "version": 1,
+    "title": "A Model-Agnostic Correction Framework for Short-Term Building Load Forecasting",
+    "authors": [
+      "Shiqiao Zhou",
+      "Huanbo Lyu",
+      "Holger Schöner",
+      "Zipeng Wu",
+      "Jessica Deuschel"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.31959",
+    "pdf_url": "https://arxiv.org/pdf/2610.31959v1",
+    "github_url": "",
+    "published": "2026-10-22",
+    "tags": [
+      "检索增强时序预测",
+      "模型无关校正框架",
+      "可解释性",
+      "建筑负荷预测",
+      "证据检索",
+      "案例追溯"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/22/a-model-agnostic-correction-framework-for-short-term-building-load-forecasting.md"
+  },
+  {
     "arxiv_id": "2610.30995",
     "version": 1,
     "title": "EEG-Captioner: Grounding EEG-to-Language Generation in Fundamental Signal Properties",
@@ -131,5 +162,104 @@
     ],
     "relevance_score": 6.5,
     "md_path": "data/2026/10/22/agri-scholar-simulation-grounded-in-season-rolling-advisories-for-agricultural-c.md"
+  },
+  {
+    "arxiv_id": "2610.31553",
+    "version": 1,
+    "title": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
+    "authors": [
+      "Humza Akhtar",
+      "Brian Freeman"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.DB",
+      "cs.HC",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.31553",
+    "pdf_url": "https://arxiv.org/pdf/2610.31553v1",
+    "github_url": "",
+    "published": "2026-10-22",
+    "tags": [
+      "LLM Agent",
+      "数据治理",
+      "元数据管理",
+      "可争议决策",
+      "人类监督",
+      "工业物联网",
+      "HVAC",
+      "证据引用",
+      "知识图谱",
+      "Brick Schema"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/22/contestable-agents-for-data-governance-recording-human-stewardship-of-ai-generat.md"
+  },
+  {
+    "arxiv_id": "2610.31722",
+    "version": 1,
+    "title": "Autoregressive Multimodal Anomaly Detection with Large Language Models for Microservice Systems",
+    "authors": [
+      "Yixiang Tang",
+      "Fagui Liu",
+      "Guoxiang Zhong",
+      "Xi Yao",
+      "C. L. Philip Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.31722",
+    "pdf_url": "https://arxiv.org/pdf/2610.31722v1",
+    "github_url": "",
+    "published": "2026-10-22",
+    "tags": [
+      "多模态异常检测",
+      "微服务系统",
+      "LLM用于时序分析",
+      "自回归预测",
+      "模态特定重建",
+      "身份捷径问题",
+      "工业监控"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/22/autoregressive-multimodal-anomaly-detection-with-large-language-models-for-micro.md"
+  },
+  {
+    "arxiv_id": "2610.30628",
+    "version": 1,
+    "title": "Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook",
+    "authors": [
+      "Zhijie Zhong",
+      "Zhiwen Yu",
+      "Pengyu Li",
+      "Liujian Zhang",
+      "Qiaoli Ni"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.30628",
+    "pdf_url": "https://arxiv.org/pdf/2610.30628v1",
+    "github_url": "",
+    "published": "2026-10-22",
+    "tags": [
+      "时间序列异常检测",
+      "综述",
+      "LLM用于时序",
+      "评估基准",
+      "可解释性",
+      "多模态对齐",
+      "基础模型"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/22/future-of-time-series-anomaly-detection-from-historical-review-to-unified-outloo.md"
   }
 ]
