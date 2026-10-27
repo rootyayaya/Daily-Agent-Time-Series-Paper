@@ -1,0 +1,131 @@
+[
+  {
+    "arxiv_id": "2610.34968",
+    "version": 1,
+    "title": "Guarded Agent-in-the-Loop Residual Adaptation for Evolving Wind Power Regimes",
+    "authors": [
+      "Yuhang Dong",
+      "Min Xia",
+      "Jinghong Li",
+      "Yue Dai",
+      "Xinyue Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.34968",
+    "pdf_url": "https://arxiv.org/pdf/2610.34968v1",
+    "github_url": "",
+    "published": "2026-10-26",
+    "tags": [
+      "Agentic Time Series",
+      "LLM/Agent 用于时间序列",
+      "残差适应",
+      "场景感知路由",
+      "风功率预测",
+      "预测性维护",
+      "在线学习",
+      "专家混合",
+      "工业传感器解释",
+      "可解释诊断链"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/10/26/guarded-agent-in-the-loop-residual-adaptation-for-evolving-wind-power-regimes.md"
+  },
+  {
+    "arxiv_id": "2610.35391",
+    "version": 1,
+    "title": "Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven Agents",
+    "authors": [
+      "Erdal Aydin",
+      "Yaman Arkun"
+    ],
+    "author_count": 2,
+    "categories": [
+      "math.OC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.35391",
+    "pdf_url": "https://arxiv.org/pdf/2610.35391v1",
+    "github_url": "",
+    "published": "2026-10-26",
+    "tags": [
+      "LLM Agent",
+      "RAG",
+      "系统辨识",
+      "动力学模型发现",
+      "生物过程",
+      "主动实验设计",
+      "可解释建模",
+      "闭环诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/26/autonomous-structural-discovery-of-bioprocess-dynamics-and-kinetics-via-llm-driv.md"
+  },
+  {
+    "arxiv_id": "2610.35054",
+    "version": 1,
+    "title": "From Questions to Queries to Insights: A Schema-Grounded Agentic Workflow for Natural-Language Crash Data Analysis",
+    "authors": [
+      "Jingwen Zhu",
+      "Keshu Wu",
+      "Steven T. Parker",
+      "Bin Ran",
+      "David A. Noyce"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.35054",
+    "pdf_url": "https://arxiv.org/pdf/2610.35054v1",
+    "github_url": "",
+    "published": "2026-10-26",
+    "tags": [
+      "Agentic Workflow",
+      "Schema-Grounded",
+      "Natural-Language Query",
+      "SQL Generation",
+      "Verification",
+      "Iterative Repair",
+      "Local LLM",
+      "Crash Data Analysis",
+      "Domain Knowledge Base",
+      "Auditable Intermediate Outputs"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/26/from-questions-to-queries-to-insights-a-schema-grounded-agentic-workflow-for-nat.md"
+  },
+  {
+    "arxiv_id": "2610.35355",
+    "version": 1,
+    "title": "OneEEG: A Unified Signal-Visual Multimodal Language Model with Task-Aware Mixture of Projectors for Multi-Task EEG Understanding",
+    "authors": [
+      "Jiacheng Zhang",
+      "Xueyi Zhang",
+      "Xin Lu",
+      "Siqi Cai",
+      "Haizhou Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.35355",
+    "pdf_url": "https://arxiv.org/pdf/2610.35355v1",
+    "github_url": "",
+    "published": "2026-10-26",
+    "tags": [
+      "EEG",
+      "多模态大语言模型",
+      "任务感知混合投影器",
+      "信号-视觉对齐",
+      "指令微调",
+      "多任务理解",
+      "基准测试"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/26/oneeeg-a-unified-signal-visual-multimodal-language-model-with-task-aware-mixture.md"
+  }
+]

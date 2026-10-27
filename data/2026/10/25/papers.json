@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2610.34569",
+    "version": 1,
+    "title": "Agentic AI Orchestration Framework for Spatial Intelligence: Supply Chain Deployment",
+    "authors": [
+      "Constantinos Papantoniou",
+      "Brian Hilton"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.34569",
+    "pdf_url": "https://arxiv.org/pdf/2610.34569v1",
+    "github_url": "",
+    "published": "2026-10-25",
+    "tags": [
+      "多智能体工作流编排",
+      "工业供应链部署",
+      "空间智能",
+      "人在回路审批",
+      "反馈驱动执行",
+      "冷链异常检测",
+      "传感器遥测",
+      "结构化推理",
+      "权威空间基准验证",
+      "部署案例研究"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/25/agentic-ai-orchestration-framework-for-spatial-intelligence-supply-chain-deploym.md"
+  }
+]
