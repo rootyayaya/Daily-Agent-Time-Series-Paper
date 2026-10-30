@@ -1,0 +1,66 @@
+[
+  {
+    "arxiv_id": "2610.40619",
+    "version": 1,
+    "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+    "authors": [
+      "Chengyang He",
+      "Wenlong Zhang",
+      "Koduvayur Subbalakshmi",
+      "Ping Wang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.40619",
+    "pdf_url": "https://arxiv.org/pdf/2610.40619v1",
+    "github_url": "",
+    "published": "2026-10-29",
+    "tags": [
+      "时序假设检验",
+      "证据检索",
+      "可解释性",
+      "临床时间线",
+      "LLM验证",
+      "基准测试",
+      "决策可追溯",
+      "工具调用"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/29/testimony-from-timelines-evidence-grounded-significance-testing-of-temporal-clin.md"
+  },
+  {
+    "arxiv_id": "2610.40641",
+    "version": 1,
+    "title": "From extreme weather to agricultural consequences with agentic AI",
+    "authors": [
+      "Minghan Yu",
+      "Mengyu Dai",
+      "Yixin Wen",
+      "Haizhao Yang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "physics.ao-ph",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.40641",
+    "pdf_url": "https://arxiv.org/pdf/2610.40641v1",
+    "github_url": "",
+    "published": "2026-10-29",
+    "tags": [
+      "Agentic AI",
+      "极端天气",
+      "农业灾害",
+      "因果分析",
+      "可解释指数",
+      "损失预测",
+      "多源数据融合",
+      "证据溯源"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/29/from-extreme-weather-to-agricultural-consequences-with-agentic-ai.md"
+  }
+]
