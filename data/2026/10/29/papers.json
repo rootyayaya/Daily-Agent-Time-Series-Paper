@@ -32,6 +32,39 @@
     "md_path": "data/2026/10/29/testimony-from-timelines-evidence-grounded-significance-testing-of-temporal-clin.md"
   },
   {
+    "arxiv_id": "2610.40901",
+    "version": 1,
+    "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+    "authors": [
+      "ChengAo Shen",
+      "Yanjun Zhao",
+      "Haoxin Liu",
+      "Bonnie Chen",
+      "Miles Ma"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.40901",
+    "pdf_url": "https://arxiv.org/pdf/2610.40901v1",
+    "github_url": "https://github.com/D2I-Group/TSFLab",
+    "published": "2026-10-29",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "时间序列预测",
+      "自动基准测试",
+      "自改进工作台",
+      "工具调用",
+      "代码智能体",
+      "研究自动化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/10/29/tsflab-a-self-improving-agent-agnostic-workbench-for-time-series-forecasting-res.md"
+  },
+  {
     "arxiv_id": "2610.40641",
     "version": 1,
     "title": "From extreme weather to agricultural consequences with agentic AI",
@@ -62,5 +95,35 @@
     ],
     "relevance_score": 6.5,
     "md_path": "data/2026/10/29/from-extreme-weather-to-agricultural-consequences-with-agentic-ai.md"
+  },
+  {
+    "arxiv_id": "2610.40940",
+    "version": 1,
+    "title": "Benchmarking Forecasting Agents on Yesterday's Tomorrows",
+    "authors": [
+      "Yuxuan Wang",
+      "Yishu Wang",
+      "Jiaqi Deng"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.40940",
+    "pdf_url": "https://arxiv.org/pdf/2610.40940v1",
+    "github_url": "",
+    "published": "2026-10-29",
+    "tags": [
+      "Agentic Time Series",
+      "Forecasting Agents",
+      "Benchmark",
+      "Retrieval-Augmented Generation",
+      "Evidence Weighting",
+      "Probabilistic Forecasting",
+      "LLM Agent Evaluation"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/10/29/benchmarking-forecasting-agents-on-yesterdays-tomorrows.md"
   }
 ]
