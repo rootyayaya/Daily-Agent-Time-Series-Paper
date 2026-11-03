@@ -1,0 +1,98 @@
+[
+  {
+    "arxiv_id": "2611.02738",
+    "version": 1,
+    "title": "Multi-Modal Multi-Agent System for Bridge Operation and Maintenance based on Large Language Model",
+    "authors": [
+      "Xiangyun Luo",
+      "Yunkai Zhang",
+      "Yong Huang",
+      "Stephen Wu",
+      "Hui Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.02738",
+    "pdf_url": "https://arxiv.org/pdf/2611.02738v1",
+    "github_url": "",
+    "published": "2026-11-02",
+    "tags": [
+      "Agentic Time Series",
+      "工业故障诊断",
+      "多智能体系统",
+      "知识图谱增强",
+      "可解释决策",
+      "桥梁运维",
+      "LLM Agent",
+      "物理机理约束"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/02/multi-modal-multi-agent-system-for-bridge-operation-and-maintenance-based-on-lar.md"
+  },
+  {
+    "arxiv_id": "2611.03420",
+    "version": 1,
+    "title": "Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models",
+    "authors": [
+      "Muhan Yeo",
+      "Bong Gyun Kang",
+      "HyunGi Kim",
+      "Sungroh Yoon"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.03420",
+    "pdf_url": "https://arxiv.org/pdf/2611.03420v1",
+    "github_url": "",
+    "published": "2026-11-02",
+    "tags": [
+      "可解释时序诊断",
+      "临床时间序列",
+      "稀疏自编码器",
+      "概念字典",
+      "时序归因",
+      "表示学习",
+      "MIMIC-III",
+      "MIMIC-IV"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/02/temporal-island-sparse-autoencoders-for-interpreting-clinical-time-series-models.md"
+  },
+  {
+    "arxiv_id": "2611.02511",
+    "version": 1,
+    "title": "When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis",
+    "authors": [
+      "Tao Xie",
+      "Yiqun Zhang",
+      "Yiu-ming Cheung"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.02511",
+    "pdf_url": "https://arxiv.org/pdf/2611.02511v1",
+    "github_url": "",
+    "published": "2026-11-02",
+    "tags": [
+      "reflexive time series",
+      "closed-loop provenance",
+      "agent memory",
+      "prediction-action-observation loop",
+      "AI-shaped trajectories",
+      "causal sequence identification",
+      "closed-loop evaluation",
+      "position paper",
+      "agentic time series",
+      "intervention effects"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/02/when-prediction-shapes-the-future-a-bluesky-agenda-for-reflexive-time-series-ana.md"
+  }
+]

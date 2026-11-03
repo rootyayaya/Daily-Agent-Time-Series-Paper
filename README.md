@@ -2,17 +2,17 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-10-29 (4 篇)
+## 2026-11-02 (3 篇)
 
-### 核心推荐 (0 篇)
-
-暂无。
-
-### 可借鉴论文 (4 篇)
+### 核心推荐 (1 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses](https://arxiv.org/abs/2610.40619) | 时序假设检验, 证据检索, 可解释性 |
-| 7.5 | [TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](https://arxiv.org/abs/2610.40901) [[Code](https://github.com/D2I-Group/TSFLab)] | Agentic Time Series, LLM Agent, 时间序列预测 |
-| 6.5 | [From extreme weather to agricultural consequences with agentic AI](https://arxiv.org/abs/2610.40641) | Agentic AI, 极端天气, 农业灾害 |
-| 6.5 | [Benchmarking Forecasting Agents on Yesterday's Tomorrows](https://arxiv.org/abs/2610.40940) | Agentic Time Series, Forecasting Agents, Benchmark |
+| 8.5 | [Multi-Modal Multi-Agent System for Bridge Operation and Maintenance based on Large Language Model](https://arxiv.org/abs/2611.02738) | Agentic Time Series, 工业故障诊断, 多智能体系统 |
+
+### 可借鉴论文 (2 篇)
+
+| 分数 | 论文 | 标签 |
+|:----:|------|------|
+| 6.5 | [Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models](https://arxiv.org/abs/2611.03420) | 可解释时序诊断, 临床时间序列, 稀疏自编码器 |
+| 6.5 | [When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis](https://arxiv.org/abs/2611.02511) | reflexive time series, closed-loop provenance, agent memory |

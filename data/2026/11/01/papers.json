@@ -1,0 +1,97 @@
+[
+  {
+    "arxiv_id": "2611.01409",
+    "version": 1,
+    "title": "RAG-TRACE: Tracing Measurement Evidence and Diagnostic Completeness in AI-Generated ECG Reports",
+    "authors": [
+      "Elyas Irankhah",
+      "Shahed Salehzehi",
+      "Parisa Hosseini"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.01409",
+    "pdf_url": "https://arxiv.org/pdf/2611.01409v1",
+    "github_url": "https://github.com/Elyasirankhah/RAG-TRACE",
+    "published": "2026-11-01",
+    "tags": [
+      "RAG",
+      "ECG报告生成",
+      "证据可追溯性",
+      "测量验证",
+      "临床诊断完整性",
+      "LLM评估"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/01/rag-trace-tracing-measurement-evidence-and-diagnostic-completeness-in-ai-generat.md"
+  },
+  {
+    "arxiv_id": "2611.01394",
+    "version": 1,
+    "title": "ERIA: An Instruction-Optimized Agent for Clinical EEG Reporting",
+    "authors": [
+      "Ahmed Sameh",
+      "Gayal Kuruppu",
+      "Neeraj Wagh",
+      "Bridger Brundy",
+      "Yogatheesan Varatharajah"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.01394",
+    "pdf_url": "https://arxiv.org/pdf/2611.01394v1",
+    "github_url": "",
+    "published": "2026-11-01",
+    "tags": [
+      "LLM Agent",
+      "工具调用",
+      "时序报告生成",
+      "临床EEG分析",
+      "指令优化",
+      "可追溯诊断",
+      "信号处理工具",
+      "自然语言策略优化"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/01/eria-an-instruction-optimized-agent-for-clinical-eeg-reporting.md"
+  },
+  {
+    "arxiv_id": "2611.02021",
+    "version": 1,
+    "title": "ClickSight: An LLM Framework for Interpreting Student Clickstreams Through Learning Strategies",
+    "authors": [
+      "Bahar Radmehr",
+      "Lan Tran",
+      "Ekaterina Shved",
+      "Fatma Bet{ü}l G{ü}reş",
+      "Adish Singla"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.02021",
+    "pdf_url": "https://arxiv.org/pdf/2611.02021v1",
+    "github_url": "https://github.com/epfl-ml4ed/ClickSight-CEAI",
+    "published": "2026-11-01",
+    "tags": [
+      "LLM",
+      "clickstream",
+      "时序语义报告",
+      "证据路由",
+      "可解释诊断",
+      "教育数据挖掘",
+      "分阶段管道",
+      "LLM评估"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/01/clicksight-an-llm-framework-for-interpreting-student-clickstreams-through-learni.md"
+  }
+]
