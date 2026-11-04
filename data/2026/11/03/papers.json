@@ -1,0 +1,127 @@
+[
+  {
+    "arxiv_id": "2611.05179",
+    "version": 1,
+    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+    "authors": [
+      "Javal Vyas",
+      "Mehmet Mercang{ö}z"
+    ],
+    "author_count": 2,
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.05179",
+    "pdf_url": "https://arxiv.org/pdf/2611.05179v1",
+    "github_url": "",
+    "published": "2026-11-03",
+    "tags": [
+      "Agentic Time Series",
+      "故障诊断",
+      "工业过程监控",
+      "LLM Agent",
+      "知识图谱检索",
+      "动作验证",
+      "多变量统计过程监控",
+      "可解释诊断",
+      "化学过程",
+      "基准测试"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/03/operaitor-an-agentic-framework-for-fault-tolerant-operation-of-chemical-processe.md"
+  },
+  {
+    "arxiv_id": "2611.04126",
+    "version": 1,
+    "title": "GlucoAgent: Personalized Glucose Forecasting from Multimodal Personal Context",
+    "authors": [
+      "Xingzhi Sun",
+      "Hyo Jin Kim",
+      "Zhiyuan Wang",
+      "Hao Chen"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.04126",
+    "pdf_url": "https://arxiv.org/pdf/2611.04126v1",
+    "github_url": "",
+    "published": "2026-11-03",
+    "tags": [
+      "LLM Agent",
+      "多模态时序预测",
+      "代码生成与执行",
+      "个性化健康监测",
+      "可解释预测",
+      "证据支持",
+      "时序基础模型对比",
+      "连续血糖监测"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/03/glucoagent-personalized-glucose-forecasting-from-multimodal-personal-context.md"
+  },
+  {
+    "arxiv_id": "2611.04640",
+    "version": 1,
+    "title": "TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration",
+    "authors": [
+      "Andrea Pomarico",
+      "Salvatore Tessitore",
+      "Giorgio Giannuzzi",
+      "Alberto Berizzi"
+    ],
+    "author_count": 4,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.04640",
+    "pdf_url": "https://arxiv.org/pdf/2611.04640v1",
+    "github_url": "https://github.com/Power-Agent/PowerAgentBench",
+    "published": "2026-11-03",
+    "tags": [
+      "LLM Agent",
+      "工具调用",
+      "迭代反馈优化",
+      "工业系统校准",
+      "电力系统动态模型",
+      "参数调优",
+      "基准测试",
+      "可解释子问题分解",
+      "物理指标提取",
+      "Agentic AI"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/03/tunebench-benchmarking-ai-agents-for-power-system-dynamic-model-calibration.md"
+  },
+  {
+    "arxiv_id": "2611.04482",
+    "version": 1,
+    "title": "TEMPO: Time Series Understanding via Discrete Tokenization",
+    "authors": [
+      "Riccardo Maggioni"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.04482",
+    "pdf_url": "https://arxiv.org/pdf/2611.04482v1",
+    "github_url": "",
+    "published": "2026-11-03",
+    "tags": [
+      "时间序列理解",
+      "离散标记化",
+      "LLM接口",
+      "轴承故障诊断",
+      "信号到文本",
+      "有限标量量化",
+      "DoRA适配器",
+      "多模态时序",
+      "工业诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/03/tempo-time-series-understanding-via-discrete-tokenization.md"
+  }
+]
