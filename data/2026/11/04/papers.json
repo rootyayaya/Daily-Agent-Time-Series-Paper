@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2611.06508",
+    "version": 1,
+    "title": "ElecLoad: Adaptive Electricity Load Forecasting Guided by Multiple Events",
+    "authors": [
+      "Huajian Zhang",
+      "Mingyue Cheng",
+      "Xingpeng Gao",
+      "Xiaoyu Tao",
+      "Zhiding Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.06508",
+    "pdf_url": "https://arxiv.org/pdf/2611.06508v1",
+    "github_url": "https://github.com/zhjai/ElecLoad",
+    "published": "2026-11-04",
+    "tags": [
+      "Agentic Time Series",
+      "多事件上下文感知",
+      "电力负荷预测",
+      "多智能体协作",
+      "自适应预测过程",
+      "反馈优化",
+      "子智能体精炼",
+      "事件交互分析"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/04/elecload-adaptive-electricity-load-forecasting-guided-by-multiple-events.md"
+  }
+]
