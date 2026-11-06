@@ -1,0 +1,34 @@
+[
+  {
+    "arxiv_id": "2611.08094",
+    "version": 1,
+    "title": "PersonaAgent: Retrieval-Augmented Transaction Anomaly Scoring with Refreshable Multi-Entity Persona Memory",
+    "authors": [
+      "Zhengyu Fang",
+      "Liang Wang",
+      "Yingtong Dou",
+      "Yuzhong Chen",
+      "Shubham Jain"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.08094",
+    "pdf_url": "https://arxiv.org/pdf/2611.08094v1",
+    "github_url": "",
+    "published": "2026-11-05",
+    "tags": [
+      "Agentic Anomaly Detection",
+      "Transaction Anomaly Detection",
+      "Refreshable Memory",
+      "Retrieval-Augmented Scoring",
+      "Persona Memory",
+      "Industrial Deployment",
+      "Payment Networks",
+      "Entity Behavior Signals"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/05/personaagent-retrieval-augmented-transaction-anomaly-scoring-with-refreshable-mu.md"
+  }
+]
