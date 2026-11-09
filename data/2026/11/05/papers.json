@@ -1,5 +1,39 @@
 [
   {
+    "arxiv_id": "2611.08795",
+    "version": 1,
+    "title": "MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis",
+    "authors": [
+      "Mingrui Ma",
+      "Tian Tan",
+      "Jinsi Guo",
+      "Jessica Rose",
+      "Yiwen Dong"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.08795",
+    "pdf_url": "https://arxiv.org/pdf/2611.08795v1",
+    "github_url": "",
+    "published": "2026-11-05",
+    "tags": [
+      "LLM-Assisted Clinical Interpretation",
+      "Human Motion Tokenizer",
+      "Structured Representation",
+      "In-Context Learning",
+      "Gait Analysis",
+      "Time Series to Report",
+      "Semantic Gap Bridging",
+      "Clinical Diagnosis",
+      "Motion Signals"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/05/motiondecipher-llm-assisted-clinical-interpretation-of-human-motion-signals-for.md"
+  },
+  {
     "arxiv_id": "2611.08094",
     "version": 1,
     "title": "PersonaAgent: Retrieval-Augmented Transaction Anomaly Scoring with Refreshable Multi-Entity Persona Memory",
@@ -30,5 +64,39 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/11/05/personaagent-retrieval-augmented-transaction-anomaly-scoring-with-refreshable-mu.md"
+  },
+  {
+    "arxiv_id": "2611.08568",
+    "version": 1,
+    "title": "Personalized health coaching via coachable health age and counterfactual wearable trajectories",
+    "authors": [
+      "Simon A. Lee",
+      "Zeinab Esmaeilpour",
+      "Menglian Zhou",
+      "Marius Guerard",
+      "Sohrab Sidhu"
+    ],
+    "author_count": 20,
+    "categories": [
+      "q-bio.QM",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.08568",
+    "pdf_url": "https://arxiv.org/pdf/2611.08568v1",
+    "github_url": "",
+    "published": "2026-11-05",
+    "tags": [
+      "可穿戴传感器",
+      "健康时序",
+      "反事实轨迹预测",
+      "世界模型",
+      "智能体工作流",
+      "个性化健康指导",
+      "可解释健康年龄",
+      "多变量时序预测",
+      "临床安全验证"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/05/personalized-health-coaching-via-coachable-health-age-and-counterfactual-wearabl.md"
   }
 ]

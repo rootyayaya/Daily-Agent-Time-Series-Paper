@@ -1,0 +1,141 @@
+[
+  {
+    "arxiv_id": "2611.09502",
+    "version": 1,
+    "title": "TimeOmni-Live: Continuous & Live Time Series Understanding with Long-Term Memory",
+    "authors": [
+      "Tong Guan",
+      "Alexander Chemeris",
+      "Yiqing Guo",
+      "Warren Jin",
+      "Zhao Li"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.09502",
+    "pdf_url": "https://arxiv.org/pdf/2611.09502v1",
+    "github_url": "",
+    "published": "2026-11-06",
+    "tags": [
+      "时间序列语言模型",
+      "连续流式理解",
+      "长期记忆",
+      "混合记忆机制",
+      "实时推理",
+      "边缘部署",
+      "时间序列报告生成",
+      "状态保持",
+      "跨窗口推理",
+      "基准数据集"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/06/timeomni-live-continuous-live-time-series-understanding-with-long-term-memory.md"
+  },
+  {
+    "arxiv_id": "2611.09298",
+    "version": 1,
+    "title": "Towards an Autonomous AI Steward for Large-Scale Physics Experiments: Integrating Causal Diagnostics, RAG, and Conformal Prediction",
+    "authors": [
+      "Oliver Noll",
+      "Nicholas Tan Jerome",
+      "Alexander Lehnen",
+      "Frank Simon",
+      "Frank Maas"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.09298",
+    "pdf_url": "https://arxiv.org/pdf/2611.09298v1",
+    "github_url": "",
+    "published": "2026-11-06",
+    "tags": [
+      "Multi-Agent System",
+      "RAG",
+      "Causal Discovery",
+      "Conformal Prediction",
+      "Anomaly Detection",
+      "Diagnostic Report",
+      "Industrial Monitoring",
+      "Human-in-the-Loop",
+      "Physics Experiments",
+      "Time Series"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/06/towards-an-autonomous-ai-steward-for-large-scale-physics-experiments-integrating.md"
+  },
+  {
+    "arxiv_id": "2611.09476",
+    "version": 1,
+    "title": "LEMMO: A Large Electromagnetic Model leveraging Pretrained LLMs for Million-Sample Signal Understanding",
+    "authors": [
+      "Mingkai Li",
+      "Jiajun Wu",
+      "Yihan Mao",
+      "Zilin Sang",
+      "Taosong Yu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.SD"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.09476",
+    "pdf_url": "https://arxiv.org/pdf/2611.09476v1",
+    "github_url": "https://github.com/N1rv4n4/LEMMO",
+    "published": "2026-11-06",
+    "tags": [
+      "电磁信号理解",
+      "LLM多模态扩展",
+      "长信号描述生成",
+      "指令驱动识别",
+      "信号到文本",
+      "百万级样本处理",
+      "线性注意力编码器",
+      "时序重采样",
+      "信号证据检索",
+      "结构化查询",
+      "事实监督",
+      "大规模信号数据集"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/06/lemmo-a-large-electromagnetic-model-leveraging-pretrained-llms-for-million-sampl.md"
+  },
+  {
+    "arxiv_id": "2611.09372",
+    "version": 1,
+    "title": "Enabling Privacy-Preserving Natural Language Access to Industrial Smart Meter Data",
+    "authors": [
+      "Carlos Martín-Abellán",
+      "Mark Kröll"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.DB",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.09372",
+    "pdf_url": "https://arxiv.org/pdf/2611.09372v1",
+    "github_url": "",
+    "published": "2026-11-06",
+    "tags": [
+      "多智能体系统",
+      "自然语言查询",
+      "智能电表数据",
+      "隐私保护",
+      "本地LLM",
+      "工业时序分析",
+      "异常检测",
+      "SQL生成",
+      "可解释报告",
+      "能源管理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/06/enabling-privacy-preserving-natural-language-access-to-industrial-smart-meter-da.md"
+  }
+]
