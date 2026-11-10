@@ -2,18 +2,17 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-11-06 (4 篇)
+## 2026-11-09 (3 篇)
 
-### 核心推荐 (2 篇)
+### 核心推荐 (1 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 8.5 | [TimeOmni-Live: Continuous & Live Time Series Understanding with Long-Term Memory](https://arxiv.org/abs/2611.09502) | 时间序列语言模型, 连续流式理解, 长期记忆 |
-| 8.5 | [Towards an Autonomous AI Steward for Large-Scale Physics Experiments: Integrating Causal Diagnostics, RAG, and Conformal Prediction](https://arxiv.org/abs/2611.09298) | Multi-Agent System, RAG, Causal Discovery |
+| 8.5 | [Learning Evidence-Grounded Reasoning for Context-Aware Time Series Forecasting](https://arxiv.org/abs/2611.12285) | LLM时间序列预测, 证据推理, 思维链 |
 
 ### 可借鉴论文 (2 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [LEMMO: A Large Electromagnetic Model leveraging Pretrained LLMs for Million-Sample Signal Understanding](https://arxiv.org/abs/2611.09476) [[Code](https://github.com/N1rv4n4/LEMMO)] | 电磁信号理解, LLM多模态扩展, 长信号描述生成 |
-| 7.5 | [Enabling Privacy-Preserving Natural Language Access to Industrial Smart Meter Data](https://arxiv.org/abs/2611.09372) | 多智能体系统, 自然语言查询, 智能电表数据 |
+| 6.5 | [DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection](https://arxiv.org/abs/2611.12760) | 神经符号推理, 多步攻击检测, 时序因果约束 |
+| 6.5 | [Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading](https://arxiv.org/abs/2611.12269) | LLM-based Multi-Agent System, Reflection, Feedback Optimization |

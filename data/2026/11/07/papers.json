@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2611.11009",
+    "version": 1,
+    "title": "PIA: Agentic Physics-Informed Runtime Anomaly Detection",
+    "authors": [
+      "Ali Mohammadi Ruzbahani",
+      "Abbas Yazdinejad",
+      "Hadis Karimipour"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.11009",
+    "pdf_url": "https://arxiv.org/pdf/2611.11009v1",
+    "github_url": "",
+    "published": "2026-11-07",
+    "tags": [
+      "Agentic Time Series",
+      "LLM Agent",
+      "Physics-Informed",
+      "Anomaly Detection",
+      "Industrial CPS",
+      "Runtime Monitoring",
+      "Human-Readable Detector",
+      "Evaluation Workbench",
+      "BATADAL",
+      "Attack Attribution"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/07/pia-agentic-physics-informed-runtime-anomaly-detection.md"
+  }
+]

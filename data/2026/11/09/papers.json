@@ -1,0 +1,103 @@
+[
+  {
+    "arxiv_id": "2611.12285",
+    "version": 1,
+    "title": "Learning Evidence-Grounded Reasoning for Context-Aware Time Series Forecasting",
+    "authors": [
+      "Xingpeng Gao",
+      "Mingyue Cheng",
+      "Daoyu Wang",
+      "Huajian Zhang",
+      "Xiaoyu Tao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.12285",
+    "pdf_url": "https://arxiv.org/pdf/2611.12285v1",
+    "github_url": "",
+    "published": "2026-11-09",
+    "tags": [
+      "LLM时间序列预测",
+      "证据推理",
+      "思维链",
+      "强化学习",
+      "上下文特征",
+      "可解释预测",
+      "多教师蒸馏",
+      "数据平衡",
+      "多域基准"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/09/learning-evidence-grounded-reasoning-for-context-aware-time-series-forecasting.md"
+  },
+  {
+    "arxiv_id": "2611.12760",
+    "version": 1,
+    "title": "DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection",
+    "authors": [
+      "Sofia Burkow",
+      "Andrea Agiollo",
+      "Enkeleda Bardhi",
+      "Fernando Kuipers",
+      "Kaitai Liang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.NI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.12760",
+    "pdf_url": "https://arxiv.org/pdf/2611.12760v1",
+    "github_url": "",
+    "published": "2026-11-09",
+    "tags": [
+      "神经符号推理",
+      "多步攻击检测",
+      "时序因果约束",
+      "入侵检测",
+      "逻辑进展检测",
+      "时序规则推理",
+      "可解释诊断链",
+      "工业安全"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/09/deepchronos-temporal-neuro-symbolic-reasoning-for-multi-step-attack-detection.md"
+  },
+  {
+    "arxiv_id": "2611.12269",
+    "version": 1,
+    "title": "Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading",
+    "authors": [
+      "Guangyan Gan",
+      "Jiahao Li",
+      "Jiashun Wang",
+      "Lin William Cong"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.12269",
+    "pdf_url": "https://arxiv.org/pdf/2611.12269v1",
+    "github_url": "",
+    "published": "2026-11-09",
+    "tags": [
+      "LLM-based Multi-Agent System",
+      "Reflection",
+      "Feedback Optimization",
+      "Financial ReasoningBank",
+      "Retrieval-Augmented Generation",
+      "Counterfactual Contribution",
+      "PPO Gating Policy",
+      "Interpretable Decision Pipeline",
+      "Cryptocurrency Trading",
+      "Time Series Analysis"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/09/agent4crypto-a-dual-reflective-and-market-feedback-aligned-llm-based-multi-agent.md"
+  }
+]
