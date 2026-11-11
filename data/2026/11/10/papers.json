@@ -1,0 +1,36 @@
+[
+  {
+    "arxiv_id": "2611.14263",
+    "version": 1,
+    "title": "Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning",
+    "authors": [
+      "Wenqi Zhou",
+      "Leonardo Baldo",
+      "Kai Goebel",
+      "Manuel Arias Chao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "eess.SP"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.14263",
+    "pdf_url": "https://arxiv.org/pdf/2611.14263v1",
+    "github_url": "",
+    "published": "2026-11-10",
+    "tags": [
+      "LLM故障诊断",
+      "知识图谱",
+      "RAG",
+      "工业传感器解释",
+      "可解释诊断链",
+      "证据路由",
+      "物理量-故障关联",
+      "Chain of Physics",
+      "FailureSensorIQ",
+      "约束知识图谱"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/10/chain-of-physics-supporting-fault-diagnosis-with-engineering-inspired-large-lang.md"
+  }
+]
