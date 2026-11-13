@@ -1,0 +1,36 @@
+[
+  {
+    "arxiv_id": "2611.16879",
+    "version": 1,
+    "title": "Context Graph: Explainable Multi-Agent Decision Chains in AI-RAN",
+    "authors": [
+      "Xijun Wang",
+      "Zhaoyang Liu",
+      "Xiang Chen",
+      "Howard H. Yang",
+      "Chenyuan Feng"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.NI",
+      "cs.AI",
+      "cs.IT"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.16879",
+    "pdf_url": "https://arxiv.org/pdf/2611.16879v1",
+    "github_url": "",
+    "published": "2026-11-12",
+    "tags": [
+      "多智能体决策链",
+      "可解释性",
+      "因果追溯",
+      "反事实验证",
+      "AI-RAN",
+      "故障诊断",
+      "上下文图",
+      "Agentic诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/12/context-graph-explainable-multi-agent-decision-chains-in-ai-ran.md"
+  }
+]
