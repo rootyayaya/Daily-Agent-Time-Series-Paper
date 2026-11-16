@@ -1,0 +1,64 @@
+[
+  {
+    "arxiv_id": "2611.18235",
+    "version": 1,
+    "title": "NeoResearch: Literature- and Experience-Guided Autonomous Time Series Model Discovery",
+    "authors": [
+      "Ze Guo",
+      "Mingyue Cheng",
+      "Xiaoyu Tao",
+      "Shuo Yu",
+      "Shangtong Ye"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.18235",
+    "pdf_url": "https://arxiv.org/pdf/2611.18235v1",
+    "github_url": "",
+    "published": "2026-11-13",
+    "tags": [
+      "LLM Agent",
+      "时间序列预测",
+      "自主模型发现",
+      "文献挖掘",
+      "经验记忆",
+      "双循环工作流",
+      "超参数优化",
+      "实验反馈",
+      "知识引导"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/13/neoresearch-literature-and-experience-guided-autonomous-time-series-model-discov.md"
+  },
+  {
+    "arxiv_id": "2611.17680",
+    "version": 1,
+    "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
+    "authors": [
+      "Xintong Wang",
+      "Haihan Nan",
+      "Ruidong Li"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.17680",
+    "pdf_url": "https://arxiv.org/pdf/2611.17680v1",
+    "github_url": "https://github.com/Shelton1202/ACU-Bench",
+    "published": "2026-11-13",
+    "tags": [
+      "多模态时间序列预测",
+      "文本-历史关系诊断基准",
+      "AIoT",
+      "错误分解",
+      "预测修正控制",
+      "零样本评估",
+      "时间序列与文本对齐"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/13/aligned-conflicting-or-unspecified-a-diagnostic-benchmark-for-multimodal-time-se.md"
+  }
+]
