@@ -1,0 +1,105 @@
+[
+  {
+    "arxiv_id": "2611.21178",
+    "version": 1,
+    "title": "TRACK: Tool-Augmented Reasoning over Time Series for Fault Diagnosis in Power Management System",
+    "authors": [
+      "Erkan Bayram",
+      "Debanjan Ghosh",
+      "Li Zhu",
+      "Sambarta Dasgupta"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.21178",
+    "pdf_url": "https://arxiv.org/pdf/2611.21178v1",
+    "github_url": "",
+    "published": "2026-11-16",
+    "tags": [
+      "Agentic Time Series",
+      "Tool-Augmented Reasoning",
+      "Fault Diagnosis",
+      "Power Management System",
+      "Time Series Report Generation",
+      "Small Language Model",
+      "On-Device LLM",
+      "Physics-Grounded Diagnosis",
+      "Structured Diagnostic Report",
+      "Rubric-Based Evaluation",
+      "Multi-Load Benchmark",
+      "Out-of-Distribution Generalization"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/11/16/track-tool-augmented-reasoning-over-time-series-for-fault-diagnosis-in-power-man.md"
+  },
+  {
+    "arxiv_id": "2611.20579",
+    "version": 1,
+    "title": "Language Models Meet Vibration Testing for LEO Constellation Satellites with Calibrated Response Prediction from Few-show Sweeps",
+    "authors": [
+      "Jun Wu",
+      "Deming Li",
+      "Zhenming Zheng",
+      "Honghao Yue",
+      "Fei Yang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.20579",
+    "pdf_url": "https://arxiv.org/pdf/2611.20579v1",
+    "github_url": "",
+    "published": "2026-11-16",
+    "tags": [
+      "LLM-driven engineering analysis",
+      "deterministic validation gates",
+      "hallucination detection",
+      "structured information extraction",
+      "vibration testing",
+      "calibrated response prediction",
+      "conformal prediction",
+      "industrial fault diagnosis"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/16/language-models-meet-vibration-testing-for-leo-constellation-satellites-with-cal.md"
+  },
+  {
+    "arxiv_id": "2611.20398",
+    "version": 1,
+    "title": "Deploying a Control-Logic LLM Assistant in Air-Gapped Power Plants: Lessons in Source Authority and Bounded Retrieval",
+    "authors": [
+      "Yiwei Fu",
+      "Nicholas Gabriel"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.20398",
+    "pdf_url": "https://arxiv.org/pdf/2611.20398v1",
+    "github_url": "",
+    "published": "2026-11-16",
+    "tags": [
+      "工业控制逻辑",
+      "LLM助手",
+      "工具调用",
+      "知识图谱",
+      "证据检索",
+      "有界检索",
+      "气隙环境",
+      "操作员辅助",
+      "确定性执行",
+      "回退意图分类"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/16/deploying-a-control-logic-llm-assistant-in-air-gapped-power-plants-lessons-in-so.md"
+  }
+]

@@ -2,15 +2,17 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-11-13 (2 篇)
+## 2026-11-16 (3 篇)
 
-### 核心推荐 (0 篇)
-
-暂无。
-
-### 可借鉴论文 (2 篇)
+### 核心推荐 (2 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 7.5 | [NeoResearch: Literature- and Experience-Guided Autonomous Time Series Model Discovery](https://arxiv.org/abs/2611.18235) | LLM Agent, 时间序列预测, 自主模型发现 |
-| 6.5 | [Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting](https://arxiv.org/abs/2611.17680) [[Code](https://github.com/Shelton1202/ACU-Bench)] | 多模态时间序列预测, 文本-历史关系诊断基准, AIoT |
+| 9.5 | [TRACK: Tool-Augmented Reasoning over Time Series for Fault Diagnosis in Power Management System](https://arxiv.org/abs/2611.21178) | Agentic Time Series, Tool-Augmented Reasoning, Fault Diagnosis |
+| 8.5 | [Language Models Meet Vibration Testing for LEO Constellation Satellites with Calibrated Response Prediction from Few-show Sweeps](https://arxiv.org/abs/2611.20579) | LLM-driven engineering analysis, deterministic validation gates, hallucination detection |
+
+### 可借鉴论文 (1 篇)
+
+| 分数 | 论文 | 标签 |
+|:----:|------|------|
+| 6.5 | [Deploying a Control-Logic LLM Assistant in Air-Gapped Power Plants: Lessons in Source Authority and Bounded Retrieval](https://arxiv.org/abs/2611.20398) | 工业控制逻辑, LLM助手, 工具调用 |
