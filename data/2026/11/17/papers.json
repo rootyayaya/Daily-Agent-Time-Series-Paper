@@ -1,0 +1,136 @@
+[
+  {
+    "arxiv_id": "2611.22288",
+    "version": 1,
+    "title": "ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents",
+    "authors": [
+      "Arunkumar V",
+      "Gangadharan G. R.",
+      "S. Senthilkumar"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.22288",
+    "pdf_url": "https://arxiv.org/pdf/2611.22288v1",
+    "github_url": "",
+    "published": "2026-11-17",
+    "tags": [
+      "LLM Agent",
+      "预测性维护",
+      "物理约束",
+      "参考监控器",
+      "对抗攻击防御",
+      "传感器异常检测",
+      "C-MAPSS",
+      "工业故障诊断",
+      "时序报告生成",
+      "证据路由"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/17/confguard-a-physics-grounded-reference-monitor-for-predictive-maintenance-large.md"
+  },
+  {
+    "arxiv_id": "2611.23045",
+    "version": 1,
+    "title": "ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents",
+    "authors": [
+      "Yicheng Tao",
+      "Yuante Li",
+      "Zipei Fan"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.23045",
+    "pdf_url": "https://arxiv.org/pdf/2611.23045v1",
+    "github_url": "",
+    "published": "2026-11-17",
+    "tags": [
+      "LLM Agent",
+      "Forecasting Agent",
+      "Benchmark",
+      "Evidence Routing",
+      "Memory Strategy",
+      "Web Search",
+      "Prediction Market",
+      "Time Series Forecasting",
+      "Retrieval-Augmented Generation",
+      "Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/17/forecastgym-a-live-controlled-and-replayable-benchmark-for-forecasting-agents.md"
+  },
+  {
+    "arxiv_id": "2611.22016",
+    "version": 1,
+    "title": "An Explainable Agentic AI Framework for Distribution System Load Restoration",
+    "authors": [
+      "S. M. Monzurul Hoque Chowdhury",
+      "Qinghua Li"
+    ],
+    "author_count": 2,
+    "categories": [
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.22016",
+    "pdf_url": "https://arxiv.org/pdf/2611.22016v1",
+    "github_url": "",
+    "published": "2026-11-17",
+    "tags": [
+      "多智能体系统",
+      "LLM智能体",
+      "可解释AI",
+      "决策仲裁",
+      "记忆反馈",
+      "解释生成",
+      "电力系统恢复",
+      "时序决策",
+      "可行性验证",
+      "工业诊断"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/17/an-explainable-agentic-ai-framework-for-distribution-system-load-restoration.md"
+  },
+  {
+    "arxiv_id": "2611.22248",
+    "version": 1,
+    "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
+    "authors": [
+      "Yishu Ji",
+      "Zhihan Jiang",
+      "Will Ke Wang",
+      "Yuang Fan",
+      "Anind K. Dey"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.22248",
+    "pdf_url": "https://arxiv.org/pdf/2611.22248v1",
+    "github_url": "",
+    "published": "2026-11-17",
+    "tags": [
+      "多智能体LLM",
+      "被动传感",
+      "行为时间序列",
+      "零训练推理",
+      "知识驱动",
+      "可解释推理",
+      "心理健康监测",
+      "领域知识注入",
+      "无监督异常检测"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/17/oak-mind-zero-training-mental-health-change-inference-from-passive-sensing-via-k.md"
+  }
+]

@@ -2,17 +2,18 @@
 
 每日 arXiv 时序智能体论文自动摘要 | Daily Agentic Time Series Paper Summaries
 
-## 2026-11-16 (3 篇)
+## 2026-11-17 (4 篇)
 
-### 核心推荐 (2 篇)
-
-| 分数 | 论文 | 标签 |
-|:----:|------|------|
-| 9.5 | [TRACK: Tool-Augmented Reasoning over Time Series for Fault Diagnosis in Power Management System](https://arxiv.org/abs/2611.21178) | Agentic Time Series, Tool-Augmented Reasoning, Fault Diagnosis |
-| 8.5 | [Language Models Meet Vibration Testing for LEO Constellation Satellites with Calibrated Response Prediction from Few-show Sweeps](https://arxiv.org/abs/2611.20579) | LLM-driven engineering analysis, deterministic validation gates, hallucination detection |
-
-### 可借鉴论文 (1 篇)
+### 核心推荐 (1 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 6.5 | [Deploying a Control-Logic LLM Assistant in Air-Gapped Power Plants: Lessons in Source Authority and Bounded Retrieval](https://arxiv.org/abs/2611.20398) | 工业控制逻辑, LLM助手, 工具调用 |
+| 8.5 | [ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents](https://arxiv.org/abs/2611.22288) | LLM Agent, 预测性维护, 物理约束 |
+
+### 可借鉴论文 (3 篇)
+
+| 分数 | 论文 | 标签 |
+|:----:|------|------|
+| 7.5 | [ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents](https://arxiv.org/abs/2611.23045) | LLM Agent, Forecasting Agent, Benchmark |
+| 7.5 | [An Explainable Agentic AI Framework for Distribution System Load Restoration](https://arxiv.org/abs/2611.22016) | 多智能体系统, LLM智能体, 可解释AI |
+| 7.5 | [OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs](https://arxiv.org/abs/2611.22248) | 多智能体LLM, 被动传感, 行为时间序列 |
