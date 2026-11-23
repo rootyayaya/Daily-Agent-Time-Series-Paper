@@ -1,0 +1,110 @@
+[
+  {
+    "arxiv_id": "2611.27556",
+    "version": 1,
+    "title": "Bringing AI Assistance to the Beznau Nuclear Power Plant: A Hierarchical System of LLM Agents for Reactor Monitoring",
+    "authors": [
+      "Wenqi Zhou",
+      "Leonardo Baldo",
+      "Edwin Kolbe",
+      "Manuel Arias Chao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.27556",
+    "pdf_url": "https://arxiv.org/pdf/2611.27556v1",
+    "github_url": "",
+    "published": "2026-11-20",
+    "tags": [
+      "LLM Agents",
+      "Hierarchical Multi-Agent",
+      "Industrial Monitoring",
+      "Nuclear Power Plant",
+      "Reactor Monitoring",
+      "Anomaly Investigation",
+      "Traceability",
+      "Evidence Routing",
+      "Domain Expertise as Procedures",
+      "Advisory System",
+      "Tool Use",
+      "Read-only Access",
+      "SAP Systems",
+      "Safety-critical AI",
+      "Organizational Lessons"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/20/bringing-ai-assistance-to-the-beznau-nuclear-power-plant-a-hierarchical-system-o.md"
+  },
+  {
+    "arxiv_id": "2611.27725",
+    "version": 1,
+    "title": "A Cognitive Agentic AI Framework for Interactive Process Analysis and Optimization",
+    "authors": [
+      "Trung Ngoc Trinha",
+      "Roman Tschentscher",
+      "Trong Dong Nguyen",
+      "Trung Thanh Nguyen",
+      "Anna Trubetskaya"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.27725",
+    "pdf_url": "https://arxiv.org/pdf/2611.27725v1",
+    "github_url": "",
+    "published": "2026-11-20",
+    "tags": [
+      "Agentic AI",
+      "LLM Agent",
+      "Process Optimization",
+      "Bayesian Optimization",
+      "Surrogate Modeling",
+      "Human-in-the-Loop",
+      "Multi-Agent System",
+      "Industrial Fault Diagnosis",
+      "Time Series Analysis",
+      "RAG"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/20/a-cognitive-agentic-ai-framework-for-interactive-process-analysis-and-optimizati.md"
+  },
+  {
+    "arxiv_id": "2611.27286",
+    "version": 1,
+    "title": "Belief-State Management Meets Rubric Rewards for Agentic Forecasting",
+    "authors": [
+      "Jingyi Chai",
+      "Yun Liao",
+      "Hao Lu",
+      "Kemeng Zhang",
+      "Bingyang Zheng"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.27286",
+    "pdf_url": "https://arxiv.org/pdf/2611.27286v1",
+    "github_url": "",
+    "published": "2026-11-20",
+    "tags": [
+      "LLM Agent",
+      "Belief-State Management",
+      "Rubric Rewards",
+      "Forecasting",
+      "ReAct",
+      "PPO",
+      "GRPO",
+      "Process Reward",
+      "Context Compression",
+      "Agentic Forecasting"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/20/belief-state-management-meets-rubric-rewards-for-agentic-forecasting.md"
+  }
+]
