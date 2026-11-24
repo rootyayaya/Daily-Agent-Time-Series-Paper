@@ -1,0 +1,95 @@
+[
+  {
+    "arxiv_id": "2611.29690",
+    "version": 1,
+    "title": "MedTimeQ: Query-guided fusion of time-series foundation models and LLMs for multi-lead ECG classification",
+    "authors": [
+      "Kiana Taktehrani",
+      "Maryam Hosseini",
+      "Arash Mohammadi"
+    ],
+    "author_count": 3,
+    "categories": [
+      "eess.SP"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.29690",
+    "pdf_url": "https://arxiv.org/pdf/2611.29690v1",
+    "github_url": "https://github.com/kkianamm/MedTimeQ",
+    "published": "2026-11-22",
+    "tags": [
+      "时序基础模型",
+      "LLM融合",
+      "ECG分类",
+      "多导联时序",
+      "查询引导融合",
+      "语义原型学习",
+      "参数高效微调",
+      "医疗时间序列",
+      "临床语义",
+      "门控残差融合"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/22/medtimeq-query-guided-fusion-of-time-series-foundation-models-and-llms-for-multi.md"
+  },
+  {
+    "arxiv_id": "2611.29128",
+    "version": 1,
+    "title": "Pain Reassessment from Pulse Waveforms with Language Model Explanations",
+    "authors": [
+      "Cheng Ding",
+      "Jiaming Liu",
+      "Daoqiang Zhang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.29128",
+    "pdf_url": "https://arxiv.org/pdf/2611.29128v1",
+    "github_url": "",
+    "published": "2026-11-22",
+    "tags": [
+      "LLM解释生成",
+      "生理信号分析",
+      "证据链接",
+      "临床决策支持",
+      "纵向时序建模",
+      "可解释性",
+      "医疗健康"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/22/pain-reassessment-from-pulse-waveforms-with-language-model-explanations.md"
+  },
+  {
+    "arxiv_id": "2611.29721",
+    "version": 1,
+    "title": "LAF-ECG: Multi-Resolution Lead-Aware Fusion of Time-Series and Language Foundation Models for ECG Classification",
+    "authors": [
+      "Kiana Taktehrani",
+      "Maryam Hosseini",
+      "Amir Keynia",
+      "Aram Montazami",
+      "Arash Mohammadi"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.29721",
+    "pdf_url": "https://arxiv.org/pdf/2611.29721v1",
+    "github_url": "https://github.com/kkianamm/LAF-ECG",
+    "published": "2026-11-22",
+    "tags": [
+      "时间序列基础模型",
+      "语言基础模型融合",
+      "ECG分类",
+      "多分辨率时序",
+      "导联感知",
+      "双基础模型",
+      "时序-语言对齐",
+      "医疗时间序列"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/22/laf-ecg-multi-resolution-lead-aware-fusion-of-time-series-and-language-foundatio.md"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "arxiv_id": "2611.28800",
+    "version": 1,
+    "title": "HighwayVerse: A Chain-of-Inspection Benchmark for Highway Infrastructure Anomaly Understanding",
+    "authors": [
+      "Junyi Yang",
+      "Zheng Si",
+      "Yilin Zhai",
+      "Pengpeng Ouyang",
+      "Hongxi Wang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.28800",
+    "pdf_url": "https://arxiv.org/pdf/2611.28800v1",
+    "github_url": "",
+    "published": "2026-11-21",
+    "tags": [
+      "多模态大语言模型",
+      "视觉异常检测",
+      "诊断推理链",
+      "检索增强生成",
+      "基础设施巡检",
+      "基准数据集",
+      "可解释诊断",
+      "维护决策"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/11/21/highwayverse-a-chain-of-inspection-benchmark-for-highway-infrastructure-anomaly.md"
+  },
+  {
+    "arxiv_id": "2611.28655",
+    "version": 1,
+    "title": "UACR: Uncertainty-Aware Collaborative Routing for Explainable Industrial Anomaly Inspection",
+    "authors": [
+      "Yiwei Li",
+      "Qiyang Chen",
+      "Zheming Yang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.28655",
+    "pdf_url": "https://arxiv.org/pdf/2611.28655v1",
+    "github_url": "",
+    "published": "2026-11-21",
+    "tags": [
+      "工业异常检测",
+      "可解释性",
+      "不确定性感知路由",
+      "自适应计算",
+      "在线检测",
+      "协作路由",
+      "面向操作员的解释"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/21/uacr-uncertainty-aware-collaborative-routing-for-explainable-industrial-anomaly.md"
+  }
+]
