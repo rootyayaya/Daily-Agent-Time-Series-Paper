@@ -1,0 +1,65 @@
+[
+  {
+    "arxiv_id": "2611.34270",
+    "version": 1,
+    "title": "LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining",
+    "authors": [
+      "Yuntong Chen",
+      "Yingqi Li",
+      "Qiwen Shen",
+      "Guobin Zhao",
+      "Xitian Tian"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.34270",
+    "pdf_url": "https://arxiv.org/pdf/2611.34270v1",
+    "github_url": "",
+    "published": "2026-11-25",
+    "tags": [
+      "Tool Wear Monitoring",
+      "LLM-based Reasoning",
+      "Interpretable Diagnosis",
+      "Multi-Evidence Reasoning",
+      "CNC Machining",
+      "Predictive Maintenance",
+      "Structured Evidence Interface"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/11/25/llm-coupled-interpretable-tool-wear-monitoring-with-multi-evidence-reasoning-in.md"
+  },
+  {
+    "arxiv_id": "2611.34848",
+    "version": 1,
+    "title": "Put the World Back: Timestamps Matter in Time Series Reasoning",
+    "authors": [
+      "Tingrui Huang",
+      "Yuanyuan Deng",
+      "Qingren Yao",
+      "Joaquin Vanschoren",
+      "Mykola Pechenizkiy"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2611.34848",
+    "pdf_url": "https://arxiv.org/pdf/2611.34848v1",
+    "github_url": "https://github.com/tingrui-huang/timestamps-matter",
+    "published": "2026-11-25",
+    "tags": [
+      "时间序列推理",
+      "LLM评估",
+      "时间戳因果结构",
+      "事件-序列对齐",
+      "诊断协议",
+      "捷径学习",
+      "世界状态投影"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/11/25/put-the-world-back-timestamps-matter-in-time-series-reasoning.md"
+  }
+]
